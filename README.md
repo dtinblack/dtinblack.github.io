@@ -1,4 +1,14 @@
-dtinblack.github.com
+Blogging system powered by [Jekyll](http://jekyllrb.com/)
 ====================
 
-Testing GitHub Pages
+Simple Blogging system powered by [Jekyll](http://jekyllrb.com/) and running on GitHub Pages.
+
+
+
+
+Licence
+=======
+
+see [LICENCE.]
+
+
