@@ -1,0 +1,22 @@
+/* CSS Layout */
+
+body {
+  font-family: "Helvetica Neue", "Lucida Grande", "Arial";
+  font-size: 13px;
+  text-align: center;
+  text-stroke: 1px rgba(255,255,255,0.1);
+  color: #555;
+}
+
+footer {
+ clear:both;
+ bottom:0;
+ height:30px;
+ width:100%;
+ min-width:950px;
+ position: fixed; 
+ z-index:100; 
+}
+
+ 
+

@@ -1,17 +1,14 @@
-body {
-  font-family: "Helvetica Neue", "Lucida Grande", "Arial";
-  font-size: 13px;
-  text-align: center;
-  text-stroke: 1px rgba(255,255,255,0.1);
-  color: #555;
-}
-h1,
-h2 {
-  margin: 0;
-  font-size: 22px;
-  color: #343434;
-}
+/* CSS Style */
+
 h1 {
-  text-shadow: 1px 2px 2px #ddd;
+  margin: 30px;
   font-size: 60px;
+  color: #343434;
+  text-align: left;
+  text-shadow: 1px 2px 2px #ddd;
 }
+
+div {
+   font-size: 20px;
+   text-align: center;
+}   
