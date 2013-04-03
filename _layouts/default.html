@@ -7,13 +7,18 @@ title: Blog
 <html lang="en">
 <head>
   <title>{{ site.name }}</title>
+  <meta name="description" content="{{ site.description }}">
   <link rel="stylesheet" href="/assets/css/style.css"/>
   <link rel="stylesheet" href="/assets/css/layout.css"/>
 </head>
  <body>
   {% include header.html %}
   {% include menu.html %}
+  <section>
+   <blockquote class="content">
      {{ content }}
+   </blockquote>  
+  </section>   
   {% include footer.html %}
  </body>
 </html>  

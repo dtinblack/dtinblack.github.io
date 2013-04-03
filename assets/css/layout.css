@@ -34,6 +34,12 @@ ul, li {
 ul li a {
    padding: 10px;
    margin: 0px;
+} 
+
+section {
+  position: absolute;
+  top: 140px;
+  text-indent: 10px;
 }   
 
 footer {
