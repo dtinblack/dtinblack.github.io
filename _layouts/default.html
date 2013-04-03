@@ -11,9 +11,9 @@ title: Blog
   <link rel="stylesheet" href="/assets/css/layout.css"/>
 </head>
  <body>
- <section>    
-  {{ content }}
-  </section>  
+  {% include header.html %}
+  {% include menu.html %}
+     {{ content }}
   {% include footer.html %}
  </body>
 </html>  

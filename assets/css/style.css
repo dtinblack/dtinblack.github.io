@@ -1,24 +1,29 @@
 /* CSS Style */
 
-h1 {
-  margin: 30px;
-  font-size: 60px;
-  color: #343434;
-  text-align: left;
-  text-shadow: 1px 2px 2px #ddd;
+
+.logo {
+     text-indent:40px;
+     font-size: 3.0em;
+     text-transform: uppercase; 
+     color: #343434;
+     text-align: left;
+     text-shadow: 1px 2px 2px #ddd;
 }
 
-h2 {
-
-  margin: 40px;
-  font-size: 50px;
-  color: #343434;
-  text-align: center;
-  text-shadow: 1px 2px 2px #ddd;
-
+.logo a:link,
+.logo a:hover,
+.logo a:visited {
+     color: #343434;
+     text-decoration: none;
 }
 
-div {
-   font-size: 20px;
+.button		{background-color: #CCCCCC; color: #141414;}
+.button:hover	{background-color: #CCCCCC; color: #ffffff;}
+.button:link  {text-decoration: none;}
+
+
+.foot {
+   font-size: 15px;
    text-align: center;
-}   
+   color: #343434;
+}  
