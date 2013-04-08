@@ -52,5 +52,9 @@ footer {
  z-index:100; 
 }
 
- 
+#post_archive ul li {
+
+    display: list-item;
+
+} 
 
