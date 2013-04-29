@@ -33,9 +33,38 @@
    font-size: 15px;
    text-align: center;
    color: #343434;
-}  
+} 
+
+.foot a {
+
+   text-decoration: none;
+
+} 
+
+.post h1 {
+
+     font-size: 0.9em;
+}
+
+.post_archive tr {
+
+      font-size: 1.3em;
+      white-space: pre-line;
+      vertical-align:text-top;
+}
+
+.post_archive a {
+   text-decoration: none;
+}
+
 
 p { 
+   font-size: 1.2em;   
+} 
 
-   font-size: 1.2em;
+p a {
+
+   text-decoration: none;
 }   
+
+  
