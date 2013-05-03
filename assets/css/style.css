@@ -1,6 +1,5 @@
 /* CSS Style */
 
-
 .logo {
      text-indent:40px;
      font-size: 3.0em;
@@ -21,13 +20,10 @@
 .button:hover	{background-color: #CCCCCC; color: #ffffff;}
 .button:link  {text-decoration: none;}
 
-
 .content {
    text-indent: 0px;
    text-align: left;
 }   
-
-
 
 .foot {
    font-size: 15px;
@@ -36,13 +32,10 @@
 } 
 
 .foot a {
-
    text-decoration: none;
-
 } 
 
 .post h1 {
-
      font-size: 0.9em;
 }
 
@@ -52,7 +45,6 @@
 } 
 
 .post_archive tr {
-
       font-size: 1.3em;
       white-space: pre-line;
       vertical-align:text-top;
@@ -63,19 +55,14 @@
 }
 
 .post_archive_date {
-
   color: #CCCCCC;
-
-
 }
-
 
 p { 
    font-size: 1.2em;   
 } 
 
 p a {
-
    text-decoration: none;
 }   
 
