@@ -66,4 +66,8 @@ p a {
    text-decoration: none;
 }   
 
-  
+/* added for math */  
+
+math { 
+   font-size: 1.2em;   
+} 
