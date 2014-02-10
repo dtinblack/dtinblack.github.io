@@ -64,10 +64,18 @@ p {
 
 p a {
    text-decoration: none;
-}   
-
-/* added for math */  
-
-math { 
-   font-size: 1.2em;   
 } 
+
+/* Book Information Style */
+
+.book_info tr {
+      font-size: 1.3em;
+      white-space: pre-line;
+      vertical-align:text-top;
+}
+
+.book_info a {
+   text-decoration: none;
+}  
+
+ 
