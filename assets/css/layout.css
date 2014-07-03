@@ -44,7 +44,7 @@ footer {
  height:30px;
  width:100%;
  min-width:950px;
- position: fixed; 
+ position: fixed;  
  z-index:100; 
 }
 
@@ -52,10 +52,4 @@ footer {
     display: list-item;
 }
 
-/* Book Information */
-/* 
-#book_info ul li {
-    display: list-item;
-}
 
-*/
