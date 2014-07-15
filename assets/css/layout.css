@@ -55,11 +55,14 @@ nav {
   width:100%;
   min-height: 40px;
   background:#CCCCCC;
+  
+  font-size: 1.2em;
+  font-family: "Arial";
 }
 
 nav > a {
   font-family:Helvetica,Arial,sans-serif;
-  font-weight:bold;
+//  font-weight:bold;
   text-decoration:none;
   padding:10px;
   text-align:center;
@@ -71,34 +74,97 @@ nav > a {
 nav > a:hover {background-color: #CCCCCC; color: #ffffff;}
 nav > a:link  {text-decoration: none;}
 
-/* Section */
 
-section {
+/* Overide user agent layout */
+
+h2 { 
+   margin: 10px;
+   font-size: 1.3em;
+   font-family: "Arial";  
+}
+
+h3 {
+   margin: 10px;
+   font-size: 1.0em;
+   font-family: "Arial";
+}
+
+p {
+   margin: 10px;
+   font-size: 1.1em;
+   font-family: "Arial";
+}
+
+
+/* Post */
+
+.post {
   flex: 8;
   overflow-y: scroll;
   text-align: left;
 }
 
-section > p {
-   margin: 5px;
+.post p {
+   margin: 10px;
    font-size: 1.1em;
    font-family: "Arial";
 }
 
-/* Post */
+.post h1 {
+    margin: 10px;
+   font-size: 1.3em;
+   font-family: "Arial";
+}
+
+.post h2 {
+    margin: 10px;
+   font-size: 1.0em;
+   font-family: "Arial";
+
+}
 
 
-/* Post Archive */
+/* Archive */
 
 .archive tr {
       font-size: 1.3em;
       white-space: pre-line;
       vertical-align:text-top;
+      text-align:left;
+          
       
 }
 
+.archive th {
+   font-size: 0.8em;
+   font-family: "Arial";
+
+
+}
+
 .archive a {
+   font-size: 1.2em;
    text-decoration: none;
+   color: inherit;
+}
+
+
+/* About */
+
+.about {
+  flex: 8;
+  overflow-y: scroll;
+  text-align: left;
+}
+
+.about h2 {
+  font-size: 1.0em;
+  font-family: "Arial";
+}
+
+.about a {
+     text-decoration:none;
+     color: inherit;
 }
 
 /* Footer */
@@ -107,10 +173,12 @@ footer {
   flex: 0;
   text-align: center;
   color: #343434;
+
 }
 
 footer > a {
   text-decoration: none;
+  color: inherit;
 }
 
 
