@@ -91,6 +91,12 @@ p {
    font-family: "Arial";
 }
 
+a {
+   text-decoration: none;
+//   color: inherit;
+   color: black; 
+}
+
 
 /* Post */
 
@@ -160,7 +166,9 @@ p {
 
 .about a {
      text-decoration:none;
-     color: inherit;
+//     color: inherit;
+     color: black;
+
 }
 
 /* Footer */
@@ -174,7 +182,8 @@ footer {
 
 footer > a {
   text-decoration: none;
-  color: inherit;
+//  color: inherit;
+   color: black; 
 }
 
 
