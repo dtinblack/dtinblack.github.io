@@ -42,7 +42,7 @@ header > a {
 header > a:link,
 header > a:hover,
 header > a:visited {
-     color: #343434;
+           color: #343434;
 }
 
 /* Navigation */
@@ -93,7 +93,6 @@ p {
 
 a {
    text-decoration: none;
-//   color: inherit;
    color: black; 
 }
 
@@ -113,18 +112,17 @@ a {
 }
 
 .post h1 {
-    margin: 10px;
+   margin: 10px;
    font-size: 1.3em;
    font-family: "Arial";
 }
 
 .post h2 {
-    margin: 10px;
+   margin: 10px;
    font-size: 1.0em;
    font-family: "Arial";
 
 }
-
 
 /* Archive */
 
@@ -133,15 +131,11 @@ a {
       white-space: pre-line;
       vertical-align:text-top;
       text-align:left;
-          
-      
 }
 
 .archive th {
    font-size: 0.8em;
    font-family: "Arial";
-
-
 }
 
 .archive a {
@@ -166,9 +160,7 @@ a {
 
 .about a {
      text-decoration:none;
-//     color: inherit;
      color: black;
-
 }
 
 /* Footer */
@@ -177,13 +169,11 @@ footer {
   flex: 0;
   text-align: center;
   color: #343434;
-
 }
 
 footer > a {
   text-decoration: none;
-//  color: inherit;
-   color: black; 
+  color: black; 
 }
 
 
