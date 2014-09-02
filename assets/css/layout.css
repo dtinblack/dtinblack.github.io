@@ -1,6 +1,8 @@
 /* CSS Layout */
 
-html, body {
+/* removed body */
+
+html {
     margin:0;
     height:100%;
     min-height:100%;
@@ -10,12 +12,21 @@ html, body {
     color: #555;    
 }
 
-body {
+
+.wrapper {
    display: flex;
    display: -webkit-flex;
-   margin:0;
+/*   margin:0; */
+   min-height: 100vh;
    flex-direction: column;
    -webkit-flex-direction: column;
+}
+
+.wrapper-content {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+
 }
 
 /* Header */
@@ -109,14 +120,15 @@ a {
 }
 
 
-
-
 /* Post */
 
 .post {
-  flex: 8;
+  -webkit-flex: 8;
+//  flex: 8;
   overflow-y: scroll;
   text-align: left;
+  // trying to sort out sticky footer
+  // min-height: 100vh;  
 }
 
 .post p {
@@ -180,7 +192,9 @@ a {
 /* Footer */
 
 footer {
-  flex: 0;
+/*  -webkit-flex: 1;
+//  -ms-flex: 1;
+//  flex: 1; */
   text-align: center;
   color: #343434;
 }
@@ -191,5 +205,11 @@ footer > a {
 }
 
 
+/* Media Query */
 
+@media only screen and (max-width : 640px) {
+
+//To do
+
+}
 

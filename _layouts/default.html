@@ -10,6 +10,12 @@ title: General Blog
   <meta name="description" content="Notebook">
   <meta name="keywords" content="Wittgenstein,Mathematics,Computer Science">
   <meta name="author" content="David Black">
+  
+  <!--  added the following for conversion to responsive --!>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width; initial-scale=1; maximum-scale=1">
+  <!-- section finished --!>
+  
   <link rel="stylesheet" href="/assets/css/layout.css"/>
   <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/assets/images/apple-icon-57x57.png" />
   <link rel="apple-touch-icon-precomposed" sizes="76x76" href="/assets/images/apple-icon-76x76.png" />
@@ -29,12 +35,12 @@ title: General Blog
 
 </script>
 </head>
- <body>
+ <body class="wrapper">
   {% include header.html %}
   {% include menu.html %}
-  <div>
-     {{ content }}
-  </div>  
+   <div class="wrapper-content">
+      {{ content }}
+   </div>  
   {% include footer.html %}
  </body>
 </html>  
