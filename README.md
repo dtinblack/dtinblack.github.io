@@ -6,7 +6,7 @@ and served out of [GitHub Pages](http://pages.github.com/).
 
 # Thanks
 
-Many people to thank but special mention to the [ Jekyll Bootstrap ] ( http://jekyllbootstrap.com/ ) for their 
+Many people to thank but special mention to [ Jekyll Bootstrap ] ( http://jekyllbootstrap.com/ ) for their 
 [ Jekyll Introduction ] ( http://jekyllbootstrap.com/lessons/jekyll-introduction.html )
 
 

@@ -1,6 +1,6 @@
 /* CSS Layout */
 
-/* removed body */
+/* removed <body> */
 
 html {
     margin:0;
@@ -124,7 +124,7 @@ a {
 
 .post {
   -webkit-flex: 8;
-//  flex: 8;
+  flex: 8;
   overflow-y: scroll;
   text-align: left;
   // trying to sort out sticky footer
@@ -209,7 +209,14 @@ footer > a {
 
 @media only screen and (max-width : 640px) {
 
-//To do
+/* To do */
+
+header {
+
+/* the following switches the logo off - display: none; */
 
 }
+
+
+} /* end of media */
 
