@@ -2,6 +2,6 @@ safe: true
 source: .
 destination: ./_site
 lsi: false
-description: "Wittgenstein, Mathematics, Health, Computer Science"
+description: "Subjects include Engineering, Philosophy, Science, Literature, Health, Computer Science"
 
 
