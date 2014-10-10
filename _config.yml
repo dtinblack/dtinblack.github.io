@@ -2,6 +2,6 @@ safe: true
 source: .
 destination: ./_site
 lsi: false
-description: "Subjects include Engineering, Philosophy, Science, Literature, Health, Computer Science"
+description: "Blog on subjects covering Engineering, Philosophy, Science, Literature, Health, Computer Science, Business, Art"
 
 
