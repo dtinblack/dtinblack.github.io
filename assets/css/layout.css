@@ -114,6 +114,15 @@ a {
    color: black; 
 }
 
+/* added to improve format when centering text */
+
+center {
+ 
+   font-size: 1.1em;
+   font-family: "Arial";  
+
+}
+
 
 /* Post */
 
