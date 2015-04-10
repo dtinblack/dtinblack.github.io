@@ -1,0 +1,82 @@
+---
+layout: post
+title:  Bayes Theorem Part 3 – To Replace or Not ?  
+description: Description of conditional probabilities.
+---
+
+<p>
+In the previous two posts the difficulties of finding a clear 
+<a href="http://dtinblack.github.io/2015/03/13/archived.html" target="_blank">description of Bayes Theorem</a>
+was described and we started to prepare to rectify this situation with a 
+<a href="http://dtinblack.github.io/2015/02/13/archived.html" target="_blank">description of probabilities.</a> 
+In this post we move onto the final building block: Conditional Probabilities.
+</p>
+
+<p>
+Probabilities are a guide to the possibility of something happening.  They are calculated by dividing the 
+particular event of interest by the number of possible outcomes. For example in the case of a bag containing 
+7 red and 5 blue marbles we can answer the questions about the possibility of pulling a red marble out of 
+the bag, for example:
+
+<center> P( Red ) =  Number of red marbles / Total number of marbles, </center>
+
+<br>
+
+<center> P( Red ) = 7 / 12. </center>
+
+</p>
+
+
+<p>
+
+However, we can ask more interesting questions, such as what is the probability of first pulling out a red 
+marble ( then putting it back into the back – this is important ) and then pulling out a second marble that 
+is blue.  The probability of this happening is: P ( Pulling a Red followed by a Blue ) = ( Number of Red 
+marbles / Total Number of Marbles ) times ( Number of Blue marbles / Total Number of Marbles ):
+
+<center> P( Red followed by another Blue ) = 7 / 12 * 5/12, </center>
+
+<br>
+
+<center> P( Red and Blue ) = 35 / 144, </center>
+
+<p>or approximately 24% chance.</p>
+
+</p>
+
+<p>
+What happens if we don’t return the second marble ? We have changed the total number of possible events 
+and now the probability is: P( Read and Blue ) = 7/12 ( probability of pulling out a red as the first marbles )
+times 5/11 ( probability of pulling out a second marble which is blue given that the total number of 
+marbles is reduced by one), therefore:
+ 
+<center> P( Red and Blue ) = 7 /12 * 5 / 11, </center>
+
+<p>or approximately 26% chance. Therefore the probability has increased because the number of marbles in 
+the bag have been reduced by not replacing the marble. </p>
+</p>
+
+<p>
+The second term ‘5/11’ is called a Conditional Probability and is often represented by P(An event happening | 
+Given that a particular event has already happened ) or in our case P( Pulling a Blue marble out of the bag | 
+Given we have already pulled a Red marble out of the bag), in other words P( Blue | Red ).
+</p>
+
+<p>
+But what is the meaning of a conditional probability ?  There are many instances where an event happens and we 
+would like to know the probability of another event happening. For example, if I catch the flu what is the 
+probability I will a blocked nose? In other words: P( blocked nose | flu ) = ??? ( in my case the probability 
+is high ).
+</p>
+
+<p>
+Whew ! The past two posts have been heavy going but we now have all the elements to describe Bayes Theorem  - 
+onward to the next and final post.
+</p>
+
+
+
+
+
+
+
