@@ -1,0 +1,121 @@
+---
+layout: post
+title:  Bayes Theorem Part 4 - A Working Description  
+description: Description of Bayes Theorem.
+---
+
+<p>
+In the previous three posts we covered: the problems of trying to find a clear description of 
+Bayes Theorem
+<a href="http://dtinblack.github.io/2015/02/13/archived.html" _ target="_blank">on the web</a>, 
+the idea behind 
+<a href="http://dtinblack.github.io/2015/03/13/archived.html" _target="blank">probabilities</a>, 
+and the important case of  
+<a href="http://dtinblack.github.io/2015/04/10/archived.html" _target="blank">
+conditional probability.</a> 
+We are now going to take the last step towards a clearer description of the Bayes Theorem.
+</p>
+
+<p>
+To illustrate the idea behind Bayes Theorem let’s use the example of two rival football clubs: Red FC 
+and Blue United who have played each other for 20 seasons ( a total of 40 games ).  The results are that 
+Red FC have won 15 out of the last 40 games therefore the probability of winning the next game is 15 / 40 or 
+37.5 %  ( good betting odds ? ). However, news arrives that the next game will be played at home. 
+Digging further into previous results we find:
+</p>
+
+<p>
+
+<center>
+
+<div class="post_table">
+
+<table>
+  <tr>
+    <th></th>
+    <th>Home</th>		
+    <th>Away</th>
+  </tr>
+  <tr>
+    <td>Red FC Win</td>
+    <td>12</td>		
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Red FC Draw</td>
+    <td>3</td>		
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Red FC Lose</td>
+    <td>7</td>		
+    <td>13</td>
+  </tr>
+</table>
+
+</div>
+
+</center>
+
+</p>
+
+<p>
+The results show that Red FC has a better performance at home. 
+Bayes Theorem can be used to update the original probability of 37.5% with the additional information about the team's 
+home and away performance. In this case the probability of 
+Red FC winning when playing at home is ( using mathematical symbols where P() means probability ):
+</p>
+
+<p>
+<center>
+P( Red FC win | home ) = P(home | Red FC win ) * P(Red FC win ) / P( home ), 
+</center>
+</p>
+
+<p>
+From the information shown in the table :
+
+P( home | Red FC win ) = 12 / 15,
+P( Red FC win ) = 15 / 40,
+P( home ) = 20 / 40.
+
+Therefore substituting the values into the formula we get:
+<center>
+P( Red FC win | home ) = ( 12 / 15 * 15 / 40 )  / ( 20 / 40 ) = 1 / 2.
+</center>
+</p>
+
+<p>
+The probability of Red FC wining has been updated with the additional information of 
+home and away performance from 37.5 % to 60% (betting odds are improving!).  The result from the 
+match between Red FC play Blue United can be used to update the table and the probabilities can 
+be re-calculated ready for the next game's prediction. 
+</p>
+
+<p>
+The formula used above describes how a Hypothesis, in this case Red FC winning, 
+is updated with additional Evidence, when they are playing at home. The formula used above can be  
+and can be generalised to: 
+<center>
+P( H | E ) = P( H | E) * P( H )/P( E ),
+</center>
+<p>
+which is the usual description of Bayes Theorem found on the web.
+</p>
+</p>
+
+<p>
+Bayes Theorem is a way to update our understanding of a situation with new evidence. 
+The theorem is at the heart of technologies such as Machine Learning, Artificial Intelligence, 
+health diagnostics, preventing terrorist attacks and searching for boats lost at sea. With 
+increasing amounts of data available about how we live, the  application of this technology 
+continues to grow and will continue to influence the way that we live.
+</p>
+
+
+
+
+
+
+
+

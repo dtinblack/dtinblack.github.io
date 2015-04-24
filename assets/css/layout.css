@@ -124,6 +124,28 @@ center {
 }
 
 
+/* added for tables */
+
+/*
+.post_table table, th, td {
+   font-size: 1.0em;
+   font-family: "Arial";
+   width: 40%;
+}
+
+
+.post_table th, td {
+    padding: 5px;
+    text-align: center;
+}
+*/
+
+.post_table table {
+
+    text-align: center;
+
+}
+
 /* Post */
 
 .post {
@@ -214,6 +236,24 @@ header {
 /* the following switches the logo off - display: none; */
 
 }
+
+/* manage table size on a mobile device */
+
+/*
+
+table, th, td {
+   font-size: 1.0em;
+   font-family: "Arial";
+   width: 70%;
+}
+
+
+th, td {
+    padding: 5px;
+    text-align: center;
+}
+
+*/
 
 
 } /* end of Media Query */
