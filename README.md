@@ -7,7 +7,14 @@ and served out of [GitHub Pages](http://pages.github.com/).
 # Thanks
 
 Many people to thank but special mention to [ Jekyll Bootstrap ] ( http://jekyllbootstrap.com/ ) for their 
-[ Jekyll Introduction ] ( http://jekyllbootstrap.com/lessons/jekyll-introduction.html )
+[ Jekyll Introduction ] ( http://jekyllbootstrap.com/lessons/jekyll-introduction.html ).
+
+More specifically:
+
+- Embedding YouTube into the website [Shrink a Youtube video to responsive width](Shrink a Youtube video to responsive width)
+and [Overcoming “Display forbidden by X-Frame-Options](http://stackoverflow.com/questions/6666423/overcoming-display-forbidden-by-x-frame-options#answer-7469997) on 
+[Stackoverflow](http://stackoverflow.com/).
+
 
 
 
