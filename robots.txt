@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://dtinblack.github.io/sitemap.xml
+Sitemap: http://dtinblack.github.io/Sitemap.xml

@@ -15,6 +15,10 @@ More specifically:
 and [Overcoming “Display forbidden by X-Frame-Options](http://stackoverflow.com/questions/6666423/overcoming-display-forbidden-by-x-frame-options#answer-7469997) on 
 [Stackoverflow](http://stackoverflow.com/).
 
+- [Sitemap FAQ](http://googlewebmastercentral.blogspot.co.uk/2008/01/sitemaps-faqs.html) that includes helpful information about 
+the use of sitemap.xml by Google. [How to Create a Google Sitemap Tutorial](http://erikastokes.com/sitemaps/) - a step by step tutorial.
+[Learn about sitemaps](https://support.google.com/webmasters/answer/156184?hl=en) from Google explains the different tags.
+
 
 
 

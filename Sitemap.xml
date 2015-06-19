@@ -6,53 +6,13 @@
       <priority>1.0</priority>
    </url>
    <url>
-      <loc>http://dtinblack.github.io/2014/09/26/archived.html</loc> 
+       <loc>http://dtinblack.github.io/archive.html</loc> 
        <changefreq>weekly</changefreq>
        <priority>0.8</priority> 
    </url> 
    <url>
-      <loc>http://dtinblack.github.io/2014/09/12/archived.html</loc> 
+      <loc>http://dtinblack.github.io/about.html</loc> 
        <changefreq>weekly</changefreq>
        <priority>0.8</priority> 
-   </url>
-   <url>
-      <loc>http://dtinblack.github.io/2014/08/29/archived.html</loc> 
-       <changefreq>weekly</changefreq>
-       <priority>0.8</priority> 
-   </url>  
-   <url>
-      <loc>http://dtinblack.github.io/2014/08/15/archived.html</loc> 
-       <changefreq>weekly</changefreq>
-       <priority>0.8</priority> 
-   </url> 
-   <url>
-      <loc>http://dtinblack.github.io/2014/08/01/archived.html</loc> 
-       <changefreq>weekly</changefreq>
-       <priority>0.8</priority> 
-   </url>
-   <url>
-      <loc>http://dtinblack.github.io/2014/07/19/archived.html</loc> 
-       <changefreq>weekly</changefreq>
-       <priority>0.8</priority> 
-   </url> 
-   <url>
-      <loc>http://dtinblack.github.io/2014/07/03/archived.html</loc> 
-       <changefreq>weekly</changefreq>
-       <priority>0.8</priority> 
-   </url> 
-   <url>
-      <loc>http://dtinblack.github.io/2014/07/03/archived.html</loc> 
-       <changefreq>weekly</changefreq>
-       <priority>0.8</priority> 
-   </url>     
-   <url>
-      <loc>http://dtinblack.github.io/archive</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-   </url>
-   <url>
-      <loc>http://dtinblack.github.io/about</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
    </url>
 </urlset> 
