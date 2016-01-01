@@ -19,6 +19,8 @@ and [Overcoming “Display forbidden by X-Frame-Options](http://stackoverflow.co
 the use of sitemap.xml by Google. [How to Create a Google Sitemap Tutorial](http://erikastokes.com/sitemaps/) - a step by step tutorial.
 [Learn about sitemaps](https://support.google.com/webmasters/answer/156184?hl=en) from Google explains the different tags.
 
+[webdesignernotebook.com](http://webdesignernotebook.com/css/styling-a-poem-with-advanced-css-selectors/) for 
+the layout example of a poem using CSS.
 
 
 
