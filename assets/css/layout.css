@@ -286,6 +286,18 @@ footer > a {
     margin-bottom: 1.5px;
 }
 
+/* Quotes */
+
+.quotewrapper {
+  -webkit-flex: 8;
+  flex: 8;
+  overflow-y: scroll;
+  text-align: left;
+  margin: 20px;
+
+}
+
+*/
 /* Media Query */
 
 @media only screen and (max-width : 640px) {
