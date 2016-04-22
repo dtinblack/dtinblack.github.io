@@ -299,6 +299,16 @@ footer > a {
 
 }
 
+/* Signature */
+
+.signature {
+
+  text-align: right;
+  margin: 25px;
+  font-size: 15px;
+
+}
+
 */
 /* Media Query */
 
