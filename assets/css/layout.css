@@ -309,6 +309,23 @@ footer > a {
 
 }
 
+/* Line Spacing for an Ordered List */
+
+.orderedlist {
+   margin-left: 0px;
+   font-size: 1.1em; 
+   font-family: "Arial"; 
+}   
+
+.orderedlist ol {
+/* to be used when required */
+}
+
+.orderedlist li {
+   margin: 10px 0; 
+}
+
+
 */
 /* Media Query */
 
