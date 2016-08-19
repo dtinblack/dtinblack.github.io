@@ -12,7 +12,7 @@ Many people to thank but special mention to [ Jekyll Bootstrap ] ( http://jekyll
 More specifically:
 
 - Embedding YouTube into the website [Shrink a Youtube video to responsive width](Shrink a Youtube video to responsive width)
-and [Overcoming “Display forbidden by X-Frame-Options](http://stackoverflow.com/questions/6666423/overcoming-display-forbidden-by-x-frame-options#answer-7469997) on 
+and [Overcoming Display forbidden by X-Frame-Options](http://stackoverflow.com/questions/6666423/overcoming-display-forbidden-by-x-frame-options#answer-7469997) on 
 [Stackoverflow](http://stackoverflow.com/).
 
 - [Sitemap FAQ](http://googlewebmastercentral.blogspot.co.uk/2008/01/sitemaps-faqs.html) that includes helpful information about 
