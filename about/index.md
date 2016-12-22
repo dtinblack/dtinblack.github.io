@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 image:
-  feature: abstract-5.jpg
+  feature: tree-picture.jpg
   credit:
   creditlink: David Black
 comments: false
