@@ -16,6 +16,6 @@ The blog is based on the [HPSTR Theme](/assets/md/abouthpstr) and will continue 
 
 <h2>The Legal Stuff</h2>
 
-<p>The usual disclaimers apply. All views expressed on this blog are my own.
+The usual disclaimers apply. All views expressed on this blog are my own.
 Please do not just repost or republish the entire contents or substantial
-parts of a post without first seeking permission. Otherwise you are free to share.</p>
+parts of a post without first seeking permission. Otherwise you are free to share.
