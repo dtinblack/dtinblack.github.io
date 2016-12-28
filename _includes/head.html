@@ -49,12 +49,11 @@
 <link rel="shortcut icon" href="{{ site.url }}/favicon.png">
 
 <!-- Original HTML removed and added my own - will need to be improved -->
-<!-- Need to add in {{ site.url }}                                     -->
 
-<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/images/apple-icon-57x57.png" />
-<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/images/apple-icon-76x76.png" />
-<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/images/apple-icon-120x120.png" />
-<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/images/apple-icon-152x152.png" />
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="{{ site.url }}/images/apple-icon-57x57.png" />
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="{{ site.url }}/images/apple-icon-76x76.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="{{ site.url }}/images/apple-icon-120x120.png" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="{{ site.url }}/images/apple-icon-152x152.png" />
 
 {% if page.image.background or site.background %}
 {% capture background %}{% if page.image.background %}{{ page.image.background }}{% else %}{{ site.background }}{% endif %}{% endcapture %}
