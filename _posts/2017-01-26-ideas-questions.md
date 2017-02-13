@@ -4,10 +4,6 @@ title: Ideas Into Products - A Few Questions
 description: "Questions to help develop an idea into a business opportunity."
 modified: 2016-12-26
 tags: [ideas, products]
-image:
-  feature:
-  credit:
-  creditlink:
 ---
 
 There is always a point during the discussion of an idea for a new product, or service, when the killer question comes up: "But will it make any money ?" Stumble at this point and an onslaught of questions will follow: "Who is gong to buy it ?", "Why will they buy it ?", and so on until the idea is riddled and gasping. So what can be done ? - Preparation !

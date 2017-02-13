@@ -14,6 +14,8 @@ This blog uses the <a href="http://www.google.co.uk/analytics/">Google Analytics
 
 The blog is based on the [HPSTR Theme](/assets/md/abouthpstr) and will continue to change as I learn more about page layouts and different approaches to web navigation.
 
+Video embeds are responsive and scale with the width of the main content block with the help of [FitVids](http://fitvidsjs.com/).
+
 <h2>The Legal Stuff</h2>
 
 The usual disclaimers apply. All views expressed on this blog are my own.

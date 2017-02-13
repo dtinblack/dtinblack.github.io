@@ -4,10 +4,6 @@ title: Business Insight from Capt. James T. Kirk
 description: "Questions to help develop an idea into a business opportunity."
 modified: 2016-12-26
 tags: [game changers]
-image:
-  feature:
-  credit:
-  creditlink:
 ---
 
 In the opening scene of

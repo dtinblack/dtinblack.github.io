@@ -4,12 +4,7 @@ title: Who needs Business Leadership ?
 description: "The role of leadership in business."
 modified: 2016-11-26
 tags: [leadership, business management]
-image:
-  feature:
-  credit:
-  creditlink:
 ---
-
 
 Lack of leadership is the cry that goes up when a business starts to struggle or fails. It
 is cited as the single cause that has led to its downfall ( similar cries can
