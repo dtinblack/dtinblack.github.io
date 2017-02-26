@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Will Big Data ever be Thickened ?
+title: Will Big Data Ever Be Thickened ?
 description: "A development challenge for Big Data."
 modified: 2016-09-26
 tags: [Big Data]
