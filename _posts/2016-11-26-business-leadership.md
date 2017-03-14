@@ -27,9 +27,9 @@ reorganisation ? - do I have a career ? and so on. The role of the leader is to 
 
 Many examples can be put forward as good business leaders, but the person that stands out for
 me is
-<a href="https://www.theguardian.com/business/2008/jan/11/ici.bbc">Sir John Harvey-Jones</a>
+<a href="https://www.theguardian.com/business/2008/jan/11/ici.bbc" >Sir John Harvey-Jones</a>
 . He first came to my attention on the TV series
-<a href="https://en.wikipedia.org/wiki/Troubleshooter_(TV_series)"<i>Troubleshooter</i></a>
+<a href="http://ow.ly/T1Ct309SW3q">Troubleshooter</i></a>
 with his larger than life character and straight talking (  favourite quote: "there are no bad
 troops, only bad leaders" ) where he gave advice to manufacturing companies.  Also, his book
 <a href="https://books.google.co.uk/books/about/Making_It_Happen.html?id=Av4gOQAACAAJ&redir_esc=y">Making It Happen: Reflections on Leadership</a> remains one of the best books on Leadership, and his many articles and speeches ( for example see
