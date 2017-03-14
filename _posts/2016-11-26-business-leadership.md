@@ -49,4 +49,4 @@ people - who are the best at knowing about the work that they carry out - the re
 changes to meet the new demands. Finally, they need to behave in a way that reinforces the underlying values
 of the business which emphasises how a business conducts itself.
 If this can be achieved then business leadership may gain some respect rather than
-pointed to it as the source of all problems.
+pointed to as the source of all problems.

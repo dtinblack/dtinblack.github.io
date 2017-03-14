@@ -5,7 +5,7 @@ reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url: 
+url:
 
 # http://dtinblack.github.io/
 
@@ -14,11 +14,11 @@ owner:
   name:           David Black
   avatar:         Me.jpg
   bio:            "Having fun using computer technology to develop ideas into products, services and processes."
-  email:
+  email:          bitsofideas@gmail.com
   # by removing - you@email.com - removes from 'about' section.
   # Social networking links used in footer. Update and remove as you like.
-  twitter:
-  facebook:
+  twitter:       bitsofideas
+  facebook:      100015396468403
   github:        dtinblack
   stackexchange:
   linkedin:      david-black-732a1b21

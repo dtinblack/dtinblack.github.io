@@ -39,4 +39,4 @@ and services.
 <li>Drive - filled with indestructible determination to achieve the changes that they went to make.</li>
 </ul>
 
-In Star Trek II, Kirk “received a commendation for original thinking” for reprograming the training simulator so that he could beat the test. The people that change the rules of business have shown that they have the characteristics to 'reprogram' the business world. So what business rules are holding you back ? - how will you reprogram the rules so that you succeed ?
+In Star Trek II, Kirk “received a commendation for original thinking” for reprograming the training simulator so that he could beat the test. The people that change the rules of business have shown that they have the characteristics to 'reprogram' the business world. So what business rules are holding you back ? - how will you reprogram the rules so that you will succeed ?

@@ -1,6 +1,7 @@
 # Ignore the following folders
 
 _site/
+.DS_Store
 *.DS_Store
 _drafts
 .sass-cache
