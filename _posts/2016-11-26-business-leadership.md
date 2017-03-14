@@ -33,7 +33,7 @@ me is
 with his larger than life character and straight talking (  favourite quote: "there are no bad
 troops, only bad leaders" ) where he gave advice to manufacturing companies.  Also, his book
 <a href="https://books.google.co.uk/books/about/Making_It_Happen.html?id=Av4gOQAACAAJ&redir_esc=y">Making It Happen: Reflections on Leadership</a> remains one of the best books on Leadership, and his many articles and speeches ( for example see
-<a href="http://www.telegraph.co.uk/finance/2953181/Turnarounds-test-imagination-and-courage.html>Turnarounds test imagination and courage</a> ) give fascinating insight into business leadership.
+<a href="http://www.telegraph.co.uk/finance/2953181/Turnarounds-test-imagination-and-courage.html">Turnarounds test imagination and courage</a> ) give fascinating insight into business leadership.
 
 However, it was a chance discussion that sealed my respect for Harvey-Jones. Many years ago I was in a businesses meeting that included three ex-apprentices from his old company ICI who had been made redundant during major reorganisations ( he had turned
 ICI from a loss making business to the first UK company to make £1 bn profit in 30 months ).
