@@ -38,8 +38,7 @@ troops, only bad leaders" ) where he gave advice to manufacturing companies.  Al
 However, it was a chance discussion that sealed my respect for Harvey-Jones. Many years ago I was in a businesses meeting that included three ex-apprentices from his old company ICI who had been made redundant during major reorganisations ( he had turned
 ICI from a loss making business to the first UK company to make £1 bn profit in 30 months ).
 I asked them how good was he really. The all answered in glowing terms that what I saw on the TV was what he was
-like and although his actions had made them redundant they still held him in high regard. Testament to his
-leadership skills !
+like and although his actions had made them redundant they still held him in high regard. Testament to his leadership skills !
 
 Business leadership is difficult to define and yet it has a direct impact of the way
 that a business manages itself in an uncertain world. The uncertainty brings new demands and
