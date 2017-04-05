@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Who needs Business Leadership ?
+title: Who Needs Business Leadership ?
 description: "The role of leadership in business."
 modified: 2016-11-26
 tags: [leadership, business management]

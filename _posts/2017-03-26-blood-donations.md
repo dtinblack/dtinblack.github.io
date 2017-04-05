@@ -17,7 +17,7 @@ The experience of donating blood has changed a lot from my first pint when we us
 
 Following the trouble I was having donating blood I dug a bit deeper into blood donation in the UK. I was surprised to find that there are only about <a href="http://www.nhsbt.nhs.uk/what-we-do/blood-donation/">3% ( or 1.3m ) registered blood donors in England</a> with the <a href="https://www.theguardian.com/uk-news/2015/jun/05/sharp-drop-new-blood-donors-uk-stocks-at-risk">numbers dropping</a> due to a range of reasons.  To address the problem of falling donation volunteers and bring down costs to help with the NHS costs NHS Give Blood have produced an <a href="http://www.nhsbt.nhs.uk/download/blood-2020.pdf">Blood 2020 A strategy for the blood supply in England and North Wales</a> which outlines many positive initiatives.
 
-Sitting waiting to give blood I wondered what can be done to help increase the numbers of volunteers and came up with a few thoughts:
+Sitting waiting to donate blood I wondered what can be done to help increase the number of volunteers ( and therefore increase the number of donation sessions ) and came up with a few thoughts:
 
 - Raise the profile of donating blood using celebrity endorsement ( I can never forget Vinnie Jones <a href="https://www.youtube.com/watch?v=LxhK_uHS0EE">Hands Only CPR</a> video ). Imagine Gary Barlow endorsing blood donations to his millions of fans or Peter Kay singing on video about the importance of donating blood. How about an Olympian jogging into a sessions around the country ?
 
