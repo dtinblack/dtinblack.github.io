@@ -28,3 +28,20 @@ Sitting waiting to donate blood I wondered what can be done to help increase the
 I am sure that there are many more ideas that can be developed to help people donate more blood.
 
 As for my next donation - having used the mobile app to book a session at a different location than my normal one I will be using it again to lead me to new parts of the country - yes - I could be coming to a donation session near you !
+
+<i>
+Following the publication of this post the NHS Blood and Transplant very kindly responded to the issues that I raised, in summary:
+</i>
+
+NHS Blood and Transplant have made changes to their sessions and the times due to improvements in clinical practice  and to ensure that blood is used appropriately within hospitals which means that blood use has fallen.  This is a trend they are seeing globally. It’s important that they respond to this by collecting the right type of blood, in the right quantities at the right time as efficiently as they can.
+
+Many donors now choose to book from one session to the next. As a result of this, a large percentage of appointments do get booked up in advance. On the one hand this is a good thing for NHS Blood and Transplant because it helps to ensure they are going to achieve the collection target for the sessions that they run and meet the demand of hospitals nationally.  However, this can make booking an appointment more difficult as in effect it reduces the number of appointments that are available to book close to the session date. Also, they always need to ensure we collect enough blood for patients, we also have a duty to ensure that we do not collect too much blood at any one time. Blood has a limited shelf life of just 35 days, so if they collect too much in a short period of time, they would be unable to use it all.
+
+In the past NHS Blood have attempted to hold blood sessions at shopping centres but unfortunately it’s rare to get the green light from the venues due to the risk of the public being exposed to blood. However they often hold large scale recruitments events at universities and shopping centres across the country to register new donors. A recent example of this would be at the [Arndale Centre in Manchester](https://www.organdonation.nhs.uk/news-and-campaigns/news/operation-donation-hits-shopping-centres-to-create-a-buzz-in-support-of-organ-donation/) where they held an Organ Donation event that included a life size game of [Operation](https://en.wikipedia.org/wiki/Operation_(game)). The event  generated a great buzz around the centre and resulted in them recruiting 265 new organ donors in one day.  A great success for NHS Blood and Transplant.
+
+NHS Blood and Transplant do have celebrity support and they continue to try and work with celebrities, especially those who are blood donors and whose lives have been contributed by blood donations. Celebrity supporters have included: [Gary Lineker](https://www.youtube.com/watch?v=_TZelKWrZLc), [Jayne Torvill](https://www.youtube.com/watch?v=g1TRU7HTuEA ), [Jovian Wade](https://www.youtube.com/watch?v=HlHm_hutpNY),
+[Rachel Riley]( https://www.youtube.com/watch?v=P3qg6K0ulm4 ),
+[Sarah Beeny](https://www.youtube.com/watch?v=bkU-mLKfhQk),
+[Graham Bell]( https://www.youtube.com/watch?v=tC6gtDOZGk4 ),
+[Greg James]( https://www.youtube.com/watch?v=9SQdmout1PE )
+[Twin B]( https://www.youtube.com/watch?v=Z3J7eVUSXjU ) and [Amanda Holding](http://www.hellomagazine.com/healthandbeauty/health-and-fitness/201207248759/team-give-blood-donate/ ) However they have discovered that donors are more motivated by the experiences of ordinary people, for example family members or just regular people in the news who they better relate to,  so they try and work with them more than celebrities to emphasise how blood donation saves lives.
