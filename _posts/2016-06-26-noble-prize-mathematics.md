@@ -21,7 +21,7 @@ missing out mathematics is a serious lack of recognition of its impact on the �
 of mankind.”
 
 Therefore I would like to you to consider a Noble Prize for Mathematics. Mathematics forces
-a clear understanding of concepts and assumptions involved in a problem. It provides a logical framework that is used to explore and understand the world that we live in. Mathematicians are continuously developing this framework which increases that ultimately affects the way that we live. It is interesting to note that outside of the awards for literature and peace there is invariably some form of mathematics supporting the subject that has been awarded a prize. Since the first Noble Prize awarded in 1901 mathematicians have made significant breakthroughs in our understanding and impact on the way we live, for example: [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing), [Emmy Noether](https://en.wikipedia.org/wiki/Emmy_Noether), [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann), [R. A. Fisher](https://en.wikipedia.org/wiki/Ronald_Fisher), [Rudolf Kálmán](https://en.wikipedia.org/wiki/Rudolf_E._K%C3%A1lm%C3%A1n) are just a few who could have been considered for a prize in mathematics. Imagine how many more breakthroughs in mathematics there would have been with the support of £600,000 prize money and worldwide press coverage!
+a clear understanding of concepts and assumptions involved in a problem. It provides a logical framework for exploring and understand the world - where would we be without numbers, geometry and algebra ?. Mathematicians use their skill, determination and imagination to extend the boundaries of our knowledge and develop methodologies and techniques that improve the way that we live. It is interesting to note that outside of the awards for literature and peace there is invariably some form of mathematics supporting the subject that has been awarded a prize. Since the first Noble Prize awarded in 1901 mathematicians have made significant breakthroughs in our understanding and impact on the way we live, for example: [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing), [Emmy Noether](https://en.wikipedia.org/wiki/Emmy_Noether), [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann), [R. A. Fisher](https://en.wikipedia.org/wiki/Ronald_Fisher), [Rudolf Kálmán](https://en.wikipedia.org/wiki/Rudolf_E._K%C3%A1lm%C3%A1n) are just a few who could have been considered for a prize in mathematics. Imagine how many more breakthroughs in mathematics there would have been with the support of £600,000 prize money !
 
 Of course there are awards for mathematicians, for example [The Abel Prize](http://www.abelprize.no/) which is considered the 'maths Nobel' and through the media raises the profile of mathematics. However, the Nobel brand would raise the profile of mathematics to a higher level and a wider audience.
 
@@ -33,7 +33,7 @@ that you were open to the idea of adding mathematics to the list of prizes, then
 financial award - what do you think ?
 
 I can appreciate that you are busy assessing future recipients for the Noble Prizes, but please
-can you find time to consider adding mathematics to the list. Its inclusion to the Noble Prize
+can you find time to consider adding mathematics to the list. Its inclusion to the list of Noble Prizes
 will finally recognise its impact on the “greatest benefits of mankind”.
 
 Best regards,
