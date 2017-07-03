@@ -1,6 +1,6 @@
 ---
 layout: post
-title: There's More to Innovation Than The "ah-hah" Moment
+title: More to Innovation Than "ah-hah" 
 description: "Insights into the innovation process"
 modified: 2017-06-26
 tags: [products, innovation, analysis]
