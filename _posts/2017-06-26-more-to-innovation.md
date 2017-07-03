@@ -1,6 +1,6 @@
 ---
 layout: post
-title: More to Innovation Than "ah-hah" 
+title: More to Innovation Than "ah-hah !"  
 description: "Insights into the innovation process"
 modified: 2017-06-26
 tags: [products, innovation, analysis]
@@ -33,7 +33,7 @@ A better example of analysing a problem when it is written down is:
 [NHS is the reduction of obesity](http://www.nhs.uk/news/2013/02February/Pages/Latest-obesity-stats-for-England-are-alarming-reading.aspx) which is estimated to cost £6bn per year".
 
 The description of the problem is clearly defined and quantified. However, it could be criticised for
-being at too high a level - too abstract. It could be broken down into factors that are contributing to obesity, for example: education, economic, social context, public health etc. which could be quantified, and then alternative solutions explored.
+being at too high a level - too abstract. It could be broken down into factors that are contributing to obesity, for example: education, economic, social context, life style, public health etc. which could be quantified, and then alternative solutions explored.
 
 Ralph Bahna was always looking for competitive advantage, which had to be "neither short-term nor
 flimsily opportunistic". The technique of writing the problem out and critically analysing its content is an effective way to clear out muddled thinking. With a clear problem definition then there is a greater chance of finding a successful solution.
