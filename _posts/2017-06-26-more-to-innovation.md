@@ -25,7 +25,7 @@ fuzzy concepts, wild ideas, and general waffle can be removed. So how would this
 The first thing to observe about the statement is that it identifies a problem:
 "The NHS is slow at innovation" and a solution: "it doesn't have enough money".  Digging deeper there are three concepts that are at best unclear: "slow", "innovation" and "enough". Starting with "slow" it is unclear how slow is slow - is it a perception or are there some hard facts ? ( a quick web
 search produces no hard facts about the speed of innovation in the NHS ). Next "innovation"; another
-search on the web shows that there are many definitions of innovation ( around 1,980,000,000 hits ! ) and therefore scope for many experts and management consultant to debate its definition for many years ahead. Finally "enough" - how much is "enough" ?  - twice the current amount, three times the current amount ?  Therefore we can conclude that the stated problem, and solution, is loaded with confusion and can only lead to further confusion, wasting time and money.
+search on the web shows that there are many definitions of innovation ( around 1,980,000,000 hits ! ) and therefore scope for many experts and management consultant to debate its definition for many years ahead. Finally "enough" - how much is "enough" ?  - twice the current amount, three times the current amount ?  Therefore we can conclude that the stated problem, and solution, is loaded with confusion and can only lead to further confusion, and result in wasting time and money.
 
 A better example of analysing a problem when it is written down is:
 
