@@ -7,7 +7,7 @@ tags: [products, innovation, analysis]
 ---
 
 <p>
-In an a Financial Times Obituary
+In a Financial Times Obituary of
 <a href="https://www.ft.com/content/11d18136-a49a-11e3-b915-00144feab7de?mhq5j=e3">Ralph Bana</a>,
 credited with many innovations in the
 travel and leisure industry, was quoted during an interview with the industry magazine Tour & Travel: "I

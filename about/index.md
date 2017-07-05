@@ -11,7 +11,6 @@ modified: 2016-12-26
 
 Over the years of writing posts I have gathered tips and other resources that I have found helpful - see [Writing Lessons](/assets/md/writing-lessons).
 
-
 This blog uses the <a href="http://www.google.co.uk/analytics/">Google Analytics</a> service to better understand how people are accessing the site. This information is collected in an anonymous form and includes the number of visitors to the site.
 
 The blog is based on the [HPSTR Theme](/assets/md/abouthpstr) and will continue to change as I learn more about page layouts and different approaches to web navigation.
