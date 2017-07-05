@@ -13,7 +13,7 @@ travel and leisure industry, was quoted during an interview with the industry ma
 just don't come in and say "ah-hah" ! The answer relates to clearly defining what the problem is,
 forcing yourself to write it down,
 researching the alternatives, picking one that will ring the bell and then going
-out and selling it".  This is great advice that could be used in any industry, government, or organisation.
+out and selling it".  This is great advice that could be used by any industry, government, or organisation.
 </p>
 
 When a problem is written down on a piece of paper the sentences can be analysed in a way that
