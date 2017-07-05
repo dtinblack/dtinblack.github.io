@@ -1,7 +1,7 @@
 ---
 layout: post
 title: More To Innovation Than "ah-hah !"  
-description: "Insights into the innovation process"
+description: "Simple technique to improve the innovation process"
 modified: 2017-06-26
 tags: [products, innovation, analysis]
 ---

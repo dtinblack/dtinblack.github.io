@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Job Description For A Mathematician
-description: "A Career in Mathematics."
+description: "A career in mathematics ?"
 modified: 2017-04-26
 tags: [mathematics, job description]
 ---

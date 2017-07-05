@@ -1,7 +1,7 @@
 ---
 layout: post
 title: “The Noble Prize for Mathematics is …”
-description: "The case for a Noble Prize for Mathematics."
+description: "The case for a Mathematics Nobel Prize."
 modified: 2017-06-26
 tags: [Mathematics, Nobel Prize]
 ---

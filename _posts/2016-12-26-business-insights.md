@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Business Insight from Capt. James T. Kirk
-description: "Questions to help develop an idea into a business opportunity."
+description: "Captain Kirk sets the example of being a gamechanger."
 modified: 2016-12-26
 tags: [game changers]
 ---

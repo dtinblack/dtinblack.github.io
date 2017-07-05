@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Who Needs Business Leadership ?
-description: "The role of leadership in business."
+description: "Some examples of leadership."
 modified: 2016-11-26
 tags: [leadership, business management]
 ---
@@ -23,7 +23,7 @@ They make the decisions about the future direction of the business and change ta
 The world is a messy place and it is no more less than in a business. Therefore a business
 has to live with uncertainty. This uncertainty permeates into the daily
 activities of its people: where will future orders come from ? - will they have a job after
-reorganisation ? - do I have a career ? and so on. The role of the leader is to make sense of the uncertainty and vocalize it in a way that clarifies and provides support to its people, and through their actions they reinforce the words that they are using.
+reorganisation ? - do I have a career ? and so on. The role of the leader is to make sense of the uncertainty and vocalise it in a way that clarifies and provides support to its people, and through their actions they reinforce the words that they are using.
 
 Many examples can be put forward as good business leaders, but the person that stands out for
 me is

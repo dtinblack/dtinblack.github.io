@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Living With Probabilities
-description: "Probabilities use in many aspects of life.[need to improve]"
+description: "The use of probabilities in many aspects of life."
 modified: 2016-07-26
 tags: [probabilities, weather, football, health]
 ---

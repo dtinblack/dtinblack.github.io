@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Engineering Business Leadership  
-description: "Engineering skills that can lead a business."
+description: "Engineering skills that can be used to lead a business."
 modified: 2017-03-26
 tags: [engineering, business leadership, change management]
 ---
