@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lessons From The Digital Frontline
-description: "Key lessons from a the digital business RentHop"
+description: "Key lessons from the digital business RentHop"
 modified: 2017-05-26
 tags: [digital business, startups, Kaggle, RentHop, entrepreneurs]
 ---
