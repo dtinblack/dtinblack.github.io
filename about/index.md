@@ -10,7 +10,7 @@ modified: 2016-12-26
 ---
 
 <p>
-I enjoy writing, and although I struggle with each sentence, when I manage to express a thought clearly it gives me a sense of achievement. Better still is when a reader understands what I am trying to say.
+I enjoy writing, and when I manage to express a thought clearly in a sentence it gives me a sense of achievement. Better still is when a reader understands what I am trying to say.
 </p>
 
 
