@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Hey ! Google et. al. How About This ?
-description: "A challenge to search engine companies to improve the educational aspects of the web."
+title: The Next Challenge For The Web ?
+description: "A challenge to search engine companies to improve the educational potential of the web."
 modified: 2016-11-26
 tags: [World Wide Web, Learning, Knowledge]
 ---
