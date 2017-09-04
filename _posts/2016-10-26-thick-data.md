@@ -3,7 +3,7 @@ layout: post
 title: Will Big Data Ever Be Thickened ?
 description: "A development challenge for Big Data."
 modified: 2016-09-26
-tags: [Big Data]
+tags: [Big Data, ethnography, Thick Data]
 ---
 
 <a href="https://en.wikipedia.org/wiki/Big_data" >Big Data </a> is the big news. Many businesses, universities and other organisations are investing large amounts of money into developing technology that exploits the many pieces of data that
@@ -35,6 +35,7 @@ can be captured ( see the
 <a href="http://www.myfeel.co/">Feel Wrist Band</a> ) and levels of motivation
 can be measured ( usually measured against set goals ). However, gathering data to analyse the social context, as described in the passage above, has a long way to go.
 
-Therefore the challenge for both computer technologists, and sociologists is: what developments
-in computer technology are required to gather thick data to enable a greater insight into our
-behaviours and motivations?
+The challenge for both computer technologists, and sociologists is: what developments in computer technology are required to gather thick data to enable a greater insight into our behaviours and motivations?
+
+<i>Since writing this post I came across an interesting TED talk -
+<a href="https://www.ted.com/talks/tricia_wang_the_human_insights_missing_from_big_data/transcript?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_143">The human insights missing from big data</a> - given by <a href="">Tricia Wang</a> who discusses the advantages of using 'thick data'.  
