@@ -13,7 +13,7 @@ url:
 owner:
   name:           David Black
   avatar:         Me.jpg
-  bio:            "Having fun exploring the impact of computer and communications technology on business, society and culture."
+  bio:            "Having fun exploring technology, business, society and culture."
   email:          bitsofideas@gmail.com
   # by removing - you@email.com - removes from 'about' section.
   # Social networking links used in footer. Update and remove as you like.
@@ -32,7 +32,7 @@ owner:
 background:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics: 
+google_analytics:
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
