@@ -1,7 +1,7 @@
 ---
 layout: post
-title: But We Need It Now !
-description: "Seperating the hype from reality about the development of new drugs"
+title: But Where Is The Medicine ?
+description: "Seperating the hype from reality about the development of new medication"
 modified: 2017-09-26
 tags: [science, aspirin, drugs, technology, Intellectual Property, Personalised Medicine, Genome]
 ---
@@ -13,7 +13,7 @@ They are eye catching: <b>[DEMENTIA BUSTER New wonder drug hailed as a ‘game c
 
 To get from the eureka moment in the laboratory to an effective medication is very complex. First there is the scientific discovery which establishes new facts , or explanation, that answers a question: what is the cause of cancer ?, why do cells divide ? and why is the blue print for our bodies wrapped up in something called DNA ? Once something new has been discovered it has to be turned into something that can be used. This can require developing new: skills, equipment, processes, and techniques. Finally, it has to be developed into something that people can easily use to cure, or manage, their illness.
 
-Straddling all the stages from scientific breakthrough to medication are many regulations, intellectual property rights, industry standards, etc. some of which may require changing before the medication can be used. Then there is the tension between [science and commerce](https://hbr.org/2014/11/turn-your-science-into-a-business) where ones priorities is to discover new scientific facts and the other wants to take the breakthrough and make money from it ( the gap between the two groups is often called the ominous ["valley of death"](https://sciencebusiness.net/news/76083/How-to-bridge-the-Valley-of-Death) ). Many steps through layers of complexity add up to a long time and lots of money before the medication is available for use.
+Straddling all the stages from scientific breakthrough to medication are many regulations, intellectual property rights, industry standards, etc. some of which may require changing before the medication can be used. Then there is the tension between [science and commerce](https://hbr.org/2014/11/turn-your-science-into-a-business) where ones priorities is to discover new scientific facts and the other wants to take the breakthrough and make money from it ( the gap between the two groups is often called the ominous ["valley of death"](https://sciencebusiness.net/news/76083/How-to-bridge-the-Valley-of-Death) ). Many steps through layers of complexity add up to a long time and lots of money before the new medication is available for use.
 
 To illustrate the complexities in taking a scientific breakthrough into a medicine it is interesting to trace the history of something sits on most cupboard shelves - aspirin. The
 [story starts](http://www.aspirin-foundation.com/history-of-aspirin/aspirin-timeline/) around 400 BC in Greece, when Hippocrates gave women willow leaf tea to relieve the pain of childbirth.
