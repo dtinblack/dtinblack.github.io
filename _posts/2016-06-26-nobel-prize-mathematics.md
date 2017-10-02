@@ -1,13 +1,13 @@
 ---
 layout: post
-title: “The Noble Prize for Mathematics is …”
+title: “The Nobel Prize for Mathematics is …”
 description: "The case for a Mathematics Nobel Prize."
 modified: 2017-06-26
 tags: [Mathematics, Nobel Prize]
 ---
 
 <p>
-Dear Noble Prize Committee Members,
+Dear Nobel Prize Committee Members,
 </p>
 
 For many years I have read the lectures given by the Noble Prize winners. They are a great
