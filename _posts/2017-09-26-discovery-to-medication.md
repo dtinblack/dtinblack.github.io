@@ -3,7 +3,7 @@ layout: post
 title: But Where Is The Medicine ?
 description: "Seperating the hype from reality about the development of new medication"
 modified: 2017-09-26
-tags: [science, aspirin, drugs, technology, Intellectual Property, Personalised Medicine, Genome]
+tags: [science, aspirin, medication, technology, Intellectual Property, Personalised Medicine, Genome]
 ---
 
 <p>Headlines regularly announce the latest scientific breakthroughs which promise radical improvements in the fight against illness.</p>
