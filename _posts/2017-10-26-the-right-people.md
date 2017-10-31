@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Formula From Success
-description: "A formula for managing people and assets"
+description: "A formula for successfully managing people and assets"
 modified: 2016-11-26
 tags: [People, Assets, Value]
 mathjax: true
