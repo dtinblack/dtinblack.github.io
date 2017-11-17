@@ -7,7 +7,7 @@ tags: [Learning, Self-Learning, WWW, BBC]
 ---
 
 <p>On a good day I can answer two of the questions that come up during the BBC's programme <a href="http://www.bbc.co.uk/programmes/b006t6l0">University Challenge</a>:
-the quiz where university students answer questions on a wide range of subjects. Using my smart phone I can answer more - it depends on how fast and accurate I can type !. Answering questions using the web is a powerful thing. But what if I want to learn more about a subject ?
+the quiz where university students answer questions on a wide range of subjects. Using my smart phone I can answer more - it depends on how fast and accurate I can type ! Answering questions using the web is a powerful thing. But what if I want to learn more about a subject ?
 </p>
 
 I often come across a subject when reading about a hobby, developing a new skill or sparked by curiosity, where I need to find out more. But the subject can be like a brick wall built of strange words and unfamiliar concepts. I am stuck !  For me there is only one approach and that is self-learning, in other words, working through the subject by myself. The following is the way that I use the web to help me learn.
