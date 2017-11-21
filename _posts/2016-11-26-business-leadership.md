@@ -43,7 +43,7 @@ like and although his actions had made them redundant they still held him in hig
 Business leadership is difficult to define and yet it has a direct impact of the way
 that a business manages itself in an uncertain world. The uncertainty brings new demands and
 ultimately change. Against this uncertainty, business leaders have to spell out what needs
-to be done in clear and simple words that reach all parts of the organisation. They have to give their
+to be done in clear and simple words that can reach all parts of the organisation. They have to give their
 people - who are the best at knowing about the work that they carry out - the responsibility to make the
 changes to meet the new demands. Finally, they need to behave in a way that reinforces the underlying values
 of the business which emphasises how a business conducts itself.
