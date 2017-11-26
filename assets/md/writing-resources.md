@@ -6,20 +6,20 @@ mathjax: true
 ---
 
 <p>
-Over the years I have gathered tips, advice and writing resources that I have found useful and which I often refer to. I have grouped them together under the following stages I typically follow when writing a post.
+Over the years I have gathered tips, advice and writing resources that I have found useful. I have grouped them together under the following stages which I typically follow when writing a post.
 </p>
 
 <b>Gathering Ideas</b>
 
-The first step is gathering ideas for posts. There are any number of sources for ideas: newspapers, magazines, journals, radio, TV, tweets, conversations, the web etc. Other sources that can generate ideas are:  art exhibitions, museums, sport and theatre. The key point at this stage in the is to jot them down with a few lines about why they are interesting ( I use Google Documents on my smart phone but a pen and notebook is just as effective ).
+The first step is gathering ideas for posts. There are any number of sources: newspapers, magazines, journals, radio, TV, tweets, conversations, blogs etc. Other sources are:  art exhibitions, museums, sport and theatre. The key point at this stage in the is to jot them down with a few lines about why they are interesting ( I use Google Documents on my smart phone but a pen and notebook is just as effective ).
 
 <b>Selecting An Idea To Develop</b>
 
-I set myself a deadline for each post ( I aim to publish a post every month ). Setting a deadline helps further in the process at the editing stage where time pressure can sharpen up a post. I use some questions that I find helpful:
+I set myself a deadline for each post ( I aim to publish a post every month ). Setting a deadline helps at the editing stage where time pressure can sharpen up a post. I use some questions that to guide my topic selection:
 
 - What is the central message of the post ?
 
-- Why is the central message important, useful, new, counterintuitive, or build on previous work ? If the message is exploring a new idea ( whether technological, social, business etc ) then what is it going to change ?
+- Why is the message important ? Will it be useful, new, counterintuitive, or build on previous work ? If the message is exploring a new idea ( whether technological, social, business etc ) then what is it going to change ?
 
 - Who is the reader and why would they want to read the post ?
 

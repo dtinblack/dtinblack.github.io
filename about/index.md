@@ -14,7 +14,7 @@ I enjoy writing, and when I manage to express a thought clearly in a sentence it
 </p>
 
 
-Over the years of writing posts I have gathered advice and other resources that I have found helpful in improving my writing - see [writing resources](/assets/md/writing-resources).
+Over the years of writing posts I have gathered advice and other resources that I have found helpful - see [writing resources](/assets/md/writing-resources).
 
 This blog uses the <a href="http://www.google.co.uk/analytics/">Google Analytics</a> service to better understand how people are accessing the site. This information is collected in an anonymous form and includes the number of visitors to the site.
 
