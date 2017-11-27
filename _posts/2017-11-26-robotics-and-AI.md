@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Robot vs My Plumber
-description: "The problem with Robotics and AI."
+description: "Seeing through Robotics and AI."
 modified: 2016-11-26
 tags: [Robotics, AI, Driverless Cars, Education, Health]
 ---
