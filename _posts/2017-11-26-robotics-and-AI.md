@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A Robot vs My Plumber
-description: "Seeing through Robotics and AI."
+title: The Limits Of Robotics and AI
+description: "The limits of Robotics and AI."
 modified: 2017-11-26
 tags: [Robotics, AI, Driverless Cars, Education, Health]
 ---
