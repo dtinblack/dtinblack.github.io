@@ -3,6 +3,10 @@ layout: post
 title: The Limits Of Robotics and AI
 description: "The limits of Robotics and AI."
 modified: 2017-11-26
+image:
+  feature: features/robotics-and-AI.jpg
+  credit: SiNGLEGADGET
+  creditlink: https://medium.com/singlegadget/the-future-of-humanoid-autonomous-robots-1ae6ff808f29
 tags: [Robotics, AI, Driverless Cars, Education, Health]
 ---
 
