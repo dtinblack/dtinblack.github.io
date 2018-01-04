@@ -4,6 +4,11 @@ title: Gambling On Prostate Cancer
 description: "The consequences of a ‘false positive’ result."
 modified: 2017-12-26
 tags: [False Positive, PSA, Prostate, Medical Tests]
+image:
+  background: backgrounds/false-positive-cancer-test.jpg
+  feature: features/false-positive-cancer-test.jpg
+  credit: Harvard Health Publishing
+  creditlink: https://www.health.harvard.edu/blog/blood-test-results-not-quite-normal-201606029718
 ---
 
 <p>
@@ -31,7 +36,7 @@ is the probability of having prostate cancer ? :
 To keep the numbers simple I have kept the population size down to 100 therefore, the following diagram shows 3 in every 100 who will have prostate cancer - approximately 1 in 33 ( the baseline information ):
 
 <figure>
-<img src="/assets/images/false_positive_prostate_cancer_1.jpg" alt="" align="middle">
+<img src="/images/posts/false_positive_prostate_cancer_1.jpg" alt="" align="middle">
 </figure>
 
 <center><font size="2">Population showing 3 in 100 with prostate cancer</font></center>
@@ -39,7 +44,7 @@ To keep the numbers simple I have kept the population size down to 100 therefore
  The following diagram shows the results from applying the PSA test with an accuracy of 1 in 3 ( 1 in three tests it gives a correct diagnoses ) where the plus signs are positive results:
 
 <figure>
-<img src="/assets/images/false_positive_prostate_cancer_2.jpg" alt="" align="middle">
+<img src="/images/posts/false_positive_prostate_cancer_2.jpg" alt="" align="middle">
 </figure>
 
 <center><font size="2">Population after the results of the PSA test</font></center>
