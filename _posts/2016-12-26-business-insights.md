@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Capt. James T. Kirk's Insights On Rule Breaking
-description: "Captain Kirk sets the example of being a rule changer."
+description: "Captain Kirk sets the example of a rule changer."
 modified: 2017-01-05
 image:
    background: backgrounds/business_insights.jpg
