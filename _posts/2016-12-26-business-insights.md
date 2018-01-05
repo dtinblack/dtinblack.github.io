@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Business Lessons from Capt. James T. Kirk
-description: "Captain Kirk sets the example of being a gamechanger."
+title: Capt. James T. Kirk's Insights On Rule Breaking
+description: "Captain Kirk sets the example of being a rule changer."
 modified: 2016-12-26
 image:
    background: backgrounds/business_insights.jpg
    feature: features/business_insights.jpg
    credit: Nerdist
    creditlink: https://nerdist.com/william-shatner-star-trek-wrath-of-khan-interview/
-tags: [Game Changers, Star Trek, Capt. James T. Kirk]
+tags: [Rule Changers, Star Trek, Capt. James T. Kirk]
 ---
 
 In the opening scene of
