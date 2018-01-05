@@ -8,7 +8,7 @@ image:
    feature: features/business_insights.jpg
    credit: Nerdist
    creditlink: https://nerdist.com/william-shatner-star-trek-wrath-of-khan-interview/
-tags: [Rule Changers, Star Trek, Capt. James T. Kirk]
+tags: [Rule Changers, Star Trek, Capt. James T. Kirk, Business]
 ---
 
 In the opening scene of
