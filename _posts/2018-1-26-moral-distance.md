@@ -11,7 +11,7 @@ image:
 tags: [Moral Distance, Products, Business Leadership, Service]
 ---
 
-We live in a service economy but my experience is that the "service" part is sadly missing. Why is that ? Could it be that the 'moral distance' is far to long ?
+We live in a service economy but my experience is that the "service" part is sadly missing. Why is that ? Could it be that the 'moral distance' is far too long ?
 
 Recently I ordered a product on line ( from a very well known high street retailer ). I clicked, payed and waited. And waited. After four days I still hadn't received a delivery date ( they had promised that I would have the product within five days ). Checking my online account I found that the order had been "suspended" and my money had been returned. I phoned the helpline to find that the link between the online web site and the warehouse wasn't working - they were selling products that were not in stock!  I sent an email to complain about lack of communication about the order to which I received an apology about the situation and that they had passed the problem on. I then reordered another product and after thee days I received message requesting me to collect the parcel from the logistics company depot ( about an hour's drive away ) - which I ignored! A few days passed and the product arrived.  Three days later I received an email saying that there had been a problem with my first order! This story is not unusual. I have had problems with companies large and small, and I could write a "collected works" about the frustrating service from utility companies.
 
