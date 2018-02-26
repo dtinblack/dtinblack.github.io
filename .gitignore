@@ -4,5 +4,4 @@ _site/
 .DS_Store
 *.DS_Store
 _drafts
-draft_images
 .sass-cache
