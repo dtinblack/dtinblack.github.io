@@ -2,7 +2,7 @@
 layout: post
 title: Career Advice From A Philosopher
 description: "Career advice from the philosopher Wittgenstein."
-modified: 2016-11-26
+modified: 2018-02-26
 tags: [Wittgenstein, Career Advice]
 image:
   feature: features/career-advice-philosopher.jpg
