@@ -24,6 +24,4 @@ Video embeds are responsive and scale with the width of the main content block w
 
 <h2>The Legal Stuff</h2>
 
-The usual disclaimers apply. All views expressed on this blog are my own.
-Please do not just repost or republish the entire contents or substantial
-parts of a post without first seeking permission. Otherwise you are free to share.
+The usual disclaimers apply. All views expressed on this blog are my own. Please do not just repost or republish the entire contents or substantial parts of a post without first seeking permission. Otherwise you are free to share.
