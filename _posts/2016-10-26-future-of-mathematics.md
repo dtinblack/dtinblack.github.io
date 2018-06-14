@@ -2,7 +2,7 @@
 layout: post
 title: The Future Of Mathematics
 description: "A different approach to learning mathematics."
-modified: 2018-03-26
+modified: 2016-10-26
 tags: [Mathematics, Teaching]
 image:
   feature: features/future-of-mathematics.jpg
@@ -30,5 +30,5 @@ Another area is the impact of mathematics on the world that we live in. Mathemat
 
 In the public domain more effort is required to raise the profile of mathematics. Mathematics institutes and organisations reinforce academic achievement when they should be analysing the level of mathematics skill in the population - why don't they walk around supermarkets and ask shoppers about using mathematics rather holding another survey amongst themselves? And where is the popular face of mathematics? Where is mathematics Brian Cox? If there was a popularity vote between Brian Cox and [Marcus du Sautoy](https://en.wikipedia.org/wiki/Marcus_du_Sautoy) ( the closest equivalent to Brian Cox ) then I feel the Professor Cox would win by a mile! Those involved in mathematics should ask why that would be and then take what can be learned and apply to promoting mathematics.
 
-Therefore the challenge ( and plea ) to mathematics teachers, authors, experts,
+Therefore the challenge, and plea, to mathematics teachers, authors, experts,
 governments and industry is to develop an understanding of the emotional aspects of mathematics and then tap into it to motivate its greater use, rather than wasting time and money on another survey.  Maybe the next time a celebrity proudly claims that they are 'rubbish at maths' then the web will crash with the volume of clicks as people unfollow or unfriend them !
