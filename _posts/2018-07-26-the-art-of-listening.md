@@ -11,11 +11,11 @@ image:
   background:
 ---
 
-We are only a few clicks away from a world that is awash with the moving image ranging from ever increasing TV channels the infinite variety of video clips on the web.  In amongst see of images sound is added as a layer of more information. But what if sound itself could be a form of art ?
+Could sound be a form of art ?
 
 Art is open to our own interpretation and it is based on our knowledge and experiences, in particular memories. Good art should be challenging and question our perceptions of both ourselves and the world that we inhabit,  and even change them. Experiencing sound can have the same impact as pictures hanging in a gallery and over the years I have gathered a number of sounds, including songs, that have opened my ears to wider appreciation of of a sonic landscape.
 
-[Chris Watson](http://chriswatson.net/), one of the world's [leading recorders of wildlife](https://chriswatsonreleases.bandcamp.com/) and natural phenomena, remains a constant source for going beyond sound. In the following clip entitled Winter he creates the sonic environment of the Holy Island as it might have been experienced by [St. Cuthbert](https://acloserlisten.com/2013/07/30/chris-watson-in-st-cuthberts-time/) in 700 A.D.( It is best to listen to this and all of the rest of the selected tracks through headphones or loudly through speakers ). Towards the end of the piece you can hear the feint ring of a prayer bell which pulls you through the space filled with the sound of the wildlife, and the cold wind, towards Holy Island and its spiritual life.
+[Chris Watson](http://chriswatson.net/), one of the world's [leading recorders of wildlife](https://chriswatsonreleases.bandcamp.com/) and natural phenomena, remains a constant source for going beyond sound. In the following clip entitled Winter, he creates the sonic environment of the Holy Island as it might have been experienced by [St. Cuthbert](https://acloserlisten.com/2013/07/30/chris-watson-in-st-cuthberts-time/) in 700 A.D.( It is best to listen to this and all of the rest of the selected tracks through headphones or loudly through speakers ). Towards the end of the piece you can hear the distant ring of a prayer bell which pulls you through the space filled with the sound of the wildlife, and the cold wind, towards Holy Island and its spiritual life.
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/IJBAd4pmuFk"
  frameborder="0"></iframe>
@@ -53,4 +53,4 @@ Sometimes a choir can catch a the strength of a community that goes beyond the e
 <iframe width="560" height="315" src="//www.youtube.com/embed/5Rpejn5Lwmw"
  frameborder="0"></iframe>
 
-I find that the clips above, and many more that have not been included, go beyond their original purpose, whether it is the [melody and harmony](http://wmich.edu/mus-gened/mus170/RockElements.pdf) of a song or recording the detail of natural world, to catch something that is difficult to express - is that not what art does?
+I find that the clips above, and many more that have not been included, go beyond their original purpose, whether it is the [melody and harmony](http://wmich.edu/mus-gened/mus170/RockElements.pdf) of a song or recording the detail of natural world, to catch something that is difficult to express - is that art ?
