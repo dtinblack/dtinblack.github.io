@@ -11,7 +11,7 @@ image:
   background:
 ---
 
-The [Shipping Forecast](https://www.bbc.co.uk/programmes/b006qfvv) with its steady and clear voice takes our imagination out to a ship that is clinging onto a cold grey sea. On board a captain is carefully listening to the information and looking out to the horizon weighs up their next decision.
+The [Shipping Forecast](https://www.bbc.co.uk/programmes/b006qfvv) with its steady and clear voice takes our imagination out to a ship that is clinging onto a cold grey sea.
 
 <div class="quotewrapper">
 <p><i>
@@ -28,7 +28,7 @@ North Utsire, Southerly gale force 8 expected soon, Southerly, veering southwest
 </i></p>
 </div>
 
-The Air Ministry started broadcasting its [weather shipping programme](https://www.metoffice.gov.uk/learning/weather-and-history/shipping-forecast-history) in 1924, using 13 maritime zones, twice daily on the Home Service. It was suspended during the Second World War, but was relaunched in 1949. Today the Shipping Forecast is produced by [The Meterological Office](http://www.metoffice.gov.uk/public/weather/marine-shipping-forecast) and it's broadcast four times throughout the day: 5:20 am, 12.01 pm, 5.45 pm and 00.48 am. The 0048 broadcast is preceded by [Sailing By, Ronald Binge’s](https://www.youtube.com/watch?v=dFdas-kMF74) partly for  helmsman to tune in, and it concludes with the National Anthem.
+The Air Ministry started broadcasting its [weather shipping programme](https://www.metoffice.gov.uk/learning/weather-and-history/shipping-forecast-history) in 1924, using 13 maritime zones, twice daily on the Home Service. It was suspended during the Second World War, but was relaunched in 1949. Today the Shipping Forecast is produced by [The Meterological Office](http://www.metoffice.gov.uk/public/weather/marine-shipping-forecast) and it's broadcast four times throughout the day: 5:20 am, 12.01 pm, 5.45 pm and 00.48 am. [Sailing By](https://www.youtube.com/watch?v=dFdas-kMF74) is a short piece of light music composed by Ronald Binge in 1963 which is used before the late forecast and gives the helmsman time to tune in. 
 
 There are now [31 zones](http://www.bbc.co.uk/weather/coast_and_sea/shipping_forecast), which are given out in strict order, beginning at Viking in the north-east bordering Norway, and proceeding in a clockwise direction round the British Isles. Only seven areas survive from the original list: Forties, Humber, Dogger, Thames, Wight, Shannon and Hebrides. The last change to the zones was in 2002 when Finisterre became FitzRoy, which is name of the pioneering meteorologist Admiral Robert FitzRoy and who was captain of HMS Beagle on which Charles Darwin sailed to South America.
 
