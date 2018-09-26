@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The Shipping Forecast
-description: "The enduring power of the Shipping Forecast"
-modified: 2016-11-26
+description: "The enduring power of the Shipping Forecast."
+modified: 2018-08-26
 tags: [BBC, Shipping Forecast, Seamus Heaney]
 image:
   feature: features/shipping-forecast.jpg

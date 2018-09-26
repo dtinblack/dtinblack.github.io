@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Counting on A&E
-description: "Application of Little's Law to complexity of queuing in A&E. "
+description: "Application of Little's Law to complexity of queuing in A&E."
 modified: 2018-03-26
 tags: [A&E, Little's Law, Emergency Department]
 image:
