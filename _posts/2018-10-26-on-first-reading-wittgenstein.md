@@ -5,6 +5,7 @@ description: "TBD"
 modified: 2018-10-26
 tags: [Wittgenstein, Tractatus Logico-Philosophicus, Philosophical Investigations, Mathematics]
 image:
+  background: backgrounds/general-background.jpg
   feature: features/on-first-reading-wittgenstein.jpg
   credit: Delaware County Library
   creditlink: http://www.delcolibraries.org/book-clubs-bag

@@ -5,6 +5,7 @@ description: "Philosophical works written as jokes."
 modified: 2018-12-26
 tags: [Wittgesntein, Jokes, Spike Milligan]
 image:
+  background: backgrounds/general-background.jpg
   feature: features/philosophy-and-jokes.jpg
   credit: New York City Comedy
   creditlink: https://newyorkcomedy.wordpress.com/2013/05/03/5-rules-for-the-new-stand-up-comic/

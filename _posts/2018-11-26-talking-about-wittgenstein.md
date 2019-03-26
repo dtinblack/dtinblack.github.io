@@ -5,6 +5,7 @@ description: "A series of videos about Wittgenstein's life and work."
 modified: 2018-11-26
 tags: [Wittgenstein, Philosophy, BBC]
 image:
+  background: backgrounds/general-background.jpg
   feature: features/talking-about-wittgenstein.jpg
   credit: Dan Hess
   creditlink: https://dribbble.com/danhess

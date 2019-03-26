@@ -5,6 +5,7 @@ description: "A difference in opinion on a piece of art."
 modified: 2018-11-26
 tags: [David Hockney, Royal Academy]
 image:
+  background: backgrounds/general-background.jpg
   feature: features/different-perspectives.jpg
   credit: Stylus
   creditlink: https://www.stylus.com/rzdcbf

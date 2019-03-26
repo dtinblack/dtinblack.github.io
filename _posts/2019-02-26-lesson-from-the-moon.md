@@ -5,6 +5,7 @@ description: "Limits in the use of technology."
 modified: 2019-02-26
 tags: [Apollo 11, Neil Armstrong, Margaret Hamilton, Artificial Technology]
 image:
+  background: backgrounds/general-background.jpg
   feature: features/lesson-from-the-moon.jpg
   credit: Universe Today
   creditlink: https://www.universetoday.com/13562/how-long-does-it-take-to-get-to-the-moon/

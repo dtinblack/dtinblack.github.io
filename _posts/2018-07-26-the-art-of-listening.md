@@ -5,6 +5,7 @@ description: "The art of listening beyond the sound."
 modified: 2016-11-26
 tags: [Chris Watson, Stockhausen, BBC, Scott Walker, Oneohtix Point Never, Laurie Anderson, Meredydd Evans, Lizzie Higgins, Gaelic Psalms, Liverpool FC, The Treorchy Welsh Male Choir]
 image:
+  background: backgrounds/general-background.jpg
   feature: features/the-art-of-listening.jpg
   credit: Erik Johansson
   creditlink: https://www.inprnt.com/gallery/erikjohansson/soundscapes/

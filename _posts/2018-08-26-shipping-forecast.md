@@ -5,6 +5,7 @@ description: "The enduring power of the Shipping Forecast."
 modified: 2018-08-26
 tags: [BBC, Shipping Forecast, Seamus Heaney]
 image:
+  background: backgrounds/general-background.jpg
   feature: features/shipping-forecast.jpg
   credit: MashupZone
   creditlink: https://www.youtube.com/watch?v=dBJM5yV7T-M

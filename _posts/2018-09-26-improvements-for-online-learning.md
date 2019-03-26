@@ -5,6 +5,7 @@ description: "Improvements to the quality of online learning."
 modified: 2018-09-26
 tags: [Online Learning, Kaggle, Rosalind, Open University, Digital Business Academy]
 image:
+  background: backgrounds/general-background.jpg
   feature: features/improvements-for-online-learning.jpg
   credit: Student Brands
   creditlink: https://www.studentbrands.co.za/news/student-news/digitally-enhanced-learning-future-education-innovation-online-learning/attachment/online-learning/
