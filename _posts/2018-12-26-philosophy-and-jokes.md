@@ -3,7 +3,7 @@ layout: post
 title: Surely You're Joking, Prof. Wittgenstein!
 description: "Philosophical works written as jokes."
 modified: 2018-12-26
-tags: [Wittgesntein, Jokes, Spike Milligan]
+tags: [Wittgenstein, Jokes, Spike Milligan]
 image:
   background: backgrounds/general-background.jpg
   feature: features/philosophy-and-jokes.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Every Pint Counts !  
+title: Every Pint Counts!  
 description: "My experience of donating blood"
 modified: 2017-03-26
 tags: [blood, NHS, social media]

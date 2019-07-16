@@ -9,7 +9,6 @@ image:
   feature: features/shipping-forecast.jpg
   credit: MashupZone
   creditlink: https://www.youtube.com/watch?v=dBJM5yV7T-M
-  background:
 ---
 
 The [Shipping Forecast](https://www.bbc.co.uk/programmes/b006qfvv) with its steady and clear voice takes our imagination out to a ship that is clinging onto a cold grey sea.

@@ -9,7 +9,6 @@ image:
   feature: features/the-art-of-listening.jpg
   credit: Erik Johansson
   creditlink: https://www.inprnt.com/gallery/erikjohansson/soundscapes/
-  background:
 ---
 
 Could sound be a form of art ?

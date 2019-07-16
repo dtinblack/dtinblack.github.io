@@ -5,6 +5,7 @@ description: "Lessons learned from blogging."
 modified: 2016-11-26
 tags: [Blogging, Posts]
 image:
+  background: backgrounds/general-background.jpg
   feature: features/ten-tips-for-blogs.jpg
   credit: Unsplash
   creditlink: https://unsplash.com/search/photos/pen-and-paper

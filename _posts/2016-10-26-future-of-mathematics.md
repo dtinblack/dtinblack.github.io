@@ -5,6 +5,7 @@ description: "A different approach to learning mathematics."
 modified: 2016-10-26
 tags: [Mathematics, Teaching]
 image:
+  background: backgrounds/general-background.jpg
   feature: features/future-of-mathematics.jpg
   credit: Dave Bailey
   creditlink: https://medium.dave-bailey.com/the-silent-cause-of-bad-business-decisions-b95d977b5ca7
