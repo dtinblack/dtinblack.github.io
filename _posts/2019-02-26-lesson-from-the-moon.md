@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Can AI Learn From The Moon?
-description: "Limits in the use of technology."
+description: "The balance between people and technology."
 modified: 2019-02-26
 tags: [Apollo 11, Neil Armstrong, Margaret Hamilton, Artificial Technology]
 image:

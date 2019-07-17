@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Could Alexa Write Poetry?"
-description: "TBD"
+description: "Could a computer be creative?"
 modified: 2019-03-26
 tags: [Poetry, Creativity, Alexa, Amazon]
 image:
