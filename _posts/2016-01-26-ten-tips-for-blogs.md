@@ -21,7 +21,7 @@ Large amount of time and energy go into into writing a blog and therefore it is 
 
 <b>2. Who is the target audience?</b>
 
-It is important to identify the target audience - the people who are going to regularly read the blog. There is nothing worse than spending hours producing a post that isn't being read!
+It is important to identify the target audience - the people who are going to regularly read the blog. There is nothing worse than spending hours producing a post that isn't going to be read!
 
 <b>3. Why would the target audience want to read the blog?</b>
 
