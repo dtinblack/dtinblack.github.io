@@ -2,7 +2,7 @@
 layout: post
 title: A Tale Of Two Consultants
 description: "The impact of different levels of expertise in the NHS."
-modified: 2016-11-26
+modified: 2020-01-26
 tags: [NHS, UTI, ISC, Consultants Patient Centric]
 image:
   background: backgrounds/general-background.jpg
