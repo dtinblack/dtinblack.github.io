@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Great White Shark In 200 Years
-description: "What makes a sustainable business ?"
+description: "What makes a sustainable business?"
 modified: 2017-09-26
 tags: [sustainability, business, organisations, golf]
 ---
