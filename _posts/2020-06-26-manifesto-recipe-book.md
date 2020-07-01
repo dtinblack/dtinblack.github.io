@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cooking The World Green
-description: "A recipe book that is a green manifesto."
+description: "A cooking book that is a climate change manifesto."
 modified: 2016-11-26
 tags: [Environment, Cooking, Baking]
 image:
