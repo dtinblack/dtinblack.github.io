@@ -6,7 +6,7 @@ modified: 2022-07-26
 tags: [Robots, AI, 3D Printing, Shipping Containers, Biodiversity]
 image:
   background: backgrounds/general-background.jpg
-  feature: features/plant-to-plate.jpg
+  feature: features/the-future-is-local.jpg
   credit: AGRITECTURE
   creditlink: https://www.agritecture.com/blog/2019/1/9/new-wave-of-agtech-startups-are-putting-robots-in-the-fields
 ---
