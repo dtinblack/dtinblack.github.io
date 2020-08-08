@@ -78,6 +78,7 @@ It is important to be clear what the relationship between the author and the rea
 - Second Person - you are addressing the reader directly and using "you", "your" and "yours".
 
 
+
 - Third Person - you are telling the reader and using words such as "he", "she","it" and "they".
 
 <b>e. Editing</b>

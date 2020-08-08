@@ -1,0 +1,35 @@
+I"<p>The closest I have got to experiencing the demands on Accident and Emergency (A&amp;E) is watching the TV series <a href="https://en.wikipedia.org/wiki/M*A*S*H_(TV_series))">MASH</a>, but recently I was right in the middle of it!</p>
+
+<p>Waiting for attention I was interested in the way that the staff were managing the wide range of medical problems that were rolling through the door. There were:
+people holding limbs in great pain, a head covered in sticking plasters, two to three people bright red and coughing, a queue of wheel chairs with legs in plaster, and somebody hobbling around in too much pain to sit down. In the background Ambulances were rushing in and trollies were rattling along corridors.
+All of this activity is, in a management sense, ‘unplanned’ e.g. people could arrive at A&amp;E anytime of the day or night with a wide range of problems.  I started to wonder how a typical A&amp;E is organised and operates to manage the situation and to meet the <a href="https://en.wikipedia.org/wiki/Four-hour_target_in_emergency_departments">4 hour waiting target</a>.</p>
+
+<p>A few days later I was waiting in another queue this time in my local coffee shop. As I slowly moved along I did a quick sum<sup>1</sup> to work out how long I would have to wait and came up with the following calculation:</p>
+
+<center>(4 customers) x (1 min/customer) = 4 minutes.</center>
+
+<p>If the queue had been longer then I would have waited longer. Or if there had been more staff serving then the quicker the service and the shorter the waiting time. To apply the same approach to A&amp;E I took some statistics from the
+<a href="https://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-and-activity/statistical-work-areasae-waiting-times-and-activityae-attendances-and-emergency-admissions-2015-16-monthly-3/">data published monthly</a> on A&amp;E performance where the average number of people attending A&amp;E per hour is approximately 12 / hour
+( on average there are 8,500 people attending A&amp;E for each hospital in NHS England per month ). I also assumed that a typical A&amp;E department can manage 10 cases per hour then the using the same approach as a the coffee shop I calculated:</p>
+
+<center> (12 A&amp;E attendees )  x ( 6 minutes per attendees  ) = 72 minutes or approximately 1 hour</center>
+
+<p>which was close to my experience in A&amp;E. The calculation confirms what we would expect: if the A&amp;E department’s capacity was increased by adding more doctors and nurses then the waiting time would reduce. Similarly if the number of people attending A&amp;E was reduced then the waiting time reduces.</p>
+
+<p>Of course the calculation is too simplistic to be applied to the complex operation of an A&amp;E Department because it assumes <i>average</i> quantities. But
+trying to answer the question: Why can it not be applied ? - highlights some of the underlying factors that are adding to the complexity of its operation.</p>
+
+<p>Starting with the average arrival rate of A&amp;E attendees,
+<a href="http://researchbriefings.files.parliament.uk/documents/SN06964/SN06964.pdf">A&amp;E statistics</a> show that there is a wide variability during a typical week. For example Monday is the busiest day at A&amp;E with attendance 13% above the daily average and also 13% above the next - busiest day, Sunday. Also, in 2013/14, 24% of A&amp;E attendances arrived by ambulance or helicopter who require immediate attention. All of this starts to show the variability in the arrival rate of people requiring medical attention.</p>
+
+<p>Similarly the wide range of patient’s medical problems will affect an A&amp;E department’s capacity to manage their diagnosis and subsequent treatment. For example if there was a major emergency situation, say a train crash or a flu epidemic, then the capacity of A&amp;E would be overloaded. Another area is diagnosing the medical condition. For example 3% of patients attending A&amp;E have severe life threatening conditions and must be seen immediately. Also, if about 40% of attendees are not seen within an an hour of arrival at A&amp;E their condition could deteriorate to life threatening.</p>
+
+<p>There are many more factors affecting the performance of A&amp;E for example the well publicised <a href="https://www.independent.co.uk/news/uk/politics/nhs-bed-blocking-delayed-transfer-care-theresa-may-funding-social-care-crisis-election-a7783936.html">bed blocking</a> and transfer to social care which can increase the time seen by the doctors and nurses. Other factors are not so obvious for example the impact of <a href="http://www.qualitywatch.org.uk/news/ae-departments-are-experiencing-perfect-storm-factors-leading-increase-waiting-times">weather</a> - when average daily temperatures hit 20°C compared with 5°C, trips to A&amp;E rise by nearly 20%. However, very cold weather does also cause longer waits.</p>
+
+<p>Although the assumption of using average quantities to describe the operation of A&amp;E is over simplistic,  asking the question “why do the assumptions break down ?” can gives a better understanding of the underlying factors that contribute to its performance. Based on my experience, the way that the staff manage the range of the medical problems that come through the doors of A&amp;E is much more impressive than the TV characters <a href="https://en.wikipedia.org/wiki/List_of_M*A*S*H_characters#Hawkeye_Pierce">Hawkeye</a> or <a href="https://en.wikipedia.org/wiki/List_of_M*A*S*H_characters#Trapper_John_McIntyre">Trapper John</a>!</p>
+
+<p><i>1. More formally the calculation is an example of
+<a href="https://en.wikipedia.org/wiki/Little%27s_law">Little's Law</a> which states that the long-term average number of customers in a stable system L is equal to the long-term average effective arrival rate, λ, multiplied by the average time a customer spends in the system, W. For a different and more detailed discussion on the application of Little's Law to staffing levels in A&amp;E see:
+<a href="http://epmonthly.com/article/littles-law-the-science-behind-proper-staffing/">Little’s Law: The Science Behind Proper Staffing</a>
+</i></p>
+:ET
