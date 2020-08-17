@@ -1,0 +1,47 @@
+I"À<p>Check the following are current:</p>
+
+<ul>
+  <li>
+    <p>Xcode and command tools</p>
+  </li>
+  <li>
+    <p>Ruby</p>
+  </li>
+</ul>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ruby --version
+
+</code></pre></div></div>
+
+<p>Using rvm, you can install any new version of ruby using the following :</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>rvm install 2.0.0-p0 #=&gt; This will install Ruby 2.0.0
+
+rvm use 2.0.0
+
+</code></pre></div></div>
+
+<ul>
+  <li>RubyGems</li>
+</ul>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gem --version
+</code></pre></div></div>
+
+<p>If it needs updating then:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gem update --system
+</code></pre></div></div>
+
+<ul>
+  <li><a href="https://bundler.io/guides/bundler_2_upgrade.html">Installing Bundler 2</a></li>
+</ul>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gem install bundler
+
+bundle check
+
+bundle update --bundler
+
+</code></pre></div></div>
+:ET

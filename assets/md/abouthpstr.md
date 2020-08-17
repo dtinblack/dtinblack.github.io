@@ -2,11 +2,11 @@
 layout: page
 title: About the Jekyll Theme
 image:
-  feature: abstract-5.jpg
+  feature: tree-picture.jpg
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 comments: false
-modified: 2016-02-01
+modified: 2020-07-08
 ---
 
 The following is taken from the original [HPSTR](https://mademistakes.com/work/hpstr-jekyll-theme/) installation written [Michael Rose](https://mademistakes.com/about/):
@@ -30,5 +30,10 @@ If you've used any of [my other themes](http://mademistakes.com/work/jekyll-them
 * [Syntax highlighting]({{ site.url }}/code-highlighting-post/) stylesheets to make your code examples look snazzy.
 
 <div markdown="0"><a href="{{ site.url }}/theme-setup/" class="btn btn-info">Theme Setup</a> <a href="https://github.com/mmistakes/hpstr-jekyll-theme" class="btn btn-success">Download HPSTR</a></div>
+
+## Blog Software Maintenance
+
+To maintain the software at the latest versions then use the following
+[steps](/assets/md/maintenance).
 
 [^1]: Example: *domain.com/category-name/post-title*
