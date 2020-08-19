@@ -20,7 +20,7 @@ Using rvm, you can install any new version of ruby using the following :
 ```
 rvm install 2.0.0-p0 #=> This will install Ruby 2.0.0
 
-rvm use 2.0.0
+rvm --default use 2.0.0
 
 ```
 

@@ -1,4 +1,4 @@
-I"À<p>Check the following are current:</p>
+I"Ò<p>Check the following software is current:</p>
 
 <ul>
   <li>
@@ -17,7 +17,7 @@
 
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>rvm install 2.0.0-p0 #=&gt; This will install Ruby 2.0.0
 
-rvm use 2.0.0
+rvm --default use 2.0.0
 
 </code></pre></div></div>
 
