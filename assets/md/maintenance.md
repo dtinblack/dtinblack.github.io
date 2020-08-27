@@ -45,4 +45,6 @@ bundle check
 
 bundle update --bundler
 
+bundle update
+
 ```

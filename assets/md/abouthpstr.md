@@ -31,7 +31,7 @@ If you've used any of [my other themes](http://mademistakes.com/work/jekyll-them
 
 <div markdown="0"><a href="{{ site.url }}/theme-setup/" class="btn btn-info">Theme Setup</a> <a href="https://github.com/mmistakes/hpstr-jekyll-theme" class="btn btn-success">Download HPSTR</a></div>
 
-## Blog Software Maintenance
+### Blog Software Maintenance
 
 To maintain the software at the latest versions then use the following
 [steps](/assets/md/maintenance).
