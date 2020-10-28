@@ -20,6 +20,7 @@ What caught my attention was the skills that were missing. Scientists.  If we ar
 
 The Bauhaus (“construction house”) was a revolutionary project when it was founded in Weimar, Germany, in the wake of the First World War. Like the movement that Ursula von der Leyen is envisioning, it was a [multidisciplinary collective](https://www.harvardartmuseums.org/tour/the-bauhaus) that brought together architects (its founder was the modernist pioneer Walter Gropius), artists (including the painters Wassily Kandinsky and Paul Klee), photographers, typographers, and furniture-makers. The Bauhaus only existed for 14 years but it became the twentieth century’s most important college of architecture, design and art. Many of its principles remain today and are seen in devices such as Apple’s iPod, some of the more classic furniture designs from Ikea, and many kit houses. However, these principles didn't take into account the impact of these products on the environment.
 
+
 The influence of the Bauhaus was underpinned by the radical way that the students were taught. Education at the Bauhaus brought together artists and technologists through an innovate teaching approach which was diverse and hands-on, spanning many crafts and skills. The divergent trajectories students might follow were represented in a [curricular diagram](https://www.bauhaus.de/en/das_bauhaus/45_unterricht/).
 
 <figure>
