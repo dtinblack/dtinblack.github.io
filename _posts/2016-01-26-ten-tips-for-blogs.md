@@ -41,11 +41,11 @@ The format needs to make reading the blog as easy as possible, for example what 
 
 <b>7. What style should the blog have?</b>
 
-Will the blog be opinionated? - if so will it be balanced or take one side? Will it be informative? - in which case if it is using technical terminology then what is the level of knowledge of the target audience?  If the blog is putting forward a case what is the key point and how do the supporting arguments suppott the central message?
+Will the blog be opinionated? - if so will it be balanced or take one side? Will it be informative? - in which case if it is using technical terminology then what is the level of knowledge of the target audience?  If the blog is putting forward a case what is the key point and how do the supporting arguments support the central message?
 
 <b>8. How many words should a typical post be?</b>
 
-Length of the blog is important because reading it has to fit into the busy lives of the target audience. Should it be short and too the point or be a long full of detailed analysis?
+Length of the blog is important because reading it has to fit into the busy lives of the target audience. Should it be short and to the point or be a long full of detailed analysis?
 
 <b>9. What will be the process required to develop the posts?</b>
 
