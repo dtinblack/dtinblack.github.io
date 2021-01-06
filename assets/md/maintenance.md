@@ -51,6 +51,8 @@ bundle update
 
 * [Git](https://medium.com/@katopz/how-to-upgrade-git-ff00ea12be18)
 
+Assuming that Git is already installd.
+
 ```
 git --version
 
