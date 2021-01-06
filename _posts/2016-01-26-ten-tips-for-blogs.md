@@ -17,7 +17,7 @@ Over the years of blogging I have learned many lessons. The following are the on
 
 <b>1. Why do you want to write a blog?</b>
 
-Large amount of time and energy go into into writing a blog and therefore it is important to be clear about the motivation behind the effort. Motivation can range from communicating the development of a business to establishing the author as a 'thought leader' about a particular subject.
+Large amount of time and energy go into into writing a blog and therefore it is important to be clear about the motivation it. Motivation can range from communicating the development of a business to establishing the author as a 'thought leader' about a particular subject.
 
 <b>2. Who is the target audience?</b>
 
@@ -41,7 +41,7 @@ The format needs to make reading the blog as easy as possible, for example what 
 
 <b>7. What style should the blog have?</b>
 
-Will the blog be opinionated? - if so will it be balanced or take one side? Or will it be informative in which case if it is using technical terminology then the level of knowledge of the target audience will need to be taken into account. Also, what "voice" should the author take?
+Will the blog be opinionated? - if so will it be balanced or take one side? Will it be informative? - in which case if it is using technical terminology then what is the level of knowledge of the target audience?  If the blog is putting forward a case what is the key point and how do the supporting arguments suppott the central message?
 
 <b>8. How many words should a typical post be?</b>
 
