@@ -1,4 +1,4 @@
-I"á<p>Check the following software is current:</p>
+I"ú<p>Check the following software is current:</p>
 
 <ul>
   <li>
@@ -44,6 +44,16 @@ bundle check
 bundle update --bundler
 
 bundle update
+
+</code></pre></div></div>
+
+<ul>
+  <li><a href="https://medium.com/@katopz/how-to-upgrade-git-ff00ea12be18">Git</a></li>
+</ul>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git --version
+
+brew update &amp;&amp; brew upgrade
 
 </code></pre></div></div>
 :ET

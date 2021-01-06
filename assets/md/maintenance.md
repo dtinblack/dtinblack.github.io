@@ -48,3 +48,12 @@ bundle update --bundler
 bundle update
 
 ```
+
+* [Git](https://medium.com/@katopz/how-to-upgrade-git-ff00ea12be18)
+
+```
+git --version
+
+brew update && brew upgrade
+
+```
