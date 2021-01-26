@@ -1,4 +1,4 @@
-I"ú<p>Check the following software is current:</p>
+I")<p>Check the following software is current:</p>
 
 <ul>
   <li>
@@ -50,6 +50,8 @@ bundle update
 <ul>
   <li><a href="https://medium.com/@katopz/how-to-upgrade-git-ff00ea12be18">Git</a></li>
 </ul>
+
+<p>Assuming that Git is already installd.</p>
 
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git --version
 
