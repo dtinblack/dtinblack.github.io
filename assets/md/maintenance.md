@@ -45,13 +45,19 @@ bundle check
 
 bundle update --bundler
 
+```
+
+- update the bundles used by the application
+
+```
+
 bundle update
 
 ```
 
 * [Git](https://medium.com/@katopz/how-to-upgrade-git-ff00ea12be18)
 
-Assuming that Git is already installd.
+Assuming that Git is already installed.
 
 ```
 git --version
