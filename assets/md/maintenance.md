@@ -65,3 +65,13 @@ git --version
 brew update && brew upgrade
 
 ```
+
+Update Grunt files in package.json ( check the version of npm )
+
+```
+
+npm outdated
+
+npm update
+
+```
