@@ -5,3 +5,5 @@ _site/
 *.DS_Store
 _drafts
 .sass-cache
+
+node_modules/
