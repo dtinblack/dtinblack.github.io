@@ -106,3 +106,5 @@ git commit -m "some text describing the change"
 git push -u origin master
 
 ```
+
+- Other notes
