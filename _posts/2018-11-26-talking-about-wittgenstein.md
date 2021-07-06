@@ -3,7 +3,7 @@ layout: post
 title: Talking About Wittgenstein
 description: "A series of videos about Wittgenstein's life and work."
 modified: 2018-11-26
-tags: [Wittgenstein, Philosophy, BBC]
+tags: [Wittgenstein, Philosophy, BBC, Don Cupitt, Sea of Faith]
 image:
   background: backgrounds/general-background.jpg
   feature: features/talking-about-wittgenstein.jpg
@@ -148,5 +148,5 @@ It would have been fascinating, although daunting, to have attended one of Wittg
 
 Although Wittgenstein never committed to any formal religion he had a lifelong interest in religion and claimed: "I am not a religious man but I cannot help seeing every problem from a religious point of view." In television series [Sea of Faith](https://en.wikipedia.org/wiki/Sea_of_Faith) [Don Cupitt](http://www.doncupitt.com/don-cupitt) gives a different aspect on Wittgenstein's life and work.  The clip starts with a short introduction about previous religious thinkers:
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/2BA-A1lOG0E?start=0&end=1117"
+<iframe width="560" height="315" src="//www.youtube.com/embed/CsD50TdmZEs?start=1602&end=2959"
  frameborder="0"></iframe>
