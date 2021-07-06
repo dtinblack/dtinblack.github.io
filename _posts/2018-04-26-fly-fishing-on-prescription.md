@@ -11,10 +11,7 @@ image:
   background: backgrounds/fly-fishing-on-prescription.jpg
 ---
 
-<p>
-Watching the line whispering through the morning light and softly landing on the lake. Fly fishing is an art that creates its own poetry but can it do for my
-<a href="https://www.nhs.uk/conditions/stress-anxiety-depression/improve-mental-wellbeing/">well being</a>?
-</p>
+Watching the line whispering through the morning light and softly landing on the lake. Fly fishing is an art that creates its own poetry but can it do for my [well being](https://www.nhs.uk/conditions/stress-anxiety-depression/improve-mental-wellbeing/)
 
 Fly fishing is trying to trick a fish, normally trout or salmon, into eating something that is made to look like a food.  The skill is to place an artificial fly in front of a trout at the point where it is hungry enough to wrap its mouth around it. Sounds simple but after many years of trying to outwit one of the wildest animals on the planet they are still ahead of me on cunning.
 
