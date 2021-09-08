@@ -47,7 +47,7 @@ bundle update --bundler
 
 ```
 
-- update the bundles used by the application
+- Update the bundles used by the application
 
 ```
 

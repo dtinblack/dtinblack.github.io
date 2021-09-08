@@ -15,9 +15,11 @@ I enjoy writing, and when I manage to express a thought clearly in a sentence I 
 
 This blog uses the <a href="http://www.google.co.uk/analytics/">Google Analytics</a> service to better understand how people are accessing the site. This information is collected in an anonymous form and includes the number of visitors to the site.
 
-The blog is based on the [HPSTR Theme](/assets/md/abouthpstr) and will continue to change as I learn more about page layouts and different approaches to web navigation.
+The blog is based on an early version of [HPSTR](https://mademistakes.com/work/hpstr-jekyll-theme/) written [Michael Rose](https://mademistakes.com/about/) and will continue to change as I learn more about page layouts and different approaches to web navigation.
 
 Video embeds are responsive and scale with the width of the main content block with the help of [FitVids](http://fitvidsjs.com/).
+
+Over the years I ave gathered tips on how to [maintain](/assets/md/maintenance) the site which may help others who are running a Jekyll based blog.
 
 <h2>The Legal Stuff</h2>
 
