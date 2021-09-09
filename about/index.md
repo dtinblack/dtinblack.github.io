@@ -4,13 +4,13 @@ title: About Me
 image:
   feature: tree-picture-reduced.jpg
   credit:
-  creditlink: David Black
+creditlink: David Black
 comments: false
-modified: 2016-12-26
+modified: 2021-08-26
 ---
 
 <p>
-I enjoy writing, and when I manage to express a thought clearly in a sentence I get a sense of achievement. Better still is when a reader understands what I am trying to say!
+I enjoy writing, and when I manage to express a thought clearly in a sentence I get a sense of achievement. Better still is when a reader understands the thought and uses it to develop their own!
 </p>
 
 This blog uses the <a href="http://www.google.co.uk/analytics/">Google Analytics</a> service to better understand how people are accessing the site. This information is collected in an anonymous form and includes the number of visitors to the site.
