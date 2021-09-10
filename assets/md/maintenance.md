@@ -106,3 +106,10 @@ git commit -m "some text describing the change"
 git push -u origin master
 
 ```
+
+Check the information stored in the osxkeychain used by github ( security )
+
+```
+git config -l
+
+```
