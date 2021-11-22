@@ -24,3 +24,5 @@ Early in his life Wittgenstein read the philosophical works of Schopenhauer whic
 Wittgenstein’s view was that problems in philosophy arise when there is a failure to recognise that the words being used have lost their sense. When we come across a misuse of words, when they have lost their meaning, they could create an inconsistency. And rather than spending lots of time puzzling over the meaning of the sentence we should grasp it for what it is: nonsense, laugh, and move on.
 
 So how would it work? My attempt is based on solipsism, the view or theory that the self is all that can be known to exist, and goes 'A man thought he was the only person in the world, until he looked in the mirror’. Would Wittgenstein have laughed? Maybe not but I would hope for a wry smile.
+
+<i>Big thanks to [David Quantick](https://en.wikipedia.org/wiki/David_Quantick) who through a series of emails answered my questions about jokes</i>  
