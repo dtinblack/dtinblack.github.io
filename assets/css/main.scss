@@ -78,3 +78,17 @@ sitemap: false
     line-height: 1.5;
     margin-bottom: 1.5px;
 }
+
+/* the following added for the boxes used in annotating text */
+
+.boxed {
+    border: 2px solid black;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+/* tabs text within a box */
+
+.tab { text-indent: 10px; }
