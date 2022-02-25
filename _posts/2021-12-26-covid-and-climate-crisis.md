@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Climate Crisis Is Not Covid
-description: "TBD"
-modified: 2016-11-26
+description: "Arguments that Covid and Climate change are the same is fallacious."
+modified: 2022-12-26
 tags: [Covid, Climate Crisis, Critical Analysis]
 image:
   background: backgrounds/general-background.jpg
