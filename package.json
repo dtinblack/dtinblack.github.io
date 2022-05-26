@@ -19,7 +19,8 @@
     "grunt-contrib-jshint": "~3.2.0",
     "grunt-contrib-uglify": "~5.2.0",
     "grunt-contrib-watch": "~1.1.0",
-    "grunt-svgmin": "~6.0.0"
+    "grunt-svgmin": "~6.0.0",
+    "glob-parent": ">=5.1.2"
   },
   "dependencies": {
     "glob-parent": "^6.0.2"
