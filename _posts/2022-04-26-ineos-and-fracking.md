@@ -13,8 +13,7 @@ image:
 
 With energy prices on a steep [upward curve](https://www.theecoexperts.co.uk/blog/reasons-for-uk-gas-price-increase) fracking for gas has re-entered the energy debate. [Ineos](https://www.ineos.com/about/), a global petrochemicals manufacturer, has written to the [UK government](https://www.theguardian.com/environment/2022/apr/11/ineos-wants-to-drill-uk-fracking-test-site-in-attempt-to-show-it-is-safe-jim-ratcliffe) arguing that it should be allowed to restart fracking. But how strong is their argument?
 
-On 11th April 2022 a Director of Ineos was interviewed during the business section of Radio 4's Today programme. He put forward a number of points for restarting fracking ( for a transcript of the interview
-<a href="/assets/downloads/Ineos-Interview.pdf"><b>click here</b></a> ).
+On 11th April 2022 a Director of Ineos was interviewed during the business section of Radio 4's Today programme. He put forward a number of points for restarting fracking ( for a transcript of the interview <a href="/assets/downloads/Ineos-Interview.pdf"><b>click here</b></a> ).
 
 The strength of an argument depends on the validity of each point supporting it and whether it leads to a valid conclusion. Also, it would be unfair to take the interview literally because of the time constraints of a radio programme, in this case just under 4 minutes. Therefore I have expanded and corrected some of the points to [clarify their meaning](https://en.wikipedia.org/wiki/Principle_of_charity) ).
 
