@@ -21,6 +21,8 @@ Video embeds are responsive and scale with the width of the main content block w
 
 Over the years I ave gathered tips on how to [maintain](/assets/md/maintenance) the site which may help others who are running a Jekyll based blog.
 
+For a more [indepth understanding](/assets/md/jekyll-notes) of the technology behind Jeklly I have gathered infomration together that describes the technology stack, useful turorials and snippets of code to show the operating principles.
+
 <h2>The Legal Stuff</h2>
 
 The usual disclaimers apply. All views expressed on this blog are my own. Please do not just repost or republish the entire contents or substantial parts of a post without first seeking permission. Otherwise you are free to share.
