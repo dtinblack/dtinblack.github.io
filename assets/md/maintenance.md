@@ -18,6 +18,9 @@ ruby --version
 Using rvm, you can install any new version of ruby using the following :
 
 ```
+
+rvm list             #=> Check the installed versions of Ruby
+ 
 rvm install 2.0.0-p0 #=> This will install Ruby 2.0.0
 
 rvm --default use 2.0.0
