@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Floyd On Food And Its Future
+title: The Furire Of Food
 description: "Returning to local produce."
 modified: 2022-07-26
 tags: [Food, Keith Floyd, Potatoes]
