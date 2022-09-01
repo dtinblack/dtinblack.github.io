@@ -2,7 +2,7 @@
 layout: post
 title: A Pointless Round In Maths
 description: "A curious question during the TV quiz show Pointless"
-modified: 2016-11-26
+modified: 2022-11-26
 tags: [BBC, Mathematics]
 image:
   background: backgrounds/general-background.jpg
