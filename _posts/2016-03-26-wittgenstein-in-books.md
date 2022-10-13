@@ -21,8 +21,8 @@ from his [millionaire father](https://en.wikipedia.org/wiki/Karl_Wittgenstein); 
 
 The first book that I would recommend is [The Principles of Linguistic Philosophy](https://books.google.co.uk/books/about/The_Principles_of_Linguistic_Philosophy.html?id=Eg4bAAAAIAAJ&redir_esc=y) by Frederich Waismann. The early chapters describe how philosophical problems arise and gives an overview of Wittgenstein's solutions in non-technical language.   
 
-There are many general books on philosophy that have a section on Wittgenstein, but one of the most accessible is the chapter with John Searle ( pg 322 - 347 ) in
-Bryan Magee's [The Great Philosophers](http://books.google.co.uk/books?id=8WjmtRd5OzgC&printsec=frontcover&dq=The+Great+Philosophers&hl=en&sa=X&ei=ZPFHVJa2NdGM7AaXroHwBA&redir_esc=y#v=onepage&q=The%20Great%20Philosophers&f=false)
+There are many general books on philosophy that have a section on Wittgenstein, but one of the most accessible is the chapter with John Searle in
+Bryan Magee's [The Great Philosophers](http://books.google.co.uk/books?id=8WjmtRd5OzgC&printsec=frontcover&dq=The+Great+Philosophers&hl=en&sa=X&ei=ZPFHVJa2NdGM7AaXroHwBA&redir_esc=y#v=onepage&q=The%20Great%20Philosophers&f=false) ( pg 322 - 347 )
 which gives a short and clear overview from the two major periods of his life: the <i>[Tractatus Logico-Philosophicus](https://www.gutenberg.org/files/5740/5740-pdf.pdf)</i> ( known as the <i>Tractatus</i> ) and the later work
 <i>[Philosophical Investigations](https://static1.squarespace.com/static/54889e73e4b0a2c1f9891289/t/564b61a4e4b04eca59c4d232/1447780772744/Ludwig.Wittgenstein.-.Philosophical.Investigations.pdf)</i>.
 Another accessible book with a clearly written section about the <i>Philosophical Investigations</i> is by Stephen Law
@@ -47,7 +47,7 @@ by Anthony Kenny, which I regularly refer to.
 
 A good preparation for reading Wittgenstein's work directly ( he only published the <i>Tractatus</i> in his own life time but there are several books of his notes ), is
 <a href="http://books.google.co.uk/books?id=ayODpqsr6JwC&dq=Wittgenstein%27s++Tractatus+an+Introduction&hl=en&sa=X&ei=BvRHVJD9HrKv7Abgl4HwDA&redir_esc=y">Wittgenstein's Tractatus an Introduction</a>
-by H. O Mounce. Another book that gives a good overall in prepartion for reading the Philosophical Investigations is Marie McGinn's
+by H. O Mounce. Another book that gives a good overall in prepartion for reading the <i>Philosophical Investigations</i> is Marie McGinn's
 <a href="http://books.google.co.uk/books?id=DK6anQEACAAJ&dq=Wittgenstein+and+the+Philosophical+Investigations+McGinn&hl=en&sa=X&ei=b_RHVLvODYrC7Aag0oC4Cw&redir_esc=y" >Wittgenstein and the Philosophical Investigations</a>.
 Both books are not easy to read but with perseverance then his work should start to make sense.
 
