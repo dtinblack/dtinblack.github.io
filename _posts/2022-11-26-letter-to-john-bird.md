@@ -7,8 +7,8 @@ tags: [Poverty, The Big Issue]
 image:
   background: backgrounds/general-background.jpg
   feature: features/letter-to-john-bird.jpg
-  credit: Jackson Pollock
-  creditlink: https://www.jackson-pollock.org/convergence.jsp
+  credit: MoMA
+  creditlink: https://www.moma.org/calendar/exhibitions/3663
 ---
 
 Dear [Lord Bird](https://members.parliament.uk/member/4564/contact),
