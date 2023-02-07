@@ -2,7 +2,7 @@
 layout: post
 title: We Need More Passionate People
 description: "The effect passionate people can have on us."
-modified: 2020-02-26
+modified: 2018-04-26
 tags: [Passionate People, David Attenborough, Brian Cox]
 image:
   background: backgrounds/general-background.jpg
