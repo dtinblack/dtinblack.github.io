@@ -7,7 +7,7 @@ tags: [People, Assets, Value]
 mathjax: true
 ---
 
-<p>A formula for a successful business is a very rare thing - it is never that simple ! But when a successful one emerges then it is worth a look.
+<p>A formula for a successful business is a very rare thing - it is never that simple! But when a successful one emerges then it is worth a look.
 </p>
 
 In the autumn of 1999 the executives of Southwestern Energy Co, a gas exploration and production company based in Arkansas USA, were meeting to discuss their business strategy. The company was struggling. They had lost a $109 million lawsuit and the the total value of the companies assets was greater than its capitalisation.   They were wondering whether it was time to pack it in. "We were not healthy. No one wanted our stock" the CEO Mr Korell recalls. He remembers uncapping a black marker pen and writing:

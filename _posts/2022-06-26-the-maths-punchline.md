@@ -9,7 +9,6 @@ image:
   feature: features/the-maths-punchline.jpg
   credit: Yuni Lee
   creditlink: https://www.artsy.net/artwork/yuni-lee-probability-current
-mathjax: true
 ---
 
 Maths is the last thing you would expect to find in the middle of a popular TV programme. But during an episode of a BBC show there it was hiding behind the jokes.
