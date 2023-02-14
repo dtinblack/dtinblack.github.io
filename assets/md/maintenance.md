@@ -4,7 +4,7 @@ title: Maintenance Steps
 modified: 2020-07-26
 ---
 
-Check the following software is current:
+The following software must be current:
 
 * Xcode and command tools
 
@@ -15,12 +15,12 @@ ruby --version
 
 ```
 
-Using rvm, you can install any new version of ruby using the following :
+Using rvm, install any new version of ruby using the following:
 
 ```
 
 rvm list             #=> Check the installed versions of Ruby
- 
+
 rvm install 2.0.0-p0 #=> This will install Ruby 2.0.0
 
 rvm --default use 2.0.0
@@ -33,7 +33,7 @@ rvm --default use 2.0.0
 gem --version
 ```
 
-If it needs updating then:
+To update the system then:
 
 ```
 gem update --system

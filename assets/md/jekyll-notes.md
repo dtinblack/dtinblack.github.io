@@ -13,7 +13,7 @@ modified: 2020-07-26
 
 ### Tutorials
 
-[cloudcannon](https://cloudcannon.com/) have a produced a step-by-step [tutorial](https://cloudcannon.com/community/learn/jekyll-tutorial/), with examples, that explains the Jekyll file structure and how to use Liquid.
+[cloudcannon](https://cloudcannon.com/) have a produced a step-by-step [tutorial](https://cloudcannon.com/community/learn/jekyll-tutorial/), with examples, that explains the Jekyll file structure and how to use Liquid. The tutorials and other code developments for Jekyll can be found [here](https://github.com/dtinblack/Jekyll-Notes).
 
 
 ### Footnotes
@@ -22,7 +22,7 @@ Small pieces of code used to understand some of the underlying technology used b
 
 ##### YAML
 
-Although only a few lines of code it shows how to read a YAML file. 
+Although only a few lines of code it shows how to read a YAML file.
 
 some.yaml - file containing some data in YAML format.
 
