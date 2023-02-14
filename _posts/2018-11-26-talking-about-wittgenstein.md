@@ -15,13 +15,13 @@ My interest in Wittgenstein was developed further through television. There were
 
 In [Christopher Sykes'](http://www.christophersykesproductions.com/) BBC Horizon documentary Wittgenstein is brought to life through anecdotes from people that knew him, his letters to friends and commentaries on his work:
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/8BoKjQfMihs" frameborder="0">
+<iframe width="560" height="315" src="//www.youtube.com/embed/8BoKjQfMihs?enablejsapi=1&origin=http://dtinblack.github.io/" frameborder="0">
 </iframe>  
 
 A series of programmes that I always looked forward to was the BBC's
 [The Great Philosophers](https://en.wikipedia.org/wiki/The_Great_Philosophers) with [Brian Magee](https://en.wikipedia.org/wiki/Bryan_Magee). The series covered the philosophies of Plato, Aristotle, and Descartes, among others, and ended with a discussion with [John Searle](https://en.wikipedia.org/wiki/John_Searle) on the philosophy of Wittgenstein. In their discussion they cover Wittgenstein's legacy; ranging from his early work, the Tractatus, to his posthumously published, Philosophical Investigations. Although the thought of two philosophers in deep discussion about Wittgenstein may feel daunting Brian Magee keeps the discussion at a level that is very accessible to the the non-academic:  
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/EQHiGrCNwJI"
+<iframe width="560" height="315" src="//www.youtube.com/embed/EQHiGrCNwJI?enablejsapi=1&origin=http://dtinblack.github.io/"
  frameborder="0"></iframe>
 
 The quality of the writing in the Tractatus and the Philosophical Investigations were mentioned in the discussion and the following sections show the difference in approach and style between the two works. First a section from the Tractatus that discusses language and the nature of philosophy:
@@ -143,10 +143,10 @@ for a particular purpose.
 
 It would have been fascinating, although daunting, to have attended one of Wittgenstein's lectures at Cambridge University. His rooms were in Trinity College and they had a large view of the sky and also of Cambridge roofs.  They were were sparsely furnished and extremely clean with a deck chair, or two, and virtually nothing else. His lectures were given without preparation and without notes. He would openly struggle with his own thoughts about a philosophical problem and passionately question his own thinking as well as those of the students. The closest example of what it would have been like experiencing one of his lectures is from [Derek Jarmin's](https://en.wikipedia.org/wiki/Derek_Jarman) film [Wittgenstein](https://en.wikipedia.org/wiki/Wittgenstein_(film)):
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/r0cN_bpLrxk"
+<iframe width="560" height="315" src="//www.youtube.com/embed/r0cN_bpLrxk?enablejsapi=1&origin=http://dtinblack.github.io/"
  frameborder="0"></iframe>
 
 Although Wittgenstein never committed to any formal religion he had a lifelong interest in religion and claimed: "I am not a religious man but I cannot help seeing every problem from a religious point of view." In television series [Sea of Faith](https://en.wikipedia.org/wiki/Sea_of_Faith) [Don Cupitt](http://www.doncupitt.com/don-cupitt) gives a different aspect on Wittgenstein's life and work.  The clip starts with a short introduction about previous religious thinkers:
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/CsD50TdmZEs?start=1602&end=2959"
+<iframe width="560" height="315" src="//www.youtube.com/embed/CsD50TdmZEs?start=1602&end=2959?enablejsapi=1&origin=http://dtinblack.github.io/"
  frameborder="0"></iframe>

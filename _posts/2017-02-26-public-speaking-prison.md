@@ -21,7 +21,7 @@ seventies reaching its lowest point in 1971 when there was a riot at
 <a href="http://digitalcommons.buffalostate.edu/cgi/viewcontent.cgi?article=1000&context=exposition" >Sing Sing</a> ( Sing Sing got its name from the Native American tribe "Sinck Sinck" (or "Sint Sinck"), who the land was bought from in 1685)
 prison and 43 people were killed. Against this background David Hoffman in 1972, a film and documentary maker,
 had been working with prisoners in Sing Sing to make a <a href="https://www.createspace.com/204634">documentary</a> when he organized a Thanksgiving Day concert, which included BB King and Joan Baez. The following YouTube clip shows BB King starting his section of the concert with the song How Blue Can You Get:
-<iframe width="560" height="315" src="//www.youtube.com/embed/LWLAAzOBoBI" frameborder="0"></iframe> You can’t fail to be drawn into the performance. So what can be learned ?
+<iframe width="560" height="315" src="//www.youtube.com/embed/LWLAAzOBoBI?enablejsapi=1&origin=http://dtinblack.github.io/"  frameborder="0"></iframe> You can’t fail to be drawn into the performance. So what can be learned ?
 
 First know your audience, and why they are attending, in this case the gig ( or in our case a
 meeting, presentation, conference etc ). In other words what are their expectations. Of course
