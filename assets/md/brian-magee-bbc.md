@@ -63,7 +63,7 @@ The conversations were published in [Men of Ideas](https://en.wikipedia.org/wiki
 
 [Lock and Berkeley](https://www.youtube.com/watch?v=awZEy1jbY0M)
 
-[Hume](https://www.youtube.com/watch?v=UJLHf9Vt-m4)
+[Hume](https://www.youtube.com/watch?v=_hfcrKg8lR4)
 
 [Kant](https://www.youtube.com/watch?v=mltfzrk5txU)
 
