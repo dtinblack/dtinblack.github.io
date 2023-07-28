@@ -19,9 +19,7 @@ The blog is based on an early version of [HPSTR](https://mademistakes.com/work/h
 
 Video embeds are responsive and scale with the width of the main content block with the help of [FitVids](http://fitvidsjs.com/).
 
-Over the years I ave gathered tips on how to [maintain](/assets/md/maintenance) the site which may help you if you are running a Jekyll based blog. In a similar vein when Google has thown up a few problems their solutions can be found [here](/assets/md/resolved-problems) 
-
-For a more [indepth understanding](/assets/md/jekyll-notes) of the technology behind Jeklly I have gathered infomration together that describes the technology stack, useful turorials and snippets of code to show the operating principles.
+Over the years I have gathered tips on how to [maintain](/assets/md/maintenance) the site which may help you if you are running a Jekyll based blog. In a similar vein when Google has thrown up a few problems their solutions can be found [here](/assets/md/resolved-problems)
 
 <h2>The Legal Stuff</h2>
 

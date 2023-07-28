@@ -1,14 +1,40 @@
 ---
 layout: page
-title: Maintenance Steps
+title: Maintenance of Jekyll
 modified: 2020-07-26
 ---
 
-The following software must be current:
+The following notes are used to update any parts of Jekyll's Technology Stack on a Mac OS.  
 
-* Xcode and command tools
+[Jekyll](https://jekyllrb.com/docs/ruby-101/) is written in [Ruby](https://www.ruby-lang.org/en/) and uses the [Liquid](https://shopify.dev/api/liquid) template language created by [Shopify](https://www.shopify.co.uk/partners/blog/115244038-an-overview-of-liquid-shopifys-templating-language). Liquid is also written in Ruby.
 
-* Ruby
+[cloudcannon](https://cloudcannon.com/) have a produced a step-by-step [tutorial](https://cloudcannon.com/tutorials/jekyll-tutorial/), with examples, that explains the Jekyll file structure and how to use Liquid.
+
+For information about installing Jekyll then see [Jekyll on macOS](https://jekyllrb.com/docs/installation/macos/).
+
+
+All of the following commands are used in a Terminal.
+
+<b>Operating System</b>
+
+Check the current version of the operating system. The information will be used to check which package versions can safely be used to update Jekyll.
+
+
+<b>Xcode Command Tools</b>
+
+
+
+
+
+
+<b>Development Tools</b>
+
+
+<i>Check the difference between clang and gcc [How to install GCC on Mac](https://osxdaily.com/2023/05/02/how-install-gcc-mac/) - see also [Switch from “Apple clang” to “Homebrew clang” in VS code configuration](https://discourse.llvm.org/t/switch-from-apple-clang-to-homebrew-clang-in-vs-code-configuration/63314) to make sure that the latest version is being used. Also check the LLVM Compiler [How to check the LLVM compiler version Xcode is using?](https://stackoverflow.com/questions/14186490/how-to-check-the-llvm-compiler-version-xcode-is-using)</i>
+
+<b>Ruby</b>
+
+See [Installation Requirments](https://jekyllrb.com/docs/installation/)
 
 ```
 ruby --version
@@ -28,6 +54,8 @@ rvm --default use 2.0.0
 ```
 
 * RubyGems
+
+[RubyGem Commands](https://sourabhbajaj.com/mac-setup/Ruby/RubyGems.html)
 
 ```
 gem --version
