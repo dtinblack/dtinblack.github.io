@@ -13,6 +13,8 @@ modified: 2021-08-26
 I enjoy writing, and when I manage to express a thought clearly in a sentence I get a sense of achievement. Better still is when a reader understands the thought and uses it to develop their own!
 </p>
 
+The blog uses [GitHub Pages](https://jekyllrb.com/docs/github-pages/).  Over the years I have gathered some [notes](/assets/md/git-notes) about managing the blog and in particular uploading new posts.
+
 This blog uses the <a href="http://www.google.co.uk/analytics/">Google Analytics</a> service to better understand how people are accessing the site. This information is collected in an anonymous form and includes the number of visitors to the site.
 
 The blog is based on an early version of [HPSTR](https://mademistakes.com/work/hpstr-jekyll-theme/) written [Michael Rose](https://mademistakes.com/about/) and will continue to change as I learn more about page layouts and different approaches to web navigation.
