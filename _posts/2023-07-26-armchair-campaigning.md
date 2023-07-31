@@ -3,7 +3,7 @@ layout: post
 title: Lessons From Armchair Campaigning
 description: "Lessons learned from email campaigning"
 modified: 2023-07-26
-tags: [The Big Issue, Politicians]
+tags: [The Big Issue, Politicians, Email]
 image:
   background: backgrounds/general-background.jpg
   feature: features/armchair-campaigning.jpg
