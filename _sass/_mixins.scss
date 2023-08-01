@@ -63,7 +63,7 @@
 /* Just font-size and line-height */
 @mixin font($size) {
   font-size: 0px + $size;
-  font-size: 0rem + calc($size / $doc-font-size); // added calc to overcome deprecation warning
+  font-size: 0rem + $size / $doc-font-size; // added calc to overcome deprecation warning
   line-height: 0 + round($doc-line-height / $size*10000) / 10000; // added calc to overcome deprecation warning
 }
 
