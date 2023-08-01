@@ -53,3 +53,20 @@ Check the information stored in the osxkeychain used by github ( security )
 git config -l
 
 ```
+
+After an update of git sometimes the system asks for verification of the key chain on each upload to the repos. To solve the problem:
+
+1. Open <b>Keychain Access</b> ( <i>Applications/Utilities/Keychain Access</i>)
+
+2. Select <b>Keychains -> login<b> and <b>Category -> Passwords</b>
+
+3. Type <b>github.com</b> in the search box and find <b>Internet Password</b>. Right click and Delete. If there are more than one then check them before deleting.
+
+4. Go back to the Terminal and type:
+
+```
+git config --global credential.helper osxkeychain
+
+```
+
+On the next upload the system will ask for the git username and the git password.
