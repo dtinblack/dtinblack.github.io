@@ -11,7 +11,7 @@
   position: absolute;
   left: -$fa-li-width;
   width: $fa-li-width;
-  top: calc(2em / 14); // added calc to overcome deprecation warning
+  top: 2em / 14; // added calc to overcome deprecation warning
   text-align: center;
   &.#{$fa-css-prefix}-lg {
     left: -$fa-li-width + calc(4em / 14); // added calc to overcome deprecation warning
