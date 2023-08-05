@@ -4,7 +4,7 @@ title: Git Notes
 modified: 2020-07-26
 ---
 
-The following notes assume that Git is installed.
+The following notes assume that Git is installed. The blog uses [GitHub Pages](https://pages.github.com/). Sometime there is a clash between the gems used by the blog software and those used by GitHub Pages therefore it is important to check the [Dependency Versions](https://pages.github.com/versions/).
 
 Check the version of Git against the [latest version](https://git-scm.com/downloads)
 
