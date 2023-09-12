@@ -12,16 +12,16 @@ image:
 ---
 
 <p>
-Over the years of writing posts for this blog I have gathered lots of lessons. The following are the ones that I return to when my posts have lost their way.
+Over the years of writing posts for this blog I have learned lots of lessons. The following are the ones that I return to when my posts have lost their way.
 </p>
 
 <b>1. Why do you want to write a blog?</b>
 
-A large amount of time and energy go into into writing a blog. Therefore it is important to be clear about why you are doing it.  It can range from developing a customer base for your business to establishing yourself as a 'thought leader'. Or, as is in my case, having some fun.
+A large amount of time and energy go into into writing a blog. Therefore it is important to be clear about why you are doing it.  It can range from developing a customer base for your business to establishing yourself as a 'thought leader'.
 
 <b>2. Who is the target audience?</b>
 
-You must identify the target audience - the people who are going to want to read your posts. What helps me to identify the the target reader is to have a picture in mind of the reader. For example, they maybe working in a busy office, mid career, possibly a team leader and thinking about their next job. Or it could be the owner of a small SME struggling with innovating new products. It is dispiriting than spending hours producing a post that isn't going to be read by anyone!
+You must identify the target audience - the people who are going to want to read your posts. What helps me to identify the the target reader is to have a picture in mind of the reader. For example, they maybe working in a busy office, mid career, possibly a team leader and thinking about their next job. Or it could be the owner of a small SME struggling with innovating new products. After spending lots of hours producing a post it is dispiriting when it is not read!
 
 <b>3. Why would the target audience want to read the blog?</b>
 
@@ -33,11 +33,11 @@ Which communication channels will be used to promote the blog e.g. Twitter, reco
 
 <b>5. What frequency should the posts be published?</b>
 
-Everybody is busy and therefore how often will the target audience want to take a few minutes out to read the blog i.e once a week, once a month? Take into account the amount of time it will take to write a post and not churn them out too frequently so that the quality reduces - they must remain fresh.
+Everybody is busy and therefore how often will the target audience want to take a few minutes out to read the blog i.e once a week, once a month? Take into account the amount of time it will take to write a post and not churn them out too frequently so that the quality reduces - they must remain fresh and interesting.
 
 <b>6. What format should the blogs take? </b>
 
-The format needs to make reading the blog as easy as possible. For example what will be the best mix of graphics and text? However, many bloggers use videos which will require a different set of skills than the written word.
+The format needs to make reading the blog as easy as possible. For example what will be the best mix of graphics and text? Many bloggers use videos which will require a different set of skills than the written word.
 
 <b>7. What style should the blog have?</b>
 
@@ -55,7 +55,7 @@ There are any number of sources for gathering ideas for a post: newspapers, maga
 
 <b>b. Selecting An Idea To Develop</b>
 
-Set a deadline for each post which helps at the editing stage where time pressure can sharpen up a post. The following questions can be used to guide topic selection:
+Setting a deadline for each post helps at the editing stage where time pressure can sharpen up a post. The following questions can be used to guide topic selection:
 
 - What is the central message of the post?
 
@@ -67,7 +67,7 @@ At this point draft a single sentence about what the post is about which will ev
 
 <b>c. The First Draft(s)</b>
 
-The purpose of the drafts at this stage is try and sharpen up the subject of the post. After several drafts it may not be clear but it is important to persevere. Sometimes it doesn't become clear and then the idea goes back on the shelf until it has developed more. I try to write 500 words a day around the subject. At the end of say a week I sift through the pages to find the key idea and fresh views on the subject.
+The purpose of the drafts at this stage is try and sharpen up the subject of the post. After several drafts it may not be clear but it is important to persevere. Sometimes it doesn't become clear and then the idea goes back on the shelf until it can be developed more. I try to write 500 words a day around the subject. At the end of say a week I sift through the pages to find the key idea and fresh views on a subject.
 
 <b>d. [Point of View](http://www.bbc.co.uk/bitesize/ks3/english/reading/character/revision/5/)</b>
 
@@ -94,7 +94,7 @@ People can view editing as a 'slash and burn' process as their work is cut and c
 
 - Tags - are the tags cover the key points in the post?
 
-- Length - my posts are aimed at a quick read ( maybe over a coffee? ) therefore the length needs to be somewhere around 500 - 700 words. However, you may way to increase the length to cover wider topics. Your decision.
+- Length - my posts are aimed at a quick read ( maybe over a coffee? ) therefore the length needs to be somewhere around 500 - 700 words. However, you may want to increase the length to cover wider topics. Your decision.
 
 <b>10. How will feedback be gathered and used about the blog's readership?</b>
 
