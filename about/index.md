@@ -10,7 +10,7 @@ modified: 2021-08-26
 ---
 
 <p>
-I enjoy writing, and when I manage to express a thought clearly in a sentence I get a sense of achievement. Better still is when a reader understands the thought and uses it to develop their own!
+I enjoy writing, and when I manage to express thoughts clearly I get a sense of achievement. A quote that is always at the back of my mind when writing a post was from an email discussion that I had with [David Pinnegar](https://www.ft.com/content/79c7c444-a788-11e8-926a-7342fe5e173f) of [Hammerwood Park](https://www.hammerwoodpark.co.uk/) where he wrote: "Wittgenstein's concept that the last barrier to humanity is the understanding of language." It is a reminder how language is used, by who, and for what reason. However, my hope is that when a reader understands the thoughts discussed in the blog they go on to develop their own! 
 </p>
 
 The blog uses [GitHub Pages](https://jekyllrb.com/docs/github-pages/).  Over the years I have gathered some [notes](/assets/md/git-notes) about managing the blog and in particular uploading new posts.
