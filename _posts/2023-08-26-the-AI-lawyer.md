@@ -11,7 +11,7 @@ image:
   creditlink: https://www.tate.org.uk/art/artists/jackson-pollock-1785
 ---
 
-Image the situation where your neighbour keeps parking in front of your drive or the fence between your properties is falling down. You take some photos of the situation and within a few clicks you get an answer that gives you your legal rights and what to do next. Daydreaming? Maybe not.
+Imagine the situation where your neighbour keeps parking in front of your drive or the fence between your properties is falling down. You take some photos of the situation and within a few clicks, you get an answer that gives you your legal rights and what to do next. Daydreaming? Maybe not.
 
 In a [previous post](http://dtinblack.github.io/armchair-campaigning/) I had to read up on the law relating to renting. It was like wading through treacle and even if I had spent a solid month reading the documents I would have still been drowning. But with the hype around Artificial Intelligence [(AI)](https://chat.openai.com/) I was struck by a thought - why can't it answer some of my questions. So I gave it a go.  Starting with a simple question: my landlord is trying to evict me what should I do?  Although it politely reminded me it wasn't a lawyer, the best it came back with was the process that I should follow. I tried another, maybe a more contentious question: if I travel to the UK as an unaccompanied child from Syria will I be allowed into the UK? I had reached its limit and it reminded me that it didn't have access to real time information or current immigration policy. The answers were of no help but as the technology develops will the day come when it is as slick [Perry Mason](https://www.imdb.com/title/tt0050051/)?
 
