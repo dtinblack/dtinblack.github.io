@@ -101,3 +101,5 @@ People can view editing as a 'slash and burn' process as their work is cut and c
 Apart from using Google Analytics to gather the frequency of readership ( which could be used to set targets ), adding comment capabilities to the blog allows direct feedback about your posts. Finally, how will regular communication with the target audience be managed? - email subscriptions? RSS etc.?
 
 The lessons listed above are not definitive ( I keep adding to them on a regular basis ) but they may be a starting point to help turn you into successful blogger. Good luck!
+
+<i>I have gathered together tools and advice that I use regularly to sharpen up my posts - see <b>[tools of the trade](/assets/md/tools-of-the-trade)</b></i>
