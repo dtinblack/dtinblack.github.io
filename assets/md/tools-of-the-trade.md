@@ -43,7 +43,7 @@ Although not advice from a blog about making writing persuasive the following vi
 
 Word limit is important for two reasons: the length of the article should fit into the time that the target reader has to read the post e.g. a couple of minutes over a coffee, and an editing discipline - keeping the post to a target word length helps to sharpen up the thought(s) that are being communicated. The average [reading speed](https://wordsrated.com/reading-speed-statistics/) is about 183 words per minute.   
 
-Using website such as [Count Wordsmith](https://countwordsworth.com/) will analyse the post's text, including the number of metaphors and similies, so that it can be improved.
+Using website such as [Count Wordsmith](https://countwordsworth.com/) will analyse the post's text, including the number of metaphors and similes, so that it can be improved.
 
 ### Readability Tests
 
@@ -103,7 +103,7 @@ See the following for a website for a [Flesch Reading Ease Score calculator](htt
 
 To keep a post's text lean make sure that [adverbs](https://www.yourdictionary.com/articles/adverbs-list-printable) are kept to a [minimum](https://writetodone.com/shoot-adverbs/). Another aspect is when to use [capital letters](https://www.skillsyouneed.com/write/capital-letters.html), apart from at the beginning of a sentence.
 
-Ensure that most of the sentences [active](https://www.theschoolrun.com/what-are-active-and-passive-sentences) i.e. the subject of the sentence is performing the action. For example, Dickens’ use of passive sentences ( mainly dialogue and formal statements ) is less than 10%. Websites such as Grammarly have a [passive voice checker](https://www.grammarly.com/passive-voice-checker).
+Ensure that most of the sentences [active](https://www.theschoolrun.com/what-are-active-and-passive-sentences) i.e. the subject of the sentence is performing the action. For example, Dickens’ use of passive sentences ( mainly dialogue and formal statements ) is less than 10%. Websites such as Grammarly have a [passive voice checker](https://www.grammarly.com/passive-voice-checker) but is not free. However, the [Hemmingway App](https://hemingwayapp.com/) is free.
 
 [A cat, a hat and a simple measure of gobbledygook: How readable is your writing?](https://bankunderground.co.uk/2016/10/04/a-cat-a-hat-and-a-simple-measure-of-gobbledygook-how-readable-is-your-writing/#more-2108) is a general article that uses some of the reading tests described above and applied to financial industry.
 
