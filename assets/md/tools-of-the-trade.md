@@ -127,6 +127,10 @@ It is important to close the post in a way that the reader remembers what you ha
 
 Some ideas on endings for endings can be found in books, see [The 10 Best Book Endings](https://www.publishersweekly.com/pw/by-topic/industry-news/tip-sheet/article/56760-the-10-best-book-endings.html)
 
+### Search Engine Optimisation ( SEO )
+
+Useful post about developing an SEO friendly strategy for a blog: [FIVE TIPS FOR SUCCESSFUL SEO STRATEGIES.](https://www.transformcommunications.co.uk/post/five-tips-for-successful-seo-strategies).
+
 ### Inspiring Quotes
 
 An old trawler man's saying “Fail we may, sail we must” - in other words it is better to write something and fail than never to have written anything.
