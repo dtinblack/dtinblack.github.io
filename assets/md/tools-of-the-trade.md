@@ -37,7 +37,7 @@ Although not advice from a blog about making writing persuasive the following vi
 
 [Point of view](https://grammar.collinsdictionary.com/easy-learning/what-is-the-first-person-the-second-person-and-the-third-person-in-english) is the writer’s way of deciding who is telling the story to whom. Establishing a clear point of view is important because it dictates how your reader interprets characters, events, and other important details. There are three kinds of point of view: first person, second person, and third person. The following video gives a clear description: <br>
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/iFaaNuA9LKA?enablejsapi=1&origin=http://dtinblack.github.io/"  frameborder="0"></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/iFaaNuA9LKA?enablejsapi=1&origin=https://dtinblack.github.io/"  frameborder="0"></iframe>
 
 ### Word Count
 
@@ -66,7 +66,7 @@ The following tests can be used to improve the [readability](https://readable.co
 |7	|Seventh grade|
 |6	|Sixth grade|
 
-See the following website [Gunning Fog Index](http://gunning-fog-index.com/) where text can be cut & paste to calculate the index.
+See the following website [Gunning Fog Index](https://gunning-fog-index.com/) where text can be cut & paste to calculate the index.
 
 
 #### [Dale-Chall](https://en.wikipedia.org/wiki/Dale%E2%80%93Chall_readability_formula)

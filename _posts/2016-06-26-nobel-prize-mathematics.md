@@ -22,7 +22,7 @@ Since the first Nobel Prize awarded in 1901 mathematicians have made significant
 into rough or chaotic physical phenomena seen in shore lines to societies )
 are just a few who could have been considered for a Nobel Prize in mathematics. Imagine how many more breakthroughs in mathematics there would have been with the support of £600,000 prize money !
 
-Of course there are already awards for mathematicians, for example [The Abel Prize](http://www.abelprize.no/) which is considered the 'maths Nobel' and through the media raises the profile of mathematics. However, the Nobel brand would raise the profile of mathematics to a higher level and a wider audience.
+Of course there are already awards for mathematicians, for example [The Abel Prize](https://www.abelprize.no/) which is considered the 'maths Nobel' and through the media raises the profile of mathematics. However, the Nobel brand would raise the profile of mathematics to a higher level and a wider audience.
 
 Although the list of Nobel prizes has stuck to the original list of prizes, adding another subject has been done. The [Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel](https://www.nobelprize.org/nobel_prizes/economic-sciences/), donated by Sweden's central bank to
 celebrate its tercentenary in 1968 has remained on the list. I can appreciate that money

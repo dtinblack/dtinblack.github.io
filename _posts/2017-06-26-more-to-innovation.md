@@ -19,7 +19,7 @@ out and selling it".  This is great advice that could be used by any industry, g
 When a problem is written down on a piece of paper the sentences can be analysed in a way that
 fuzzy concepts, wild ideas, and general waffle can be removed. So how would this work ? Let's take an example, the National Health Service ( NHS ) in the UK are often criticised about the speed of innovation. This is a complex problem and there maybe many underlying factors but it is often heard that there is a lack of money to help speed up innovation. One attempt at writing out the problem could be:
 
-"The [NHS is slow at innovation](http://www.nhs.uk/news/2013/02February/Pages/Latest-obesity-stats-for-England-are-alarming-reading.aspx) because it doesn't have enough money."
+"The [NHS is slow at innovation](https://www.nhs.uk/news/2013/02February/Pages/Latest-obesity-stats-for-England-are-alarming-reading.aspx) because it doesn't have enough money."
 
 The first thing to observe about the statement is that it identifies a problem:
 "The NHS is slow at innovation" and a solution: "it doesn't have enough money".  Digging deeper there are three concepts that are at best unclear: "slow", "innovation" and "enough". Starting with "slow" it is unclear how slow is slow - is it a perception or are there some hard facts ? ( a quick web
@@ -29,7 +29,7 @@ search on the web shows that there are many definitions of innovation ( around 1
 A better example of analysing a problem when it is written down is:
 
 "One of the highest priorities for the
-[NHS is the reduction of obesity](http://www.nhs.uk/news/2013/02February/Pages/Latest-obesity-stats-for-England-are-alarming-reading.aspx) which is estimated to cost £6bn per year".
+[NHS is the reduction of obesity](https://www.nhs.uk/news/2013/02February/Pages/Latest-obesity-stats-for-England-are-alarming-reading.aspx) which is estimated to cost £6bn per year".
 
 The description of the problem is clearly defined and quantified. However, it could be criticised for
 being at too high a level - too abstract. It could be broken down into factors that are contributing to obesity, for example: education, economic, social context, life style, public health etc. which could be quantified, and then alternative solutions explored.

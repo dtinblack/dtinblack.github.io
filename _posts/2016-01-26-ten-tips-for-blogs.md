@@ -69,7 +69,7 @@ At this point draft a single sentence about what the post is about which will ev
 
 The purpose of the drafts at this stage is try and sharpen up the subject of the post. After several drafts it may not be clear but it is important to persevere. Sometimes it doesn't become clear and then the idea goes back on the shelf until it can be developed more. I try to write 500 words a day around the subject. At the end of say a week I sift through the pages to find the key idea and fresh views on a subject.
 
-<b>d. [Point of View](http://www.bbc.co.uk/bitesize/ks3/english/reading/character/revision/5/)</b>
+<b>d. [Point of View](https://www.bbc.co.uk/bitesize/ks3/english/reading/character/revision/5/)</b>
 
 It is important to be clear what the relationship between yourself and the reader.
 

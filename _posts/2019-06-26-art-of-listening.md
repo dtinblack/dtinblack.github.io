@@ -8,7 +8,7 @@ image:
   background: backgrounds/general-background.jpg
   feature: features/art-of-listening.jpg
   credit: Executive Secretary
-  creditlink: http://executivesecretary.com/the-art-of-listening/
+  creditlink: https://executivesecretary.com/the-art-of-listening/
 ---
 
 Every time I take our car in for its annual [MOT](https://en.wikipedia.org/wiki/MOT_test) I am always intrigued about what the retailer will try and sell me. But recently I misheard their latest sales pitch which created lots of frustration.

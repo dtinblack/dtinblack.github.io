@@ -19,12 +19,12 @@ a land where only a few can tread. But recently I have had to step into it when 
 
 I have reached an age where health is starting to dominate my thoughts; in particular my prostate has been painfully brought to my attention. My doctor summarised the situation "your days of peeing over the school yard wall are over!" Therefore to diagnose the problem I have had various tests and examinations including the [Prostate Specific Antigen](https://prostatecanceruk.org/prostate-information/prostate-tests/psa-test) ( PSA ) test which is used to detect prostate cancer. When searching the web to find out more about the test I came across the phrase “false positive” which seems like a riddle posed by Yoda for ‘Young Skywalker’ in Star Wars. How can something be “false” and yet “positive” ?
 
-Developing a [medical test](http://www.lymphomation.org/CTTutorial.pdf) is subject to many constraints. For example, the test should ideally be non-invasive, easy to use, and low cost. Also, because of the complexity of the human body and the limited level of knowledge about how it works the results from a medical tests are rarely 100% accurate. Accuracy is important. For example if a test is 90%
+Developing a [medical test](https://www.lymphomation.org/CTTutorial.pdf) is subject to many constraints. For example, the test should ideally be non-invasive, easy to use, and low cost. Also, because of the complexity of the human body and the limited level of knowledge about how it works the results from a medical tests are rarely 100% accurate. Accuracy is important. For example if a test is 90%
 accurate then the results of 90 tests out of 100 will correctly show whether a person has the disease or not.  But for the remaining 10 tests the results will be wrong.
 
 To work out what false positive means with respect to myself and the PSA test I grabbed my pen and paper and settled down to work out the following example. First, there is a lot of
-<a href="http://www.cancerscreening.nhs.uk/prostate/prostate-patient-info-sheet.pdf" >
-controversy about the [accuracy of the PSA test](http://www.medicaldaily.com/psa-test-deemed-too-inaccurate-unspecific-prostate-cancer-screening-guidelines-308018)
+<a href="https://www.cancerscreening.nhs.uk/prostate/prostate-patient-info-sheet.pdf" >
+controversy about the [accuracy of the PSA test](https://www.medicaldaily.com/psa-test-deemed-too-inaccurate-unspecific-prostate-cancer-screening-guidelines-308018)
 </a> therefore it is very difficult to get a definitive number on its accuracy. However, for the purposes of this example I assumed that it is 33% accurate ( or 1 in 3 ).
 It is important to note that if the test result is positive it does not mean that there
 is a probability of 33% of having prostate cancer. What is usually missed is the [baseline information](https://en.wikipedia.org/wiki/Base_rate_fallacy), which is the information about the situation before any testing is carried out. Therefore,
@@ -53,8 +53,8 @@ From the digram it can be seen that the test gives the correct result for one ca
 
 A large number of false positive results indicates that there is a low probability of having the disease. When a test has a low accuracy then more medical tests have to be performed. For example following a positive result from a PSA test then further tests will be required, for example an [ultrasounds scan](https://www.radiologyinfo.org/en/info.cfm?pg=us-prostate) or a biopsy before a diagnosis is reached.
 
-The PSA test is quick and cheap, it can costs between £30 - £50 per test, but it can be unreliable, However, there are new medical tests being developed to improve the accuracy in detecting prostate cancer, for example: [Imaging techniques uising MRI]( http://www.bbc.co.uk/news/health-38665618), [improved blood test](http://www.dailymail.co.uk/health/article-4511066/New-blood-test-prostate-cancer-accurate-PSA.html#ixzz51DocwbDV) and
-[urine test](http://www.dailymail.co.uk/health/article-2573395/The-10-prostate-test-New-cancer-check-twice-accurate-no-need-embarrassing-examination.html).
+The PSA test is quick and cheap, it can costs between £30 - £50 per test, but it can be unreliable, However, there are new medical tests being developed to improve the accuracy in detecting prostate cancer, for example: [Imaging techniques uising MRI]( https://www.bbc.co.uk/news/health-38665618), [improved blood test](https://www.dailymail.co.uk/health/article-4511066/New-blood-test-prostate-cancer-accurate-PSA.html#ixzz51DocwbDV) and
+[urine test](https://www.dailymail.co.uk/health/article-2573395/The-10-prostate-test-New-cancer-check-twice-accurate-no-need-embarrassing-examination.html).
 
 Next time I discuss further medical tests with my doctor to diagnose the problems with my prostate I will be asking about its false positive result. It may not put my mind to rest
 but it will reduce the terminology fog and then I can concentrate on managing the situation !

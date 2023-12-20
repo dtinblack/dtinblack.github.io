@@ -8,7 +8,7 @@ image:
   background: backgrounds/general-background.jpg
   feature: features/on-first-reading-wittgenstein.jpg
   credit: Delaware County Library
-  creditlink: http://www.delcolibraries.org/book-clubs-bag
+  creditlink: https://www.delcolibraries.org/book-clubs-bag
 ---
 Over the years, a handful of books have pointed my curiosity in new directions. But there is one book that is still opening up new areas to explore.
 

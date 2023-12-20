@@ -16,11 +16,11 @@ A quote that is always at the back of my mind when writing a post was from an em
 
 The blog uses [GitHub Pages](https://jekyllrb.com/docs/github-pages/).  Over the years I have gathered some [notes](/assets/md/git-notes) about managing the blog and in particular uploading new posts.
 
-This blog uses the <a href="http://www.google.co.uk/analytics/">Google Analytics</a> service to better understand how people are accessing the site. This information is collected in an anonymous form and includes the number of visitors to the site.
+This blog uses the <a href="https://www.google.co.uk/analytics/">Google Analytics</a> service to better understand how people are accessing the site. This information is collected in an anonymous form and includes the number of visitors to the site.
 
 The blog is based on an early version of [HPSTR](https://mademistakes.com/work/hpstr-jekyll-theme/) written [Michael Rose](https://mademistakes.com/about/) and will continue to change as I learn more about page layouts and different approaches to web navigation.
 
-Video embeds are responsive and scale with the width of the main content block with the help of [FitVids](http://fitvidsjs.com/).
+Video embeds are responsive and scale with the width of the main content block with the help of [FitVids](https://fitvidsjs.com/).
 
 Over the years I have gathered tips on how to [maintain](/assets/md/maintenance) the site which may help you if you are running a Jekyll based blog. In a similar vein when Google has thrown up a few problems their solutions can be found [here](/assets/md/resolved-problems)
 

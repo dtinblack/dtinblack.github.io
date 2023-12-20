@@ -8,7 +8,7 @@ image:
   background: backgrounds/general-background.jpg
   feature: features/career-advice-philosopher.jpg
   credit: DEESTUFF.ORG
-  creditlink: http://www.deepstuff.org/how-the-brain-makes-decisions/
+  creditlink: https://www.deepstuff.org/how-the-brain-makes-decisions/
 ---
 
 Recently the paper shredder has been working overtime.  It has been chewing its way through bills, bank statements and a few drawers worth of career documents: CVs, pay slips, bonus letters and redundancy notices. Stopping frequently to let it cool down, a thought emerged about my career and the path it had taken - had it been worth it ? Then I remembered the advice the philosopher Wittgenstein gave to Maurice Drury, one of his ex-students.

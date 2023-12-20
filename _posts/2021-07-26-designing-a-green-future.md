@@ -17,7 +17,7 @@ A future without many of the things that I take for granted looks very daunting.
 
 What is needed is a design revolution, a movement to develop new products that are sensitive to their impact on the environment and gives a sense of optimism in reversing climate change.
 
-Many of the [design movements](http://designkmg.weebly.com/design-movements.html) from the past have left an everlasting impact on the way that we live.   The [Bauhaus](http://designkmg.weebly.com/design-movements.html) concentrated on function rather than form and influenced everything from architecture to fabrics and produced many sought after design classics. Their near abstract lines can still be seen today.
+Many of the [design movements](https://designkmg.weebly.com/design-movements.html) from the past have left an everlasting impact on the way that we live.   The [Bauhaus](https://designkmg.weebly.com/design-movements.html) concentrated on function rather than form and influenced everything from architecture to fabrics and produced many sought after design classics. Their near abstract lines can still be seen today.
 
 &nbsp;
 <p>

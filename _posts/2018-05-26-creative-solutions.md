@@ -35,5 +35,5 @@ The group session was a success and PP&L used a helicopter to blow the ice off t
 
 <i>See the attached video for a helicopter blowing snow and ice off a power line using a steam hose:</i>
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/Q1RsP_yKxek?enablejsapi=1&origin=http://dtinblack.github.io/"
+<iframe width="560" height="315" src="//www.youtube.com/embed/Q1RsP_yKxek?enablejsapi=1&origin=https://dtinblack.github.io/"
 frameborder="0"></iframe>  

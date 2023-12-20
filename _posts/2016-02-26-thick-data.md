@@ -19,7 +19,7 @@ How could Big Data be thickened ? What capability would computer technology have
 to add context to data ?
 
 In Clifford Geertz’ paper
-<a href="http://philpapers.org/archive/GEETTD.pdf" >
+<a href="https://philpapers.org/archive/GEETTD.pdf" >
 Thick Description: Toward an Interpretive Theory of Culture</a>
 he describes a situation challenge that computer technology would have to overcome to thicken data ( if you are interested in anthropology and ethnography then the whole paper is worth reading ):
 “… two boys rapidly contracting the eyelids of their right eyelids of their eyes. In one,
@@ -32,7 +32,7 @@ to socially established code, and (5) without of the cognizance of the rest of t
 
 Current computer technology can capture and analysis eye movement, and possibly distinguish a wink from normal eyelid movement, but can not interpret the communication of a wink. Also, computer technology has developed to a point where emotions
 can be captured ( see the
-<a href="http://www.myfeel.co/">Feel Wrist Band</a> ) and levels of motivation
+<a href="https://www.myfeel.co/">Feel Wrist Band</a> ) and levels of motivation
 can be measured ( usually measured against set goals ). However, gathering data to analyse the social context, as described in the passage above, has a long way to go.
 
 The challenge for both computer technologists, and sociologists is: what developments in computer technology are required to gather thick data to enable a greater insight into our behaviours and motivations?

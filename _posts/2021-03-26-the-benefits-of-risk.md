@@ -8,7 +8,7 @@ image:
   background: backgrounds/general-background.jpg
   feature: features/the-benefit-from-risk.jpg
   credit: Hidden Art
-  creditlink: http://www.r4i-it.com/risks-and-benefits/
+  creditlink: https://www.r4i-it.com/risks-and-benefits/
 ---
 
 The subject of risk has hit the media in connection with the side effects of the [Oxford-AstraZenica](https://www.gov.uk/government/publications/regulatory-approval-of-covid-19-vaccine-astrazeneca) vaccine. But the benefits of the vaccine are being drowned out by the general chatter about the risk of [blood clots](https://www.bmj.com/content/372/bmj.n774). Risk makes good headlines but are we missing out when the benefits are not included in the discussion?

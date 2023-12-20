@@ -17,14 +17,14 @@ The purpose of a <a href="https://en.wikipedia.org/wiki/Medical_device">medical 
 is to "diagnose, prevent, or treat a disease or other conditions, and does not achieve its purposes through chemical action within or on the body." They can
 <a href="https://en.wikipedia.org/wiki/Medical_device">range</a>
 from disposable gloves through to
-<a href="http://www.mayoclinic.org/tests-procedures/robotic-surgery/basics/definition/prc-20013988">Robotic Surgeons.</a>
+<a href="https://www.mayoclinic.org/tests-procedures/robotic-surgery/basics/definition/prc-20013988">Robotic Surgeons.</a>
 The market for medical devices is projected to be a market worth
 <a href="https://www.visiongain.com/Press_Release/498/%E2%80%98The-global-medical-devices-market-will-reach-398-0bn-in-2017%E2%80%99-predicts-new-visiongain-report" >$398 bn</a>
 globally by 2017. The urinary catheter market is estimated to be worth
-<a href="http://www.businesswire.com/news/home/20150113005620/en/Urinary-Catheters-Market-Worth-US2.37-Billion-2020">$2.37 bn</a> by 2020. Big business !
+<a href="https://www.businesswire.com/news/home/20150113005620/en/Urinary-Catheters-Market-Worth-US2.37-Billion-2020">$2.37 bn</a> by 2020. Big business !
 
 The urinary catheter has been around for
-<a href="http://orca.cf.ac.uk/77060/1/03091902.2015.1085600.pdf">3500 years.</a>
+<a href="https://orca.cf.ac.uk/77060/1/03091902.2015.1085600.pdf">3500 years.</a>
 The earliest ones consisted of bronze tubes, reeds, straws and curled-up palm leaves ( ouch ! ). The device has evolved throughout the centuries to the one that I used with all of its parts made from soft plastic. There must be many design challenges and off the top of my head they would include: minimise infection, no leakage, minimal pain during installation and extraction, ease of use for example when changing the bags. The actual list I am sure will be significantly longer.
 
 Using the catheter requires some basic plumbing skills that most of us who connect garden hose pipes can easily master. The valves used on the bags are an example of keeping it simple with an intuitive way of switching it off and on. Also, through trial and error with a series of bands I managed to strap bag and pipe onto my leg in such a way that I could walk normally.
