@@ -127,20 +127,25 @@ It is important to close the post in a way that the reader remembers what you ha
 
 Some ideas on endings for endings can be found in books, see [The 10 Best Book Endings](https://www.publishersweekly.com/pw/by-topic/industry-news/tip-sheet/article/56760-the-10-best-book-endings.html)
 
-### Search Engine Optimisation ( SEO )
+### Website Copywriting
 
-Useful post about developing an SEO friendly strategy for a blog: [FIVE TIPS FOR SUCCESSFUL SEO STRATEGIES.](https://www.transformcommunications.co.uk/post/five-tips-for-successful-seo-strategies).
+Website copywriting is the process of writing a website and typically covers: blogs, landing pages, product pages etc. [The Secrets of Website Copywriting](https://www.youtube.com/watch?v=aqlGtnjtaXc) covers topics such as key word research, site structure, [pillow pages](https://twelverays.agency/blog/what-are-pillow-links) and "call to action".  Also, [FIVE TIPS FOR SUCCESSFUL SEO STRATEGIES.](https://www.transformcommunications.co.uk/post/five-tips-for-successful-seo-strategies) gives advice about developing an [SEO](https://developers.google.com/search/docs/fundamentals/seo-starter-guide) friendly strategy for a blog.
+
+### Fallacies to avoid
+
+If the post has a structured argument underpinning then there are several [fallacious arguments](https://www.merriam-webster.com/dictionary/fallacious) to be avoided. [How to Argue Against Common Fallacies](https://www.futurelearn.com/info/courses/logical-and-critical-thinking/0/steps/9131) gives over twenty examples of arguments that are fallacious.
+
 
 ### Inspiring Quotes
 
 An old trawler man's saying “Fail we may, sail we must” - in other words it is better to write something and fail than never to have written anything.
 
-“Writing a book is not unlike building a house or planning a battle or painting a picture. The technique is different, the materials are different, but the principle is the same. The foundations have to be laid, the data assembled, and the premises must bear the weight of their conclusions.""
+“Writing a book is not unlike building a house or planning a battle or painting a picture. The technique is different, the materials are different, but the principle is the same. The foundations have to be laid, the data assembled, and the premises must bear the weight of their conclusions."
 
 “The whole when finished is only the successful presentation of a theme” - Winston Churchill
 
 
-"The heat of the sun on your face and the calculations performed to predict its path are like ‘ a cross bearing’." - Winston Churchill
+"The heat of the sun on your face and the calculations performed to predict its path are like ‘a cross bearing’." - Winston Churchill
 
 
 "It is not the state of the letter that delivers the message - it is the benefit of the message that is important" - Winston Churchill

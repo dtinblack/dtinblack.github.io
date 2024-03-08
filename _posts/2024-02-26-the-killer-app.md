@@ -1,0 +1,26 @@
+---
+layout: post
+title: Searching For The 'Killer App'
+description: "Killer Apps are found retrospectively."
+modified: 2024-02-26
+tags: [Computer Technology, Augmented Reality]
+image:
+  background: backgrounds/general-background.jpg
+  feature: features/the-killer-app.jpg
+  credit: Dave Holt
+  creditlink: https://www.saatchiart.com/art/Painting-Beyond-Logic-and-Reason/1337455/7412653/view
+---
+
+Each day there seems to be the launch of a new product claiming that it will change our lives. If computer technology is involved then the sales pitch stretches reality to breaking point. Apple's latest product, [Vision Pro](https://www.apple.com/apple-vision-pro/) fits neatly into this category. But will it really change our lives?
+
+Vision Pro is the latest iteration in [Augmented Reality](https://en.wikipedia.org/wiki/Augmented_reality) ( AR ) which first saw the light of day at [Harvard in 1968](https://hbr.org/2016/10/the-mainstreaming-of-augmented-reality-a-brief-history). The product consists of a headset that shows a mix of the real world and computer generated content. We are probably familiar with some of the technology's ideas through its use on the web: superimposing different styles of spectacles onto a  face or fit a sofa, or wallpaper onto a room in our homes. It has a lot of potential applications in a broad range of industries. But I suspect the thought of walking around wearing something the size of diving face mask will put most people off.
+
+Manufacturers are trying to develop new products that can be labelled the ['killer app'](https://en.wikipedia.org/wiki/Killer_application), a piece of software that we can't live without which and which increases their profitability. Probably the best known killer app is the spreadsheet. It was launched in 1979 with the first product being [VisiCalc](https://en.wikipedia.org/wiki/VisiCalc) on an Apple and then it was quickly followed by IBM on their PC with [Lotus 1-2-3](https://en.wikipedia.org/wiki/Lotus_1-2-3). Initially it was thought that accountants would be replaced by the spreadsheet but what happened was that it was the accounting clerks that were replaced by out sourcing the number crunching to the machine. Today there are probably more accountants than ever but it is because of other factors such as the increase in complex legislation and taxation.
+
+However, there was a bigger impact in other areas such as Science and Engineering. The engineering company that I worked for took the bold step of buying one of the early PCs. It sat in our office for a few months with many people peering at it as they walked past. Until its arrival, I was using a large computer to carry out engineering calculations which could take between five minutes to many hours to complete a set of results. One day I switched it on and found Lotus 1-2-3.  I started to play with it and discovered its potential in manipulating numbers.  We quickly transferred most of the equations from the main computer to the spreadsheet and carried out the calculations in a matter of seconds. Many other companies spotted the spreadsheet's potential and quickly adopted for other areas of Engineering and Science.
+
+In general, the golden rule is that "software sells hardware".  The rule can be seen in action today with [generative AI](https://en.wikipedia.org/wiki/Generative_artificial_intelligence) driving up the [demand](https://www2.deloitte.com/uk/en/insights/industry/technology/technology-media-and-telecom-predictions/2024/generative-ai-chip-market-to-reach-40-billion-in-2024.html) for advanced computer chips which will eventually bring their cost down and sophisticated AI applications will be as common today as spreadsheets. Any software product must meet three criteria: it solves an important problem ( in my case it was speeding up calculations so that we could improve our engineering designs ), it is easy to use, and is affordable. In the case of the spreadsheet, it had an initial high cost because PCs were around $2000 at the time, but the demand for it contributed to the reduction in computer costs which increased its affordability. Today, where there are numbers being used, there is usually a spreadsheet in the background.
+
+But it is only when we look back that we can see that the spreadsheet was a piece of software that earned the label of being a 'killer app'. And as any [good philosopher](https://the-rambling.com/2019/02/14/valentines-kareem/) will point out that there are no good arguments that the past can be used to predict the future. In the case of the spreadsheet, who in the late 70s would have predicted that it would rule the world of numbers?
+
+[Vision Pro](https://pixelplex.io/blog/vision-pro-use-cases/) has potentially many applications ranging from improved collaboration, entertainment and health.  But AR is still trying to find a fundamental problem that would make it indispensable to how we live.  In other words it is a 'solution trying to find a problem'. Apple should drop its price, which is currently around [$3,499](https://www.bbc.co.uk/news/technology-67922296), so that it is made more accessible to as many people as possible. Then maybe somebody will switch it on and invent an application that historians looking back will label a 'killer app'.
