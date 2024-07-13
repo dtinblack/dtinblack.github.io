@@ -6,9 +6,9 @@ modified: 2024-05-26
 tags: [Regenerative Farming, Clarkson's Farm, Consumers, Government]
 image:
   background: backgrounds/general-background.jpg
-  feature: features/save-our-soil.jpg
-  credit: Hannah Woodman
-  creditlink: https://www.hannahwoodman.co.uk/
+  feature: features/save-our-soils.jpg
+  credit: Frank Ramspott
+  creditlink: https://fineartamerica.com/featured/group-of-earthworms-soil-drawing-frank-ramspott.html
 ---
 Digging below the entertainment of [Clarkson's Farm](https://en.wikipedia.org/wiki/Clarkson%27s_Farm) successful third series, a fundamental problem can be found that will affect us all. But will we have enough time to find a solution?
 
