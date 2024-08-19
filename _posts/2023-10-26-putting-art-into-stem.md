@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Need For Art Into STEM
+title: The Need For Art In STEM
 description: "Increasing art in the education system."
 modified: 2023-10-26
 tags: [Art, Creativity, Education]
@@ -11,7 +11,7 @@ image:
   creditlink: https://www.abc.net.au/news/2017-12-12/what-to-do-with-all-your-childrens-drawings-school-creations-art/9246908?utm_campaign=newsweb-article-new-share-null&utm_content=link&utm_medium=content_shared&utm_source=abc_news_web
 ---
 
-Art is the poor relation of education. When [budgets](www.theartnewspaper.com/2021/07/22/uk-government-approves-50percent-funding-cut-for-arts-and-design-courses) need to be cut it is always the first to suffer, in particular when it is up against ([STEM](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics)). This is short sighted. Without skills and experience in art then society suffers on a multitude of levels.
+Art is the poor relation of education. When [budgets](https://www.theartnewspaper.com/2021/07/22/uk-government-approves-50percent-funding-cut-for-arts-and-design-courses ) need to be cut it is always the first to suffer, in particular when it is up against ([STEM](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics)). This is short sighted. Without skills and experience in art then society suffers on a multitude of levels.
 
 My early experience of art was using crayons and teachers who had little interest in the subject. They set us small challenges along the lines of 'today I want you to draw ...' rather than teaching us about different art techniques ad really looking at an object.  My flowers were clearly a species never seen before and my pictures of animals looked like I was having a nightmare. My artistic career peaked when I was about twelve years old when I came top of the class with my drawing of a municipal [gas holder](https://en.wikipedia.org/wiki/Gas_holder) on fire. Apparently I caught the colour and shape of flames. My low point came many years later when as part of an exam for a degree I was asked to draw a carrot. Basically I couldn't be bothered and threw a few scribbles on the paper. The examiner wasn't impressed even after hearing my excuse that I was trying to catch the 'carrotness' of a carrot. My career headed away from art but my interest continued to grow through TV with programmes such as Robert Hughes [The Shock of The New](https://en.wikipedia.org/wiki/The_Shock_of_the_New), Sister Wendy's [Story of Painting](https://en.wikipedia.org/wiki/The_Shock_of_the_New ) and Matthew Collings [This is Modern Art](https://en.wikipedia.org/wiki/This_is_Modern_Art).  Today I visit galleries when we are passing through new towns and cities and my [Pinterest](https://www.pinterest.co.uk/) boards continue to grow. But I have always felt that if I had a better introduction to art then not only would it have enriched my life but my career may have taken a different direction.
 
