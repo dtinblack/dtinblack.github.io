@@ -8,7 +8,7 @@ image:
   background: backgrounds/general-background.jpg
   feature: features/home-baked-bread.jpg
   credit: maha rukab
-  creditlink: The Bread of Life
+  creditlink: https://www.saatchiart.com/en-gb/art/Painting-The-Bread-of-Life/671805/7485871/view
 ---
 
 I enjoy baking my own bread for myself and family but with the [cost of living crisis](https://www.theguardian.com/business/cost-of-living-crisis) is it a luxury that we can still afford?
