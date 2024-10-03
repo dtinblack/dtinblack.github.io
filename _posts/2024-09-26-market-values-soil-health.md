@@ -1,0 +1,25 @@
+---
+layout: post
+title: Can The Market Value Soil Health?
+description: "Using Market forces to value soil health."
+modified: 2024-09-26
+tags: [UK Government, Soil Health, Economics]
+image:
+  background: backgrounds/general-background.jpg
+  feature: features/market-values-soil-health.jpg
+  credit: https://www.canvasbutik.com/gallery/abstract-oil-painting-soil.html
+  creditlink: CANVASBUTIK
+---
+
+When money enters a discussion it quickly focuses peoples attention. Can a price be put on soil health?
+
+By all accounts the health of our [soil is declining](https://www.soilassociation.org/media/24941/saving-our-soils-report-dec21.pdf) to the point where it will be dead within two generations. The government is blind to the issue. The recent House of Lords' proposal for a [Land Use Commission](https://committees.parliament.uk/committee/583/land-use-in-england-committee) to enable the development land use failed to address soil health which is critical for food production. Other initiatives such as the government's Environmental Land Management ( ELMs ) concentrates on biodiversity and other related issues such as countryside recovery but there appears to be no tangible support for improving soil health.
+
+The current food system is driven by markets i.e. how we spend our money on food, and demands that food is produced as cheaply as possible. Farmers are aware that the most important asset on their farm is their soil but they are under extreme pressure to meet this demand which undermines its long term health.  Farming techniques centred on soil health have been growing over the years, such as organic farming and more recently regenerative farming but they remain a small percentage of land being farmed e.g. [organic farming is about 3% of the total land farmed](https://www.gov.uk/government/statistics/organic-farming-statistics-2022/organic-farming-statistics-2022). However, both of these approaches increase the cost of food which will have consequences for us, something that politicians seem to be ignoring.
+
+When a farm comes up for [sale](https://www.savills.co.uk/searchresults/site-search-results.aspx?page=1&searchKey=farms&filter=) the quality of the land is mentioned using some form of classification; for example in England and Wales the [Agricultural Land Classification](https://www.gov.uk/government/publications/agricultural-land-assess-proposals-for-development/guide-to-assessing-development-proposals-on-agricultural-land) is used, Scotland has the [Land Capability for Agriculture]( https://www.hutton.ac.uk/land-capability-for-agriculture-lca) and in Northern Ireland their classification system is from the [Agri-Food and Biosciences Institute](https://www.ukso.org/static-maps/soils-of-northern-ireland.html). But these approaches can be broad brush and don't describe the soil's health in any detail. Sometimes in a farm's sale literature there is mention of the [land's productivity](https://realadvisor.co.uk/en/blog/value-of-agricultural-land-uk): higher the productivity of a farm then the higher its value. For example the [avergae price](https://rural.struttandparker.com/article/english-estates-farmland-market-review-winter-2023-24/) of farmland in England during 2023 made more than £10,000/acre but the range can vary from £4,000/acre to a high of £16,100/acre. But using productivity is a crude way to value soil health. Productivity depends on the decisions being made about what will maximise profit which can vary dramatically from year to year.  
+
+What I am proposing is that soil health is a clearly defined asset that joins the traditional assets such as buildings and equipment which would let it be valued by market forces. Healthier soil would command a higher price when sold. Unhealthy soil would be at a lower price but would be an opportunity for buyers to improve its health and increase its value. To achieve this, a better way of measuring soil health could be added to the current ways of surveying land.  Robotics could be used to measure and analysis soil samples quickly and new statistical techniques could be used to assess a field from a small number of measuring points, using techniques from other [industries](https://en.wikipedia.org/wiki/Oil_and_gas_reserves_and_resource_quantification),  
+therefore reducing the costs of the survey. The measurement of soil health could be repeated every five years, or before a farm was being sold, to assess the level of improvement. The land on a farm could then be classified and its value determined by the market. Higher the classification then the higher its value. Even a British Standard could be established so that there was consistency in soil health assessments.
+
+Based on the current predictions of the decline of soil health the only conclusion that can be drawn is that most attempts at addressing the problem are failing. There seems to be no government support in tackling soil health. Linking soil health to markets through a new classification system would incentivise its improvement. Maybe there will be a time in the future when soil will be as valuable as oil or gas!
