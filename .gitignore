@@ -12,3 +12,10 @@ node_modules
 package.json
 package-lock.json
 Gruntfile.js
+
+# Added for files produced during Latex compilation
+
+*.aux
+*.log
+*.out
+*.gz
