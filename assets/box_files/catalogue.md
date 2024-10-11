@@ -14,6 +14,6 @@ mathjax: true
 
 A. Paradoxes
 
-B. Books
+B. Mathematical Logic
 
-C. Mathematical Logic
+C. Books
