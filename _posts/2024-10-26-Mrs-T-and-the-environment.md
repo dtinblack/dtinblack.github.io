@@ -1,0 +1,28 @@
+---
+layout: post
+title: Mrs T On The Global Environment
+description: "Mrs Thatchers speech to the UN about the Climate Crisis"
+modified: 2016-11-26
+tags: [Climate Crisis, Geopolitics]
+image:
+  background: backgrounds/general-background.jpg
+  feature: features/Mrs-T-and-the-environment.jpg
+  credit: NASA Explorer 1
+  creditlink: https://explorer1.jpl.nasa.gov/galleries/earth-from-space/#gallery-15
+---
+
+Over 35 years ago a British Prime Minster took to the podium at a prestigious United Nations General Assembly meeting and delivered a warning about the oncoming global crisis. Was anybody listening?
+
+When Margaret Thatcher gave her speech in 1989 the world was in a different place. The threat of global annihilation from a nuclear war had receded due to a thaw in the Cold War. But a fundamental threat to human survival was gathering pace, the global environment. Today, major conflicts have returned with the shadow of nuclear warfare looming:  the on-going war in Ukraine and a possible miscalculation in the Middle East war. However, the deterioration in the global environment is beginning to reach a point where climate change maybe taking on a self-sustaining or 'runaway' quality which will become irreversible.
+
+Mrs Thatcher used her background in science to drive home the points about the threat to the global environment. For example, climate change is dependent upon human activity and therefore linked to population. Since the time of her speech, the [global population](https://www.macrotrends.net/global-metrics/countries/wld/world/population-growth-rate) has increased by 3bn, around 60%, and by the year 2050 it is estimated that it will level off at about 10bn which is about double the population since 1989. The increase in human activity has resulted in [the global temperature](https://climate.nasa.gov/vital-signs/global-temperature/) increasing by just under 1 &deg;C since the UN meeting. Today, the [lower global temperature threshold of 1.5 &deg;C](https://www.bbc.com/future/article/20231130-climate-crisis-the-15c-global-warming-threshold-explained), set by [COP21](https://lordslibrary.parliament.uk/the-1-5-degree-celsius-global-warming-threshold-could-it-be-breached-in-2024/), has been breached for a full 12 months.
+
+Many problems related to the environment are local. Mrs Thatcher mentioned that the UK had a target to recycle household waste by 50% by 2000. We have failed to hit that target. Currently, the average [recycling](https://www.recyclingbins.co.uk/pages/recycling-facts) across the UK is 46%. She also called for a reduction in vehicle emissions, one of the largest contributors to green house gases, which is happening but very slowly. The UK's [deadline](https://www.nao.org.uk/reports/reducing-carbon-emissions-from-cars/) for zero emissions has slipped from 2030 to 2035. She felt that farming should be encouraged "to reduce the intensity of their methods and to conserve wild-life habitats" but based on the current mishmash of government policies and data on species population the natural environment in the UK continues to deteriorate and remains the most depleted in the world.
+
+Amongst the solutions that Mrs Thatcher discussed was to strengthen global institutions rather than adding more, and greater support for poorer nations. Over the last 35 years there has been little  implementation of her solutions. One of the organisations that she mentioned was the [World Meteoroligal Organisation](https://wmo.int/) whose [budget](https://meetings.wmo.int/EC-78/Presentations/FINAC-44/8(1)%20Financial%20Statements%20for%202023%20-%20FINAC-44.pdf) has remained [flat]( https://library.wmo.int/viewer/56673/download?file=wmo_859_en.pdf&type=pdf&navigator=1) over the last 35 years, but due to inflation, it has reduced in real terms. A similar story for poorer nations. [The UK has been committed to 0.7% of Gross National Income (GNI)](https://lordslibrary.parliament.uk/uk-aid-spending-statistics-and-recent-developments/#heading-7) for foreign aid since 2013 but in 2020 it was reduced to 0.5%.
+
+Although Mrs Thatcher called for "multinationals to take the long view" most of them have returned to short termism and concentrate on [maximising profits for their shareholders](https://www.theguardian.com/us-news/2024/mar/22/oil-companies-emissions-goals-report). Although customers are more aware of environmental issues, in general, the markets are using ['greenwashing'](https://en.wikipedia.org/wiki/Greenwashing) to increase their profitability. Markets should be regulated by governments so that profit maximisation is not to the detriment of the environment. A clear example of weak regulation is the UK [water industry](https://en.wikipedia.org/wiki/Water_privatisation_in_England_and_Wales) which has lead to severe river pollution.  
+
+Towards the end of Mrs Thatcher's speech she offered a few rays of hope based on reason and science. Reason for everyone to accept the scale of the problem and act on solutions that must be developed  through a deeper scientific understanding about life on the planet.
+
+One year after her speech, Mrs Thatcher was out of office. She was a controversial figure and left behind a mixed legacy. But her speech to the United Nations Assembly remains the best summary of the threats to the global environment ( to read the full speech click <b>[here](https://www.margaretthatcher.org/document/107817)</b> ) and provides a framework for any future action. Nobody was listening 35 years ago. Maybe those who want our votes in the future should read her speech and explain how they are going to tackle the problem before we put a cross in their box?
