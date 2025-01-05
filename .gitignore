@@ -13,9 +13,14 @@ package.json
 package-lock.json
 Gruntfile.js
 
+<<<<<<< HEAD
 # Added for files produced during Latex compilation
 
 *.aux
 *.log
 *.out
 *.gz
+=======
+
+# new space for other items
+>>>>>>> f6eed14e6154664a4feaf31503444974108894b2
