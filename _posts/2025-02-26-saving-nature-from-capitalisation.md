@@ -2,13 +2,13 @@
 layout: post
 title: Saving Nature From Capitalisation?
 description: "Capitalisation of nature will fail biodiversity."
-modified: 2016-11-26
-tags: [tag 1, tag 2]
+modified: 2025-02-26
+tags: [Biodiversity]
 image:
   background: backgrounds/general-background.jpg
-  feature:
-  credit:
-  creditlink:
+  feature: features/saving-nature.jpg
+  credit: Andrew Walaszek
+  creditlink: https://www.saatchiart.com/en-gb/art/Painting-Biodiversity-loss/966125/8546611/view
 ---
 
 There's growing concern that the decline in nature will have an adverse effect on the UK's financial system. But managing this risk is based on a flawed analysis.
