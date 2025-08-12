@@ -1,0 +1,24 @@
+---
+layout: post
+title: Why Do Campaigns Miss Their Target?
+description: "Why do many campaigns fail?"
+modified: 2025-06-26
+tags: [Farming, UK Government]
+image:
+  background: backgrounds/general-background.jpg
+  feature: features/campaigns-that-miss-targets.jpg
+  credit: Kit Wolf Ghost
+  creditlink: https://www.saatchiart.com/en-mx/print/Painting-Fruits-and-Vegetables/818599/3589906/view
+---
+
+Most of the campaigns that I have supported have fallen at their early stages. A lot of them have turned out to be sound-bite issues: a lot of coverage in the socials and then they go silent. What is going wrong?
+
+At the end of 2023, I signed up to the campaign [Get Fair About Farming](getfairaboutfarming.co.uk). It's [aim](getfairaboutfarming.co.uk) was to ensure supermarkets buy the UK fruit and veg that they were committed to, payed on time, confirmed long-term agreements, defined fair specifications, and honoured agreed prices. It was an important issue because around 49% of UK fruit & veg growers feared collapse within the year. A petition with 113,000+ signatures was collected and it was supported by public figures such as Dragon's Den star Deborah Meaden, chef Rick Stein and wildlife TV presenter Chris Packham. The target of the campaign was to strengthen the [Groceries Code Adjudicator](https://www.gov.uk/government/organisations/groceries-code-adjudicator) who is responsible for regulating the relationships between the UK’s largest grocery retailers and their direct suppliers.
+
+I followed the debate held in Parliament during the early part of 2024. Then it went silent. I contacted a few MPs, and the originator of the campaign, to find out what was happening but the silence continued. I eventually found out, through web searches, that [Minister Mark Spencer](https://wickedleeks.riverford.co.uk/news/whats-next-in-the-fight-for-a-fair-deal-for-farmers/), the then Minister of State at the Department for Environment, Food and Rural Affairs acknowledged the debate but indicated no intention to change the [Grocery Supply Code of Practice](https://www.gov.uk/government/publications/groceries-supply-code-of-practice). Instead, he stated the government's plans to introduce statutory supply chain codes under the [Agriculture Act](https://www.legislation.gov.uk/ukpga/2020/21/contents), but without clear timelines.
+
+It is important to put the Get Fair About Farming campaign in context. The [UK imports](https://www.gov.uk/government/statistics/united-kingdom-food-security-report-2021/united-kingdom-food-security-report-2021-theme-2-uk-food-supply-sources) approximately 54% of the fresh vegs that it consumes, and around 84% of fruit comes from overseas. Tariffs on imported fruit and veg [vary by product](https://www.ife.co.uk/news/fpc-delivers-landmark-win-import-checks-eased-fees-waived-products-reclassified-major-boost-uk-food-industry), typically 6–16%, but many are zero under trade deals. The ability to import fruit and veg with minimal import tariffs puts the supermarket's in a powerful buying position with little or no economic incentive to buy UK products.
+
+The fundamental problem for farmers is selling enough produce at a price that sustains their business into the future and at the same time improving the environment. With over 100,000 signatures gathered by the the Get Fair About Farming campaign, the organisers could have used the support to continue applying pressure on the government after the Parliament debate and the Minister's decision. With  about 30% of the UK population meeting the [recommended 5+ portions daily](https://digital.nhs.uk/data-and-information/publications/statistical/health-survey-for-england/2022-part-1/adults-health-related-behaviours) the could have joined in the wider movement to get more fruit and veg on peoples plates. This could have been done by combining forces with campaigns such as [Peas Please](https://foodfoundation.org.uk/initiatives/peas-please), [Eat Then To Defeat Them](https://eatthemtodefeatthem.com/families/) or supported the NHS's trial[Fruit & Veg on Prescription](https://www.womenshealthmag.com/uk/food/healthy-eating/a60880079/prescribed-fruit-and-vegetables-by-gps/).  They could have shown that the problems that they were experiencing with the supermarkets was undermining the aims of the wider health initiatives, and campaigned for the government to 'level up the playing field' with imported fruit & veg through adjusting import tariffs.
+
+I have signed up to a range of campaigns over the years, whether improving the health of rivers to reducing poverty. So far, they have all ground to a near standstill. Campaigns need to identify the key issue that they are addressing and be prepared to maintain its momentum with ongoing public engagement. Next time you are asked to sign up, or contribute either time or money, to a campaign ask your self if they are targeting the underlying issues or is it another sound-bite campaign.
