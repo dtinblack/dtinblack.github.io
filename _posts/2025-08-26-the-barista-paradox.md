@@ -19,11 +19,13 @@ The Barista Paradox is as follows: in a small town there is one [barista](https:
 
 2. If she does not make it herself, then because she makes it for <i>all</i> those that don't make their own coffee, she makes herself a coffee.
 
-Therefore, the barista only makes herself a coffee, <i>if and only if</i> she does not make herself a coffee. A paradox! At this point, most philosophers would say that the only answer to this paradox is that the barista doesn't exist.  No door opening soon at the café!
+Therefore, the barista only makes herself a coffee, if and only if she does not make herself a coffee. A paradox! Most philosophers would say the answer is the barista 
+doesn't exist. No door opening soon!
 
-The first thing to notice about the paradox is the sprinkling of the terms 'all', 'only' and "if and only if" which signals that this is a problem in logic rather than a real life problem ( all the baristas that I know make their own coffee ). They add up to saying that for all coffee drinkers who do not make their own coffee they can only get it from the barista, and nobody else. Not a realistic situation, especially if the café is going to have a secure financial future.
+The paradox has a sprinkling of the terms ‘all’, ‘only’ and “if and only if” which signals it's a problem in logic rather than a real life problem. They force the description into saying that all coffee drinkers who do not make their own coffee can only get it from the barista, and nobody else. Not realistic, if the café has a future.
 
-The barista paradox shows what happens when a description of buying coffee is squeezed into a problem in logic. Logic has many applications; electronics, computer science and mathematics, but not buying a coffee. At this point, Wittgenstein would point out that the words from logic have been used in a situation where they have lost their meaning, and we have been sucked into the vortex called philosophy. Rather than spending lots of time puzzling over the meaning of the paradox we should grasp it for what it is: nonsense, and have another coffee.
+The barista paradox shows what happens when buying coffee is forced into a logical problem.  Logic has many applications; electronics, computer science and mathematics. Wittgenstein would show the words from logic have lost their meaning, when used in buying coffee, and we have been sucked into a philosophical vortex.  Rather than spending time puzzling about the paradox, we should see it as nonsense, and have another cup.
+
 
 Philosophers spend most of their careers thinking about our lives. Questions about what we know and the world that we live in, including how we should live with people. What they find is wrapped up in books that most of us don't open. However, they can influence decision makers who are always grasping for a banner to wave as a gathering point, such as [monetarism](https://en.wikipedia.org/wiki/Monetarism),  [classical liberalism](https://en.wikipedia.org/wiki/Classical_liberalism), [securonomics](https://www.neweconomybrief.net/the-digest/securonomics-explained) etc. Maybe we should have a closer look at what they are waving, just in case it is riddled with paradoxes which lead us nowhere.   
 
