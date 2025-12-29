@@ -13,14 +13,19 @@ background: backgrounds/general-background.jpg
 
 <b>Opening Sentences - how I came across Wittgenstein - book shop at Cranfield</b>
 
-About fifty years ago I came across a copy of Wittgenstein's Logico Tractatus ( know as the Tractatus ) in the university bookshop. Little did I know then that not only is that book still on my bookshelf but it has been joined by well over a hundred more!
+The following notes are for those who have similar thoughts about Wittgenstein's philosophy of mathematics. Following Wittgenstein, the level of mathematics used in the notes is at an elementary level.
 
 <b>Background</b>
 
-When I picked up the copy of the Tractatus I was about half way through an Msc in Applied Mathematics. the course. The course was a conversion form engineering to mathematics. It was during { need to describe how I first came across Wittgenstein }
+After I completed my degree agricultural engineering, in the early 70s, employment was not looking great. I had always been good at mathes so a lecturer suggested that I should apply for a conversion course ate Cranfield Institute of Technology ( now Cranfield University ) that took engineers and turned them into mathematians at MSc level. My application was successfull and I my career sprospects opened up aided by the emerge of a new technology called computers!
 
-Engineering and Mathematics
-Over 50 years of reading and studying Wittgenstein, against a background of a normal life. Why? - puzzled - feel that he is saying something important but I failed to understand.
+One afternoon I came across Russell and Whitheads three volume Pricipia Mathematica. The work reduceed arithmatic, the back bone of mathematics, to logic {     }. I couldn't get past the first few pages. When I returned to the study area I asked a colleuque if he know of anyone that understood the Principia. He quickly replied that he knew of at least four people: the authors themselves, Kurt Goedel and Wittgnestein. I had heard of Goedel because I few weeks earlier I had attended a Phd student's presentation about his work. But I had never heard about Wittgenstein. My colleague went on to give an outline of his life, how he started as an engineer, then developedn ainterest in the philsophical analysis which lead him to Bertrand Russell an Frege. Whith a few weeks I stumbled across the Tractatus.
+About fifty years ago I came across a copy of Wittgenstein's Logico Tractatus ( known as the Tractatus ) in my university bookshop. Little did I know then that not only is that book still on my bookshelf but it has been joined by well over a hundred more!
+
+About fifty years ago I came across a copy of Wittgenstein's Logico Tractatus ( known as the Tractatus ) in my university bookshop. Little did I know then that not only is that book still on my bookshelf but it has been joined by well over a hundred more!
+
+When I picked up the copy of the Tractatus I was half way through an MSc in Applied Mathematics. The course took engineers and turned them into mathematicians.
+
 
 <b>Challenges of reading Wittgenstein</b>
 
