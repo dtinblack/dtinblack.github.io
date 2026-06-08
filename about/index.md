@@ -13,7 +13,7 @@ I enjoy writing, and when I manage to express some thoughts clearly, then I get 
 
 A quote that is always at the back of my mind when writing a post was from an email discussion that I had with [David Pinnegar](https://www.ft.com/content/79c7c444-a788-11e8-926a-7342fe5e173f) of [Hammerwood Park](https://www.hammerwoodpark.co.uk/) where he wrote: "Wittgenstein's concept that the last barrier to humanity is the understanding of language." It is a reminder how language is used, by who, and for what reason. However, my hope is that when a reader understands the thoughts discussed in this blog they go on to develop their own!
 
-Over the years I have gathered my own thoughts about Wittgenstein's Philosophy which can be found <b>[here](/assets/md/box_file/test).</b>
+Over the years, I have developed a series of notes on mathematics ( [see here](/assets/md/box_file/bf_introduction)) to share the enjoyment and satisfaction it has brought me, and I hope they will inspire others to discover the subject for themselves.
 
 I try and keep the length of the blog to about a five minute read, or less, so that it can be read while sitting back and drinking a coffee.
 
