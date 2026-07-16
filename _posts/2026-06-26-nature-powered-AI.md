@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Natural World Powered by AI
+title: Biodiversity Powered by AI
 description: "Using AI to improve conservation decisions."
 modified: 2026-06-26
 tags: [AI, Biodiversity]
