@@ -14,7 +14,7 @@ tags: [Rule Changers, Star Trek, Capt. James T. Kirk, Business]
 In the opening scene of
 <a href="https://en.wikipedia.org/wiki/Star_Trek_II:_The_Wrath_of_Khan">Star Trek II: The Wrath of Khan</a>,
 the familiar characters are in position on the deck of the USS Enterprise:  McCoy, Sulu, Uhura and Spock. All present except Kirk. There is a new captain in charge.
-Computer voices start to break out, controls are franticly and the ominous sight of Klingons start to fill the screens. The Enterprise is a sitting duck and they start to come in for the kill. All are doomed !  
+Computer voices start to break out, controls are frantic and the ominous sight of Klingons start to fill the screens. The Enterprise is a sitting duck and they start to come in for the kill. All are doomed!  
 
 Suddenly a door swishes open and Kirk ( now an Admiral ) walks in to bring what we now realise is a training exercise to an end. As the film progresses hints are given that Kirk was the only person to have beat the simulated test. When he is facing what looks like his demise he is asked “How?”Kirk replied “I reprogrammed the simulation so that it was possible to rescue the ship”. He went on “I changed the condition of the test”. Kirk changed the rules of the game.
 
