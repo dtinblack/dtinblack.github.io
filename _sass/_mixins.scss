@@ -53,25 +53,25 @@
 /* Full-fat vertical rhythm */
 @mixin font-size($size) {
   font-size: 0px + $size;
-  font-size: 0rem + math.div($size, $doc-font-size); // added calc to overcome deprecation warning
-//  line-height: 0 + math.div( math.round( $doc-line-height / $size*10000 ) , 10000);  // problem with the math.div inside round()
-  line-height: math.div($doc-line-height, $size*10000)*10000;
+  font-size: 0rem + $size / $doc-font-size; // added calc to overcome deprecation warning
+  line-height: 0 + round($doc-line-height / $size*10000) / 10000;  // problem with the math.div inside round()
+//  line-height: math.div($doc-line-height, $size*10000)*10000;
   margin-bottom: 0px + $doc-line-height;
-  margin-bottom: 0rem + math.div($doc-line-height, $doc-font-size); // added calc to overcome deprecation warning
+  margin-bottom: 0rem + $doc-line-height / $doc-font-size; // added calc to overcome deprecation warning
 }
 
 /* Just the REMs */
 @mixin font-rem($size) {
   font-size: 0px + $size;
-  font-size: 0rem + math.div($size, $doc-font-size);  // added calc to overcome deprecation warning
+  font-size: 0rem + $size / $doc-font-size;  // added calc to overcome deprecation warning
 }
 
 /* Just font-size and line-height */
 @mixin font($size) {
   font-size: 0px + $size;
-  font-size: 0rem + math.div($size, $doc-font-size); // added calc to overcome deprecation warning
+  font-size: 0rem + $size / $doc-font-size; // added calc to overcome deprecation warning
 //  line-height: 0 + round($doc-line-height / $size*10000) / 10000; // added calc to overcome deprecation warning
-  line-height: 0 + math.round( math.div(math.div($doc-line-height, $size*10000 ), 10000)); // added calc to overcome deprecation warning
+  line-height: 0 + round($doc-line-height / $size*10000) / 10000; // added calc to overcome deprecation warning
 }
 
 /* Ellipsis */

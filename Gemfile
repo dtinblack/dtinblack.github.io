@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "json"
-gem "jekyll"  # may need to switch to a specific version
+gem "jekyll", "3.9.0" # may need to switch to a specific version
 gem "jekyll-sitemap"
 gem "jekyll-feed"
 gem "jekyll-paginate"
@@ -24,3 +24,4 @@ gem "bigdecimal"
 # to overcome an error reading a method
 
 gem "webrick", "1.9.2"
+gem "kramdown-parser-gfm"

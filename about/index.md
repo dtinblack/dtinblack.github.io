@@ -11,7 +11,7 @@ modified: 2021-08-26
 
 I enjoy writing, and when I manage to express some thoughts clearly, then I get a sense of achievement.
 
-A quote that is always at the back of my mind when writing a post was from an email discussion that I had with [David Pinnegar](https://www.ft.com/content/79c7c444-a788-11e8-926a-7342fe5e173f) of [Hammerwood Park](https://www.hammerwoodpark.co.uk/) where he wrote: "Wittgenstein's concept that the last barrier to humanity is the understanding of language." It is a reminder how language is used, by who, and for what reason. However, my hope is that when a reader understands the thoughts discussed in this blog they go on to develop their own!
+A quote that is always at the back of my mind when writing a post was from an email discussion with [David Pinnegar](https://www.ft.com/content/79c7c444-a788-11e8-926a-7342fe5e173f) of [Hammerwood Park](https://www.hammerwoodpark.co.uk/) where he wrote: "Wittgenstein's concept that the last barrier to humanity is the understanding of language." It is a reminder how language is used, by who, and for what reason. However, my hope is that when a reader understands the thoughts discussed in this blog they go on to develop their own!
 
 I try and keep the length of the blog to about a five minute read, or less, so that it can be read while sitting back and drinking a coffee.
 
