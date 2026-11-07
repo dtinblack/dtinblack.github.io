@@ -11,6 +11,8 @@ sitemap: false
  *
 */
 
+@use "sass:math";                    // added to remove reliance on '/''
+
 // Partials
 @import "variables";
 @import "mixins";
