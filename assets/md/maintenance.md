@@ -119,3 +119,7 @@ bundle update jekyll       #=> Update a specific gem
 bundle update
 
 ```
+
+<b>Solved Maintenance Problems</b>
+
+[Git push failure while pushing a large respository code](https://stackoverflow.com/questions/62753648/git-push-failure-while-pushing-a-large-respository-of-code). Also, see [How To Fix A Stuck GitHub Push](https://dev.to/dev_neil_a/how-to-clear-a-stuck-github-push-h57).
