@@ -98,6 +98,12 @@ See the following website for a [Dale-Cahll calculator](https://app.readable.com
 
 See the following for a website for a [Flesch Reading Ease Score calculator](https://goodcalculators.com/flesch-kincaid-calculator/)
 
+#### [Readability Scoring System](https://readabilityformulas.com/readability-scoring-system.php)
+
+### Capitals
+
+[What words to capitalise in a heading](https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case) - describes which words need to be capitals in headings.
+
 
 ### Grammar
 
@@ -106,6 +112,8 @@ To keep a post's text lean make sure that [adverbs](https://www.yourdictionary.c
 Ensure that most of the sentences [active](https://www.theschoolrun.com/what-are-active-and-passive-sentences) i.e. the subject of the sentence is performing the action. For example, Dickens’ use of passive sentences ( mainly dialogue and formal statements ) is less than 10%. Websites such as Grammarly have a [passive voice checker](https://www.grammarly.com/passive-voice-checker) but is not free. However, the [Hemmingway App](https://hemingwayapp.com/) is free.
 
 [A cat, a hat and a simple measure of gobbledygook: How readable is your writing?](https://bankunderground.co.uk/2016/10/04/a-cat-a-hat-and-a-simple-measure-of-gobbledygook-how-readable-is-your-writing/#more-2108) is a general article that uses some of the reading tests described above and applied to financial industry.
+
+[Grammar Checker](https://quillbot.com/grammar-check) - website that checks grammar.
 
 ### Punctuation
 
@@ -134,6 +142,29 @@ Website copywriting is the process of writing a website and typically covers: bl
 ### Fallacies to avoid
 
 If the post has a structured argument underpinning then there are several [fallacious arguments](https://www.merriam-webster.com/dictionary/fallacious) to be avoided. [How to Argue Against Common Fallacies](https://www.futurelearn.com/info/courses/logical-and-critical-thinking/0/steps/9131) gives over twenty examples of arguments that are fallacious.
+
+### Zombie Nouns
+
+Zombie nouns (formally known as nominalizations) are words formed by turning verbs or adjectives into nouns, usually by adding suffixes like -tion, -ment, -ity, or -ance (e.g., investigation from investigate, or decision from decide).
+
+[Website to check Zombie Nouns in text](https://writersdiet.com/writing-test/)
+
+### Other Items
+
+A collection of items that are either important or interesting but couldn't find a home in the above.
+
+[Sentence Structure: Learn the Rules for Every Sentence Type](https://www.grammarly.com/blog/sentence-structure/) - describes different types of clause.
+
+[The Chicago Principles](https://judicature.duke.edu/wp-content/uploads/sites/3/2024/03/Chicago-Principles-Vol-107-No-3.pdf) - well articulated principles of free speech.
+
+[Inverted pyramid(journailsm)](https://en.wikipedia.org/wiki/Inverted_pyramid_(journalism)) - The inverted pyramid is a metaphor used by journalists and other writers to illustrate how information should be prioritised and structured in prose.
+
+[Fermi Calculation](https://www.futurelearn.com/info/courses/critical-evaluation-in-data-science/0/steps/391509) - Named after the renowned physicist Enrico Fermi, this technique enables individuals to swiftly arrive at reasonable approximations for intricate problems by using orders of magnitude.
+
+[Six Steps Of Nonviolent Social Change](https://thekingcenter.org/about-tkc/the-king-philosophy/) - outlines and the steps required for an effective campiagns.
+
+[Letter from a Birmingham Jail (King, Jr.)](https://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html) - The "Letter from Birmingham Jail," written by Dr. Martin Luther King Jr. on April 16, 1963, is a foundational document of the American Civil Rights Movement. Composed on scraps of paper while he was imprisoned for leading nonviolent protests against segregation in Birmingham, Alabama, it remains one of the most powerful defenses of social justice and civil disobedience ever written.
+
 
 
 ### Inspiring Quotes
