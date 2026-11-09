@@ -23,9 +23,6 @@ Get the current version of the operating system. In this case it is Mac OS. The 
 Check the version of [Xcode Command Tools that are available](https://developer.apple.com/xcode/resources/) then check the installed version:
 
 ```
-/Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -version #=> Check Xcode version
-
-
 pkgutil --pkg-info=com.apple.pkg.CLTools_Executables  #=> Check installed version
 
 ```
@@ -97,6 +94,7 @@ To update the system then:
 gem update --system
 ```
 
+
 <b>[Bundler](https://rubygems.org/gems/bundler/versions/2.0.2)</b>
 
 Check the installed version of Bundler with the [latest version](https://rubygems.org/gems/bundler/versions/2.0.2):
@@ -120,6 +118,47 @@ bundle update
 
 ```
 
+To remove any gem not in the bundle:
+
+```
+
+bundle clean --force
+
+```
+
 <b>Solved Maintenance Problems</b>
 
 [Git push failure while pushing a large respository code](https://stackoverflow.com/questions/62753648/git-push-failure-while-pushing-a-large-respository-of-code). Also, see [How To Fix A Stuck GitHub Push](https://dev.to/dev_neil_a/how-to-clear-a-stuck-github-push-h57).
+
+[Ruby native extensions fail to build after macOS upgrade](https://stackoverflow.com/questions/80012616/ruby-native-extensions-fail-to-build-after-macos-upgrade):
+
+The errors were from the CLT version of clang. In general, there were conflicts between various development tools installed via Homebrew and those provided by the CLT. I therefore installed llvm using Homebrew:
+
+```
+brew install llvm
+
+```
+
+The environment for interactive shells was modified, e.g. ~/.zshrc, to make sure that everything was pointing to the Homebrew directories:
+
+```
+if [ -d "/opt/homebrew/opt/ruby/bin" ]; then
+  export PATH=/opt/homebrew/opt/ruby/bin:$PATH
+  export PATH=`gem environment gemdir`/bin:$PATH
+fi
+
+export PATH="/opt/homebrew/bin:$PATH"
+
+# LLVM installed by Homebrew
+
+export PATH="/opt/homebrew/opt/llvm/bin:$PATH"
+
+export LDFLAGS=-L/opt/homebrew/opt/llvm/lib
+
+export CPPFLAGS=-I/opt/homebrew/opt/llvm/include
+
+export CMAKE_PREFIX_PATH=/opt/homebrew/opt/llvm
+
+```
+
+After making these changes, the native extensions for the gems compiled successfully and were installed.
