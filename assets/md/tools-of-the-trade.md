@@ -165,8 +165,6 @@ A collection of items that are either important or interesting but couldn't find
 
 [Letter from a Birmingham Jail (King, Jr.)](https://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html) - The "Letter from Birmingham Jail," written by Dr. Martin Luther King Jr. on April 16, 1963, is a foundational document of the American Civil Rights Movement. Composed on scraps of paper while he was imprisoned for leading nonviolent protests against segregation in Birmingham, Alabama, it remains one of the most powerful defenses of social justice and civil disobedience ever written.
 
-
-
 ### Inspiring Quotes
 
 An old trawler man's saying “Fail we may, sail we must” - in other words it is better to write something and fail than never to have written anything.
