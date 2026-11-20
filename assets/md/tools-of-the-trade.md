@@ -173,6 +173,7 @@ An old trawler man's saying “Fail we may, sail we must” - in other words it 
 
 “The whole when finished is only the successful presentation of a theme” - Winston Churchill
 
+"We cannot solve our problems with the same thinking we used when we created them" - Albert Einstein
 
 "The heat of the sun on your face and the calculations performed to predict its path are like ‘a cross bearing’." - Winston Churchill
 
